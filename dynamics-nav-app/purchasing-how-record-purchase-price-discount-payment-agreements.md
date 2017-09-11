@@ -9,62 +9,62 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f99bb0aeef2c25048b0da3e0476ae2d612bff562
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: af5ba3a17412ba4c123c4d3cb337b8d5df36cace
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-#<a name="how-to-record-purchase-prices-and-discounts"></a>How to: Record Purchase Prices and Discounts
-The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.
+#<a name="how-to-record-purchase-prices-and-discounts"></a><span data-ttu-id="3be25-102">How to: Record Purchase Prices and Discounts</span><span class="sxs-lookup"><span data-stu-id="3be25-102">How to: Record Purchase Prices and Discounts</span></span>
+<span data-ttu-id="3be25-103">The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.</span><span class="sxs-lookup"><span data-stu-id="3be25-103">The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.</span></span>
 
-Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.
+<span data-ttu-id="3be25-104">Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span><span class="sxs-lookup"><span data-stu-id="3be25-104">Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-Concerning discounts, you can set up and use two types of purchase discounts:
+<span data-ttu-id="3be25-105">Concerning discounts, you can set up and use two types of purchase discounts:</span><span class="sxs-lookup"><span data-stu-id="3be25-105">Concerning discounts, you can set up and use two types of purchase discounts:</span></span>
 
-|Discount Type |Description |
+|<span data-ttu-id="3be25-106">Discount Type</span><span class="sxs-lookup"><span data-stu-id="3be25-106">Discount Type</span></span> |<span data-ttu-id="3be25-107">Description</span><span class="sxs-lookup"><span data-stu-id="3be25-107">Description</span></span> |
 |--------------|------------|
-|**Purchase Line Discount**|An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists. This works in the same way as for purchase prices.|
-|**Invoice Discount**|A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.|
+|<span data-ttu-id="3be25-108">**Purchase Line Discount**</span><span class="sxs-lookup"><span data-stu-id="3be25-108">**Purchase Line Discount**</span></span>|<span data-ttu-id="3be25-109">An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span><span class="sxs-lookup"><span data-stu-id="3be25-109">An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="3be25-110">This works in the same way as for purchase prices.</span><span class="sxs-lookup"><span data-stu-id="3be25-110">This works in the same way as for purchase prices.</span></span>|
+|<span data-ttu-id="3be25-111">**Invoice Discount**</span><span class="sxs-lookup"><span data-stu-id="3be25-111">**Invoice Discount**</span></span>|<span data-ttu-id="3be25-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.</span><span class="sxs-lookup"><span data-stu-id="3be25-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.</span></span>|
 
-Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined. For more information, see [How to: Register New Products](inventory-how-register-new-products.md).
+<span data-ttu-id="3be25-113">Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined.</span><span class="sxs-lookup"><span data-stu-id="3be25-113">Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined.</span></span> <span data-ttu-id="3be25-114">For more information, see [How to: Register New Products](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="3be25-114">For more information, see [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a>To set up a special purchase price for a vendor
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.
-2. Open the relevant vendor card, and then choose the **Prices** action.
+## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a><span data-ttu-id="3be25-115">To set up a special purchase price for a vendor</span><span class="sxs-lookup"><span data-stu-id="3be25-115">To set up a special purchase price for a vendor</span></span>
+1. <span data-ttu-id="3be25-116">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="3be25-116">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3be25-117">Open the relevant vendor card, and then choose the **Prices** action.</span><span class="sxs-lookup"><span data-stu-id="3be25-117">Open the relevant vendor card, and then choose the **Prices** action.</span></span>
 
-    The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.
-3. Fill in the fields on the line as necessary. Choose a field to read a short description of the field or link to more information.
-4. Fill a line for each combination for which the vendor grants you a purchase line discount.
+    <span data-ttu-id="3be25-118">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span><span class="sxs-lookup"><span data-stu-id="3be25-118">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="3be25-119">Fill in the fields on the line as necessary.</span><span class="sxs-lookup"><span data-stu-id="3be25-119">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="3be25-120">Choose a field to read a short description of the field or link to more information.</span><span class="sxs-lookup"><span data-stu-id="3be25-120">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="3be25-121">Fill a line for each combination for which the vendor grants you a purchase line discount.</span><span class="sxs-lookup"><span data-stu-id="3be25-121">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-a-line-discount-for-a-vendor"></a>To set up a line discount for a vendor
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.
-2. Open the relevant vendor card, and then choose the **Line Discounts** action.
+## <a name="to-set-up-a-line-discount-for-a-vendor"></a><span data-ttu-id="3be25-122">To set up a line discount for a vendor</span><span class="sxs-lookup"><span data-stu-id="3be25-122">To set up a line discount for a vendor</span></span>
+1. <span data-ttu-id="3be25-123">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="3be25-123">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3be25-124">Open the relevant vendor card, and then choose the **Line Discounts** action.</span><span class="sxs-lookup"><span data-stu-id="3be25-124">Open the relevant vendor card, and then choose the **Line Discounts** action.</span></span>
 
-    The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.
-3. Fill in the fields on the line as necessary. Choose a field to read a short description of the field or link to more information.
-4. Fill a line for each combination for which the vendor grants you a purchase line discount.
+    <span data-ttu-id="3be25-125">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span><span class="sxs-lookup"><span data-stu-id="3be25-125">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="3be25-126">Fill in the fields on the line as necessary.</span><span class="sxs-lookup"><span data-stu-id="3be25-126">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="3be25-127">Choose a field to read a short description of the field or link to more information.</span><span class="sxs-lookup"><span data-stu-id="3be25-127">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="3be25-128">Fill a line for each combination for which the vendor grants you a purchase line discount.</span><span class="sxs-lookup"><span data-stu-id="3be25-128">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a>To set up an invoice discount for a vendor
-When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.
+## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a><span data-ttu-id="3be25-129">To set up an invoice discount for a vendor</span><span class="sxs-lookup"><span data-stu-id="3be25-129">To set up an invoice discount for a vendor</span></span>
+<span data-ttu-id="3be25-130">When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.</span><span class="sxs-lookup"><span data-stu-id="3be25-130">When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.</span></span>
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.
-2. Open the vendor card for a vendor that will be eligible for invoice discounts.
-3. In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.
+1. <span data-ttu-id="3be25-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="3be25-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3be25-132">Open the vendor card for a vendor that will be eligible for invoice discounts.</span><span class="sxs-lookup"><span data-stu-id="3be25-132">Open the vendor card for a vendor that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="3be25-133">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</span><span class="sxs-lookup"><span data-stu-id="3be25-133">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</span></span>
 
-    **Note**: Invoice discount codes are represented by existing vendor cards. This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.
+    <span data-ttu-id="3be25-134">**Note**: Invoice discount codes are represented by existing vendor cards.</span><span class="sxs-lookup"><span data-stu-id="3be25-134">**Note**: Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="3be25-135">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span><span class="sxs-lookup"><span data-stu-id="3be25-135">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
 
-    Proceed to set up new the purchase invoice discount terms.
-4. In the **Vendor Card** window, choose the **Invoice Discounts** action. The **Vend. Invoice Discounts** window opens.
-5. In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to. Leave the field blank to set up invoice discount terms in CAD.
-6. In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.
-7. In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.
-8. Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.
+    <span data-ttu-id="3be25-136">Proceed to set up new the purchase invoice discount terms.</span><span class="sxs-lookup"><span data-stu-id="3be25-136">Proceed to set up new the purchase invoice discount terms.</span></span>
+4. <span data-ttu-id="3be25-137">In the **Vendor Card** window, choose the **Invoice Discounts** action.</span><span class="sxs-lookup"><span data-stu-id="3be25-137">In the **Vendor Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="3be25-138">The **Vend. Invoice Discounts** window opens.</span><span class="sxs-lookup"><span data-stu-id="3be25-138">The **Vend. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="3be25-139">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span><span class="sxs-lookup"><span data-stu-id="3be25-139">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="3be25-140">Leave the field blank to set up invoice discount terms in CAD.</span><span class="sxs-lookup"><span data-stu-id="3be25-140">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="3be25-141">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span><span class="sxs-lookup"><span data-stu-id="3be25-141">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="3be25-142">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span><span class="sxs-lookup"><span data-stu-id="3be25-142">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="3be25-143">Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.</span><span class="sxs-lookup"><span data-stu-id="3be25-143">Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.</span></span>
 
-The invoice discount is now set up and assigned to the vendor in question. When you select the vendor code in the **Invoice Disc. Code** field on other vendor cards, the same invoice discount is assigned to those vendor.
+<span data-ttu-id="3be25-144">The invoice discount is now set up and assigned to the vendor in question.</span><span class="sxs-lookup"><span data-stu-id="3be25-144">The invoice discount is now set up and assigned to the vendor in question.</span></span> <span data-ttu-id="3be25-145">When you select the vendor code in the **Invoice Disc. Code** field on other vendor cards, the same invoice discount is assigned to those vendor.</span><span class="sxs-lookup"><span data-stu-id="3be25-145">When you select the vendor code in the **Invoice Disc. Code** field on other vendor cards, the same invoice discount is assigned to those vendor.</span></span>
 
-## <a name="see-also"></a>See Also  
-[Set Up Purchasing](purchasing-setup-purchasing.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="3be25-146">See Also</span><span class="sxs-lookup"><span data-stu-id="3be25-146">See Also</span></span>  
+[<span data-ttu-id="3be25-147">Set Up Purchasing</span><span class="sxs-lookup"><span data-stu-id="3be25-147">Set Up Purchasing</span></span>](purchasing-setup-purchasing.md)  
+[<span data-ttu-id="3be25-148">Manage Purchasing</span><span class="sxs-lookup"><span data-stu-id="3be25-148">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

@@ -9,30 +9,30 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 48cd91958545b40b2ab0c5e48442fc874845af5b
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 2a2f1f2ec3ac5bdd935ec19c11d74e16bdee7686
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="set-up-or-change-the-chart-of-accounts"></a>Set Up or Change the Chart of Accounts
-The chart of accounts shows the ledger accounts that store your financial data. Dynamics NAV includes a standard chart of accounts that is ready to support your business.
-However, you can change the default accounts, and you can add new accounts.  
+# <a name="set-up-or-change-the-chart-of-accounts"></a><span data-ttu-id="f4f2b-102">Set Up or Change the Chart of Accounts</span><span class="sxs-lookup"><span data-stu-id="f4f2b-102">Set Up or Change the Chart of Accounts</span></span>
+<span data-ttu-id="f4f2b-103">The chart of accounts shows the ledger accounts that store your financial data.</span><span class="sxs-lookup"><span data-stu-id="f4f2b-103">The chart of accounts shows the ledger accounts that store your financial data.</span></span> <span data-ttu-id="f4f2b-104">Dynamics NAV includes a standard chart of accounts that is ready to support your business.</span><span class="sxs-lookup"><span data-stu-id="f4f2b-104">Dynamics NAV includes a standard chart of accounts that is ready to support your business.</span></span>
+<span data-ttu-id="f4f2b-105">However, you can change the default accounts, and you can add new accounts.</span><span class="sxs-lookup"><span data-stu-id="f4f2b-105">However, you can change the default accounts, and you can add new accounts.</span></span>  
 
-## <a name="adding-or-changing-accounts"></a>Adding or Changing Accounts
-From the chart of accounts, you can open each G/L account and add or change settings.
+## <a name="adding-or-changing-accounts"></a><span data-ttu-id="f4f2b-106">Adding or Changing Accounts</span><span class="sxs-lookup"><span data-stu-id="f4f2b-106">Adding or Changing Accounts</span></span>
+<span data-ttu-id="f4f2b-107">From the chart of accounts, you can open each G/L account and add or change settings.</span><span class="sxs-lookup"><span data-stu-id="f4f2b-107">From the chart of accounts, you can open each G/L account and add or change settings.</span></span>
 
-**Note**: You can delete a general ledger account. However, before you delete it, the following must be true:  
-- The balance on the account must be zero.  
-- The **Allow G/L Acc. Deletion Before** field must be set in the **General Ledger Setup** window, and the account must not have ledger entries on or after that date.  
-- If the **Check G/L Account Usage** field in the **General Ledger Setup** window is selected, then the account must not be used in any posting groups or posting setup.  
+<span data-ttu-id="f4f2b-108">**Note**: You can delete a general ledger account.</span><span class="sxs-lookup"><span data-stu-id="f4f2b-108">**Note**: You can delete a general ledger account.</span></span> <span data-ttu-id="f4f2b-109">However, before you delete it, the following must be true:</span><span class="sxs-lookup"><span data-stu-id="f4f2b-109">However, before you delete it, the following must be true:</span></span>  
+- <span data-ttu-id="f4f2b-110">The balance on the account must be zero.</span><span class="sxs-lookup"><span data-stu-id="f4f2b-110">The balance on the account must be zero.</span></span>  
+- <span data-ttu-id="f4f2b-111">The **Allow G/L Acc. Deletion Before** field must be set in the **General Ledger Setup** window, and the account must not have ledger entries on or after that date.</span><span class="sxs-lookup"><span data-stu-id="f4f2b-111">The **Allow G/L Acc. Deletion Before** field must be set in the **General Ledger Setup** window, and the account must not have ledger entries on or after that date.</span></span>  
+- <span data-ttu-id="f4f2b-112">If the **Check G/L Account Usage** field in the **General Ledger Setup** window is selected, then the account must not be used in any posting groups or posting setup.</span><span class="sxs-lookup"><span data-stu-id="f4f2b-112">If the **Check G/L Account Usage** field in the **General Ledger Setup** window is selected, then the account must not be used in any posting groups or posting setup.</span></span>  
 
-Dynamics NAV will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.  
+<span data-ttu-id="f4f2b-113">Dynamics NAV will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.</span><span class="sxs-lookup"><span data-stu-id="f4f2b-113">Dynamics NAV will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.</span></span>  
 
-##<a name="see-also"></a>See Also  
-[The General Ledger and the Chart of Accounts](finance-setup-general-ledger.md)  
-[Manage Bank Accounts](bank-manage-bank-accounts.md)  
-[Dimensions](finance-setup-dimensions.md)  
-[How to: Work With GIFI Codes in Canada](ca-finance-setup-work-GiFI-codes.md)
+##<a name="see-also"></a><span data-ttu-id="f4f2b-114">See Also</span><span class="sxs-lookup"><span data-stu-id="f4f2b-114">See Also</span></span>  
+[<span data-ttu-id="f4f2b-115">The General Ledger and the Chart of Accounts</span><span class="sxs-lookup"><span data-stu-id="f4f2b-115">The General Ledger and the Chart of Accounts</span></span>](finance-setup-general-ledger.md)  
+[<span data-ttu-id="f4f2b-116">Manage Bank Accounts</span><span class="sxs-lookup"><span data-stu-id="f4f2b-116">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="f4f2b-117">Dimensions</span><span class="sxs-lookup"><span data-stu-id="f4f2b-117">Dimensions</span></span>](finance-setup-dimensions.md)  
+[<span data-ttu-id="f4f2b-118">How to: Work With GIFI Codes in Canada</span><span class="sxs-lookup"><span data-stu-id="f4f2b-118">How to: Work With GIFI Codes in Canada</span></span>](ca-finance-setup-work-GiFI-codes.md)
 

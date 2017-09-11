@@ -9,70 +9,70 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f657509fc2195674db81f47bc5ae31b7ba1aa40e
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 154fcaef89af0f6a131f4bcf0e9cf9a3f85f5903
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-make-predictive-cash-flow-forecasts"></a>How to: Make predictive cash flow forecasts
-Cash flow forecasts help you ensure that your company has enough cash available to meet its financial obligations, and are useful for identifying adjustments. For example, if you have a cash surplus you might pay off some debts, and you'll appreciate an early warning if times look tight. 
+# <a name="how-to-make-predictive-cash-flow-forecasts"></a><span data-ttu-id="c2ff9-102">How to: Make predictive cash flow forecasts</span><span class="sxs-lookup"><span data-stu-id="c2ff9-102">How to: Make predictive cash flow forecasts</span></span>
+<span data-ttu-id="c2ff9-103">Cash flow forecasts help you ensure that your company has enough cash available to meet its financial obligations, and are useful for identifying adjustments.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-103">Cash flow forecasts help you ensure that your company has enough cash available to meet its financial obligations, and are useful for identifying adjustments.</span></span> <span data-ttu-id="c2ff9-104">For example, if you have a cash surplus you might pay off some debts, and you'll appreciate an early warning if times look tight.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-104">For example, if you have a cash surplus you might pay off some debts, and you'll appreciate an early warning if times look tight.</span></span> 
 
-Cortana Intelligence uses the Azure Machine Learning service to make reliable, predictive forecasts. For example, forecasts from Cortana Intelligence can help you predict, and avoid, cash deficits. The service combines historical information with current postings for payables and receivables, including postings with due dates that are in the future. These include:
-* Purchase orders
-* Sales orders
-* Posted sales and purchase invoices
-* Credit memos
+<span data-ttu-id="c2ff9-105">Cortana Intelligence uses the Azure Machine Learning service to make reliable, predictive forecasts.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-105">Cortana Intelligence uses the Azure Machine Learning service to make reliable, predictive forecasts.</span></span> <span data-ttu-id="c2ff9-106">For example, forecasts from Cortana Intelligence can help you predict, and avoid, cash deficits.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-106">For example, forecasts from Cortana Intelligence can help you predict, and avoid, cash deficits.</span></span> <span data-ttu-id="c2ff9-107">The service combines historical information with current postings for payables and receivables, including postings with due dates that are in the future.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-107">The service combines historical information with current postings for payables and receivables, including postings with due dates that are in the future.</span></span> <span data-ttu-id="c2ff9-108">These include:</span><span class="sxs-lookup"><span data-stu-id="c2ff9-108">These include:</span></span>
+* <span data-ttu-id="c2ff9-109">Purchase orders</span><span class="sxs-lookup"><span data-stu-id="c2ff9-109">Purchase orders</span></span>
+* <span data-ttu-id="c2ff9-110">Sales orders</span><span class="sxs-lookup"><span data-stu-id="c2ff9-110">Sales orders</span></span>
+* <span data-ttu-id="c2ff9-111">Posted sales and purchase invoices</span><span class="sxs-lookup"><span data-stu-id="c2ff9-111">Posted sales and purchase invoices</span></span>
+* <span data-ttu-id="c2ff9-112">Credit memos</span><span class="sxs-lookup"><span data-stu-id="c2ff9-112">Credit memos</span></span>
 
-## <a name="before-you-start"></a>Before you start  
-There are a few things to do before you can use Cortana Intelligence for cash flow forecasts: 
-* If you aren't already using cash flow forecasts, you will need to set up:
-    * One or more setups in **Cash Flow Setups**. 
-    * Accounts for payables, receivables, sales orders, and purchase orders. Cortana Intelligence uses the postings in these accounts.
-    * One or more cash flow forecasts in **Cash Flow Forecast**. Be sure to include purchase orders, sales orders, receivables, and payables as sources.  
-    For more information, search for _cash flow forecasts_ in the Help system. 
-* Know the API URL and API key for the predictive web service to use.  
-    You can use Azure Machine Learning or another service, if you have one. Alternatively, a public model named _Forecasting model for Microsoft Dynamics NAV_ is available online in the Cortana Intelligence Gallery. To use the model, follow these steps:
+## <a name="before-you-start"></a><span data-ttu-id="c2ff9-113">Before you start</span><span class="sxs-lookup"><span data-stu-id="c2ff9-113">Before you start</span></span>  
+<span data-ttu-id="c2ff9-114">There are a few things to do before you can use Cortana Intelligence for cash flow forecasts:</span><span class="sxs-lookup"><span data-stu-id="c2ff9-114">There are a few things to do before you can use Cortana Intelligence for cash flow forecasts:</span></span> 
+* <span data-ttu-id="c2ff9-115">If you aren't already using cash flow forecasts, you will need to set up:</span><span class="sxs-lookup"><span data-stu-id="c2ff9-115">If you aren't already using cash flow forecasts, you will need to set up:</span></span>
+    * <span data-ttu-id="c2ff9-116">One or more setups in **Cash Flow Setups**.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-116">One or more setups in **Cash Flow Setups**.</span></span> 
+    * <span data-ttu-id="c2ff9-117">Accounts for payables, receivables, sales orders, and purchase orders.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-117">Accounts for payables, receivables, sales orders, and purchase orders.</span></span> <span data-ttu-id="c2ff9-118">Cortana Intelligence uses the postings in these accounts.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-118">Cortana Intelligence uses the postings in these accounts.</span></span>
+    * <span data-ttu-id="c2ff9-119">One or more cash flow forecasts in **Cash Flow Forecast**.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-119">One or more cash flow forecasts in **Cash Flow Forecast**.</span></span> <span data-ttu-id="c2ff9-120">Be sure to include purchase orders, sales orders, receivables, and payables as sources.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-120">Be sure to include purchase orders, sales orders, receivables, and payables as sources.</span></span>  
+    <span data-ttu-id="c2ff9-121">For more information, search for _cash flow forecasts_ in the Help system.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-121">For more information, search for _cash flow forecasts_ in the Help system.</span></span> 
+* <span data-ttu-id="c2ff9-122">Know the API URL and API key for the predictive web service to use.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-122">Know the API URL and API key for the predictive web service to use.</span></span>  
+    <span data-ttu-id="c2ff9-123">You can use Azure Machine Learning or another service, if you have one.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-123">You can use Azure Machine Learning or another service, if you have one.</span></span> <span data-ttu-id="c2ff9-124">Alternatively, a public model named _Forecasting model for Microsoft Dynamics NAV_ is available online in the Cortana Intelligence Gallery.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-124">Alternatively, a public model named _Forecasting model for Microsoft Dynamics NAV_ is available online in the Cortana Intelligence Gallery.</span></span> <span data-ttu-id="c2ff9-125">To use the model, follow these steps:</span><span class="sxs-lookup"><span data-stu-id="c2ff9-125">To use the model, follow these steps:</span></span>
 
-    1. In a browser, go to the [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)
-    2. Search for _Forecasting Model for Microsoft Dynamics NAV_, and then open the model in Azure Machine Learning Studio.
-    3. Use your Microsoft account to sign up for a workspace, and then copy the model.
-    4. Run the model, and publish it as a web service.
-    5. Make a note of the API URL and API key. You will use these credentials when you set up Cortana Intelligence in Microsoft Dynamics NAV.  
+    1. <span data-ttu-id="c2ff9-126">In a browser, go to the [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)</span><span class="sxs-lookup"><span data-stu-id="c2ff9-126">In a browser, go to the [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)</span></span>
+    2. <span data-ttu-id="c2ff9-127">Search for _Forecasting Model for Microsoft Dynamics NAV_, and then open the model in Azure Machine Learning Studio.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-127">Search for _Forecasting Model for Microsoft Dynamics NAV_, and then open the model in Azure Machine Learning Studio.</span></span>
+    3. <span data-ttu-id="c2ff9-128">Use your Microsoft account to sign up for a workspace, and then copy the model.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-128">Use your Microsoft account to sign up for a workspace, and then copy the model.</span></span>
+    4. <span data-ttu-id="c2ff9-129">Run the model, and publish it as a web service.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-129">Run the model, and publish it as a web service.</span></span>
+    5. <span data-ttu-id="c2ff9-130">Make a note of the API URL and API key.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-130">Make a note of the API URL and API key.</span></span> <span data-ttu-id="c2ff9-131">You will use these credentials when you set up Cortana Intelligence in Microsoft Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-131">You will use these credentials when you set up Cortana Intelligence in Microsoft Dynamics NAV.</span></span>  
 
-* Consider how often to calculate the forecast. The Azure Machine Learning service has limitations regarding use. For example, if you have a lot of items, it might be better to calculate less frequently. 
-* Be assigned to the Accountant role centre. 
+* <span data-ttu-id="c2ff9-132">Consider how often to calculate the forecast.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-132">Consider how often to calculate the forecast.</span></span> <span data-ttu-id="c2ff9-133">The Azure Machine Learning service has limitations regarding use.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-133">The Azure Machine Learning service has limitations regarding use.</span></span> <span data-ttu-id="c2ff9-134">For example, if you have a lot of items, it might be better to calculate less frequently.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-134">For example, if you have a lot of items, it might be better to calculate less frequently.</span></span> 
+* <span data-ttu-id="c2ff9-135">Be assigned to the Accountant role centre.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-135">Be assigned to the Accountant role center.</span></span> 
 
-## <a name="set-up-cortana-intelligence"></a>Set up Cortana Intelligence
-You can use an assisted setup guide to set up cash flow forecasts. The guide helps you specify things like how often to update the forecast, the accounts to base it on, information about when you pay taxes, and whether to use Cortana Intelligence.  
+## <a name="set-up-cortana-intelligence"></a><span data-ttu-id="c2ff9-136">Set up Cortana Intelligence</span><span class="sxs-lookup"><span data-stu-id="c2ff9-136">Set up Cortana Intelligence</span></span>
+<span data-ttu-id="c2ff9-137">You can use an assisted setup guide to set up cash flow forecasts.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-137">You can use an assisted setup guide to set up cash flow forecasts.</span></span> <span data-ttu-id="c2ff9-138">The guide helps you specify things like how often to update the forecast, the accounts to base it on, information about when you pay taxes, and whether to use Cortana Intelligence.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-138">The guide helps you specify things like how often to update the forecast, the accounts to base it on, information about when you pay taxes, and whether to use Cortana Intelligence.</span></span>  
 
-If you are already using cash flow forecasts and just want to turn on Cortana Intelligence, you can also use a manual process. When you sign in, a notification displays in a blue bar at the top of the workspace. To set up Cortana Intelligence right away, choose **Yes please**. The message displays only once. If you close it, use the manual process to set up Cortana Intelligence.  
+<span data-ttu-id="c2ff9-139">If you are already using cash flow forecasts and just want to turn on Cortana Intelligence, you can also use a manual process.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-139">If you are already using cash flow forecasts and just want to turn on Cortana Intelligence, you can also use a manual process.</span></span> <span data-ttu-id="c2ff9-140">When you sign in, a notification displays in a blue bar at the top of the workspace.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-140">When you sign in, a notification displays in a blue bar at the top of the workspace.</span></span> <span data-ttu-id="c2ff9-141">To set up Cortana Intelligence right away, choose **Yes please**.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-141">To set up Cortana Intelligence right away, choose **Yes please**.</span></span> <span data-ttu-id="c2ff9-142">The message displays only once.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-142">The message displays only once.</span></span> <span data-ttu-id="c2ff9-143">If you close it, use the manual process to set up Cortana Intelligence.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-143">If you close it, use the manual process to set up Cortana Intelligence.</span></span>  
 
-**Tip:** Consider the length of the periods that the service will use in its calculations. The more data you provide, the more accurate the predictions will be. Also, watch out for large variances in periods. They will also impact predictions. If Cortana Intelligence does not find enough data, or the data varies a lot, the service will not make a prediction. 
+<span data-ttu-id="c2ff9-144">**Tip:** Consider the length of the periods that the service will use in its calculations.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-144">**Tip:** Consider the length of the periods that the service will use in its calculations.</span></span> <span data-ttu-id="c2ff9-145">The more data you provide, the more accurate the predictions will be.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-145">The more data you provide, the more accurate the predictions will be.</span></span> <span data-ttu-id="c2ff9-146">Also, watch out for large variances in periods.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-146">Also, watch out for large variances in periods.</span></span> <span data-ttu-id="c2ff9-147">They will also impact predictions.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-147">They will also impact predictions.</span></span> <span data-ttu-id="c2ff9-148">If Cortana Intelligence does not find enough data, or the data varies a lot, the service will not make a prediction.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-148">If Cortana Intelligence does not find enough data, or the data varies a lot, the service will not make a prediction.</span></span> 
 
-To use the assisted setup guide:
-1. In the Accountant role center, under the **Cash Flow Forecast** chart, choose the **Open Assisted Setup** action.
-2. Fill in the fields as necessary in each step of the guide.
+<span data-ttu-id="c2ff9-149">To use the assisted setup guide:</span><span class="sxs-lookup"><span data-stu-id="c2ff9-149">To use the assisted setup guide:</span></span>
+1. <span data-ttu-id="c2ff9-150">In the Accountant role center, under the **Cash Flow Forecast** chart, choose the **Open Assisted Setup** action.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-150">In the Accountant role center, under the **Cash Flow Forecast** chart, choose the **Open Assisted Setup** action.</span></span>
+2. <span data-ttu-id="c2ff9-151">Fill in the fields as necessary in each step of the guide.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-151">Fill in the fields as necessary in each step of the guide.</span></span>
 
-To use a manual process:
-1. Search for **Cash Flow Setup**, and then choose the related link.
-2. Expand the **Cortana Intelligence** FastTab, and then fill in the fields as necessary.
+<span data-ttu-id="c2ff9-152">To use a manual process:</span><span class="sxs-lookup"><span data-stu-id="c2ff9-152">To use a manual process:</span></span>
+1. <span data-ttu-id="c2ff9-153">Search for **Cash Flow Setup**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-153">Search for **Cash Flow Setup**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c2ff9-154">Expand the **Cortana Intelligence** FastTab, and then fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-154">Expand the **Cortana Intelligence** FastTab, and then fill in the fields as necessary.</span></span>
 
-## <a name="turn-on-cortana-intelligence-for-cash-flow-forecasts"></a>Turn on Cortana Intelligence for cash flow forecasts
-1. Search for **Cash Flow Forecasts**, and then choose the related link.
-2. Choose the **Cash Flow Worksheet** action.
-3. On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.  
-4. Under **Source Types to Include**, choose the **Cortana Intelligence Forecast** check box.
+## <a name="turn-on-cortana-intelligence-for-cash-flow-forecasts"></a><span data-ttu-id="c2ff9-155">Turn on Cortana Intelligence for cash flow forecasts</span><span class="sxs-lookup"><span data-stu-id="c2ff9-155">Turn on Cortana Intelligence for cash flow forecasts</span></span>
+1. <span data-ttu-id="c2ff9-156">Search for **Cash Flow Forecasts**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-156">Search for **Cash Flow Forecasts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c2ff9-157">Choose the **Cash Flow Worksheet** action.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-157">Choose the **Cash Flow Worksheet** action.</span></span>
+3. <span data-ttu-id="c2ff9-158">On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-158">On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.</span></span>  
+4. <span data-ttu-id="c2ff9-159">Under **Source Types to Include**, choose the **Cortana Intelligence Forecast** check box.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-159">Under **Source Types to Include**, choose the **Cortana Intelligence Forecast** check box.</span></span>
 
-## <a name="investigate-a-cash-flow-forecast"></a>Investigate a cash flow forecast
-To take a good look at the data behind the forecast, including the variance, choose the **Cortana Intelligence** column. The first row in the table displays the variance. The other rows are arranged by source document.  
+## <a name="investigate-a-cash-flow-forecast"></a><span data-ttu-id="c2ff9-160">Investigate a cash flow forecast</span><span class="sxs-lookup"><span data-stu-id="c2ff9-160">Investigate a cash flow forecast</span></span>
+<span data-ttu-id="c2ff9-161">To take a good look at the data behind the forecast, including the variance, choose the **Cortana Intelligence** column.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-161">To take a good look at the data behind the forecast, including the variance, choose the **Cortana Intelligence** column.</span></span> <span data-ttu-id="c2ff9-162">The first row in the table displays the variance.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-162">The first row in the table displays the variance.</span></span> <span data-ttu-id="c2ff9-163">The other rows are arranged by source document.</span><span class="sxs-lookup"><span data-stu-id="c2ff9-163">The other rows are arranged by source document.</span></span>  
 
-For example, you can see how the forecast:    
-* Handles confirmed sales and purchases 
-* Subtracts payables and adds receivables
-* Skips duplicate sales orders and purchase orders
+<span data-ttu-id="c2ff9-164">For example, you can see how the forecast:</span><span class="sxs-lookup"><span data-stu-id="c2ff9-164">For example, you can see how the forecast:</span></span>    
+* <span data-ttu-id="c2ff9-165">Handles confirmed sales and purchases</span><span class="sxs-lookup"><span data-stu-id="c2ff9-165">Handles confirmed sales and purchases</span></span> 
+* <span data-ttu-id="c2ff9-166">Subtracts payables and adds receivables</span><span class="sxs-lookup"><span data-stu-id="c2ff9-166">Subtracts payables and adds receivables</span></span>
+* <span data-ttu-id="c2ff9-167">Skips duplicate sales orders and purchase orders</span><span class="sxs-lookup"><span data-stu-id="c2ff9-167">Skips duplicate sales orders and purchase orders</span></span>
 
-## <a name="see-also"></a>See Also  
-[Work With Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="c2ff9-168">See Also</span><span class="sxs-lookup"><span data-stu-id="c2ff9-168">See Also</span></span>  
+[<span data-ttu-id="c2ff9-169">Work With Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="c2ff9-169">Work With Dynamics NAV</span></span>](ui-work-product.md)
 

@@ -16,23 +16,23 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="set-up-purchasing"></a>Set Up Purchasing
-Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.
+# <a name="set-up-purchasing"></a><span data-ttu-id="372fb-102">Set Up Purchasing</span><span class="sxs-lookup"><span data-stu-id="372fb-102">Set Up Purchasing</span></span>
+<span data-ttu-id="372fb-103">Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.</span><span class="sxs-lookup"><span data-stu-id="372fb-103">Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.</span></span>
 
-First, you must define the general setup, such as which purchase documents are required and how their values are posted. This general setup is typically performed once during the initial implementation.
+<span data-ttu-id="372fb-104">First, you must define the general setup, such as which purchase documents are required and how their values are posted.</span><span class="sxs-lookup"><span data-stu-id="372fb-104">First, you must define the general setup, such as which purchase documents are required and how their values are posted.</span></span> <span data-ttu-id="372fb-105">This general setup is typically performed once during the initial implementation.</span><span class="sxs-lookup"><span data-stu-id="372fb-105">This general setup is typically performed once during the initial implementation.</span></span>
 
-A separate series of tasks related to creating vendor master data is to record the vendors' discount and price agreements in windows linked to the vendor cards.
+<span data-ttu-id="372fb-106">A separate series of tasks related to creating vendor master data is to record the vendors' discount and price agreements in windows linked to the vendor cards.</span><span class="sxs-lookup"><span data-stu-id="372fb-106">A separate series of tasks related to creating vendor master data is to record the vendors' discount and price agreements in windows linked to the vendor cards.</span></span>
 
-The periodic activity of creating vendor cards for new vendors is covered in the Manage Purchasing section. For more information, see [How to: Register New Vendors](purchasing-how-register-new-vendors.md).
+<span data-ttu-id="372fb-107">The periodic activity of creating vendor cards for new vendors is covered in the Manage Purchasing section.</span><span class="sxs-lookup"><span data-stu-id="372fb-107">The periodic activity of creating vendor cards for new vendors is covered in the Manage Purchasing section.</span></span> <span data-ttu-id="372fb-108">For more information, see [How to: Register New Vendors](purchasing-how-register-new-vendors.md).</span><span class="sxs-lookup"><span data-stu-id="372fb-108">For more information, see [How to: Register New Vendors](purchasing-how-register-new-vendors.md).</span></span>
 
-Finance-related purchase setup, such as payment methods and currencies, are covered in the Finance Setup section. For more information, see [Set Up Finance](finance-setup-setup-finance-setup.md).
+<span data-ttu-id="372fb-109">Finance-related purchase setup, such as payment methods and currencies, are covered in the Finance Setup section.</span><span class="sxs-lookup"><span data-stu-id="372fb-109">Finance-related purchase setup, such as payment methods and currencies, are covered in the Finance Setup section.</span></span> <span data-ttu-id="372fb-110">For more information, see [Set Up Finance](finance-setup-setup-finance-setup.md).</span><span class="sxs-lookup"><span data-stu-id="372fb-110">For more information, see [Set Up Finance](finance-setup-setup-finance-setup.md).</span></span>
 
-|To |See |
+|<span data-ttu-id="372fb-111">To</span><span class="sxs-lookup"><span data-stu-id="372fb-111">To</span></span> |<span data-ttu-id="372fb-112">See</span><span class="sxs-lookup"><span data-stu-id="372fb-112">See</span></span> |
 |---|----|
-|Enter the different discounts and alternative prices that vendors grant you depending on item, quantities, and/or date.|[Record Purchase Price, Discount, and Payment Agreements](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
-|Prioritize vendors.|[How to: Prioritize Vendors](purchasing-how-prioritize-vendors.md)|
-|Set up purchasers.|[How to: Set Up Purchasers](purchasing-how-setup-purchasers.md)|
+|<span data-ttu-id="372fb-113">Enter the different discounts and alternative prices that vendors grant you depending on item, quantities, and/or date.</span><span class="sxs-lookup"><span data-stu-id="372fb-113">Enter the different discounts and alternative prices that vendors grant you depending on item, quantities, and/or date.</span></span>|[<span data-ttu-id="372fb-114">Record Purchase Price, Discount, and Payment Agreements</span><span class="sxs-lookup"><span data-stu-id="372fb-114">Record Purchase Price, Discount, and Payment Agreements</span></span>](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
+|<span data-ttu-id="372fb-115">Prioritize vendors.</span><span class="sxs-lookup"><span data-stu-id="372fb-115">Prioritize vendors.</span></span>|[<span data-ttu-id="372fb-116">How to: Prioritize Vendors</span><span class="sxs-lookup"><span data-stu-id="372fb-116">How to: Prioritize Vendors</span></span>](purchasing-how-prioritize-vendors.md)|
+|<span data-ttu-id="372fb-117">Set up purchasers.</span><span class="sxs-lookup"><span data-stu-id="372fb-117">Set up purchasers.</span></span>|[<span data-ttu-id="372fb-118">How to: Set Up Purchasers</span><span class="sxs-lookup"><span data-stu-id="372fb-118">How to: Set Up Purchasers</span></span>](purchasing-how-setup-purchasers.md)|
 
-## <a name="see-also"></a>See Also
-[Manage Purchasing](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="372fb-119">See Also</span><span class="sxs-lookup"><span data-stu-id="372fb-119">See Also</span></span>
+[<span data-ttu-id="372fb-120">Manage Purchasing</span><span class="sxs-lookup"><span data-stu-id="372fb-120">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

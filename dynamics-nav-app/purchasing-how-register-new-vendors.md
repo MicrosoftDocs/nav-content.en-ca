@@ -9,44 +9,44 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: bfd82d43cb42a9447292b9f4ef3cc49ca2ce4f53
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: be40ca24dce8d1f8c010290b8f1ee7813d5b8139
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-register-new-vendors"></a>How to: Register New Vendors
-Vendors provide the products that you sell. Each vendor that you purchase from must be registered as a vendor card.
+# <a name="how-to-register-new-vendors"></a><span data-ttu-id="3f596-102">How to: Register New Vendors</span><span class="sxs-lookup"><span data-stu-id="3f596-102">How to: Register New Vendors</span></span>
+<span data-ttu-id="3f596-103">Vendors provide the products that you sell.</span><span class="sxs-lookup"><span data-stu-id="3f596-103">Vendors provide the products that you sell.</span></span> <span data-ttu-id="3f596-104">Each vendor that you purchase from must be registered as a vendor card.</span><span class="sxs-lookup"><span data-stu-id="3f596-104">Each vendor that you purchase from must be registered as a vendor card.</span></span>
 
-Before you can register new vendors, you must set up various purchase codes that you can select from when you fill vendor cards. When all of the required master data is created, you can perform additional configuration of the vendor, such as prioritize the vendor for payment purposes and list items that the vendor and other vendors can supply. Another group of setup tasks for vendors is to record your agreements concerning discounts, prices, and payment methods. For more information, see [Set Up Purchasing](purchasing-setup-purchasing.md).
+<span data-ttu-id="3f596-105">Before you can register new vendors, you must set up various purchase codes that you can select from when you fill vendor cards.</span><span class="sxs-lookup"><span data-stu-id="3f596-105">Before you can register new vendors, you must set up various purchase codes that you can select from when you fill vendor cards.</span></span> <span data-ttu-id="3f596-106">When all of the required master data is created, you can perform additional configuration of the vendor, such as prioritize the vendor for payment purposes and list items that the vendor and other vendors can supply.</span><span class="sxs-lookup"><span data-stu-id="3f596-106">When all of the required master data is created, you can perform additional configuration of the vendor, such as prioritize the vendor for payment purposes and list items that the vendor and other vendors can supply.</span></span> <span data-ttu-id="3f596-107">Another group of setup tasks for vendors is to record your agreements concerning discounts, prices, and payment methods.</span><span class="sxs-lookup"><span data-stu-id="3f596-107">Another group of setup tasks for vendors is to record your agreements concerning discounts, prices, and payment methods.</span></span> <span data-ttu-id="3f596-108">For more information, see [Set Up Purchasing](purchasing-setup-purchasing.md).</span><span class="sxs-lookup"><span data-stu-id="3f596-108">For more information, see [Set Up Purchasing](purchasing-setup-purchasing.md).</span></span>
 
-Vendor cards hold the information that is required to buy products from the vendor. For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md) and [How to: Register new Products](inventory-how-register-new-products.md).
+<span data-ttu-id="3f596-109">Vendor cards hold the information that is required to buy products from the vendor.</span><span class="sxs-lookup"><span data-stu-id="3f596-109">Vendor cards hold the information that is required to buy products from the vendor.</span></span> <span data-ttu-id="3f596-110">For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md) and [How to: Register new Products](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="3f596-110">For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md) and [How to: Register new Products](inventory-how-register-new-products.md).</span></span>
 
-**Note**: If vendor templates exist for different vendor types, then a window appears when you create a new vendor card from where you can select an appropriate template. If only one vendor template exists, then new vendor cards always use that template.
+<span data-ttu-id="3f596-111">**Note**: If vendor templates exist for different vendor types, then a window appears when you create a new vendor card from where you can select an appropriate template.</span><span class="sxs-lookup"><span data-stu-id="3f596-111">**Note**: If vendor templates exist for different vendor types, then a window appears when you create a new vendor card from where you can select an appropriate template.</span></span> <span data-ttu-id="3f596-112">If only one vendor template exists, then new vendor cards always use that template.</span><span class="sxs-lookup"><span data-stu-id="3f596-112">If only one vendor template exists, then new vendor cards always use that template.</span></span>
 
-## <a name="to-create-a-new-vendor-card"></a>To create a new vendor card
-1. On the Home page, choose **Vendors** to open the list of existing vendors.  
-2. In the **Vendors** window, Choose **New**.
+## <a name="to-create-a-new-vendor-card"></a><span data-ttu-id="3f596-113">To create a new vendor card</span><span class="sxs-lookup"><span data-stu-id="3f596-113">To create a new vendor card</span></span>
+1. <span data-ttu-id="3f596-114">On the Home page, choose **Vendors** to open the list of existing vendors.</span><span class="sxs-lookup"><span data-stu-id="3f596-114">On the Home page, choose **Vendors** to open the list of existing vendors.</span></span>  
+2. <span data-ttu-id="3f596-115">In the **Vendors** window, Choose **New**.</span><span class="sxs-lookup"><span data-stu-id="3f596-115">In the **Vendors** window, Choose **New**.</span></span>
 
-    If more than one vendor template exists, then a window opens from which you can select a vendor template. In that case, follow the next two steps.
-3. In the **Select a template for a new vendor** window, choose the template that you want to use for the new vendor card.
-4. Choose the **OK** button. A new vendor card opens with some fields filled with information from the template.
-5. Proceed to fill or change fields on the vendor card as necessary. Choose a field to read a short description of the field or link to more information.
+    <span data-ttu-id="3f596-116">If more than one vendor template exists, then a window opens from which you can select a vendor template.</span><span class="sxs-lookup"><span data-stu-id="3f596-116">If more than one vendor template exists, then a window opens from which you can select a vendor template.</span></span> <span data-ttu-id="3f596-117">In that case, follow the next two steps.</span><span class="sxs-lookup"><span data-stu-id="3f596-117">In that case, follow the next two steps.</span></span>
+3. <span data-ttu-id="3f596-118">In the **Select a template for a new vendor** window, choose the template that you want to use for the new vendor card.</span><span class="sxs-lookup"><span data-stu-id="3f596-118">In the **Select a template for a new vendor** window, choose the template that you want to use for the new vendor card.</span></span>
+4. <span data-ttu-id="3f596-119">Choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="3f596-119">Choose the **OK** button.</span></span> <span data-ttu-id="3f596-120">A new vendor card opens with some fields filled with information from the template.</span><span class="sxs-lookup"><span data-stu-id="3f596-120">A new vendor card opens with some fields filled with information from the template.</span></span>
+5. <span data-ttu-id="3f596-121">Proceed to fill or change fields on the vendor card as necessary.</span><span class="sxs-lookup"><span data-stu-id="3f596-121">Proceed to fill or change fields on the vendor card as necessary.</span></span> <span data-ttu-id="3f596-122">Choose a field to read a short description of the field or link to more information.</span><span class="sxs-lookup"><span data-stu-id="3f596-122">Choose a field to read a short description of the field or link to more information.</span></span>
 
-The vendor is now registered, and the vendor card is ready to be used on purchase documents.
+<span data-ttu-id="3f596-123">The vendor is now registered, and the vendor card is ready to be used on purchase documents.</span><span class="sxs-lookup"><span data-stu-id="3f596-123">The vendor is now registered, and the vendor card is ready to be used on purchase documents.</span></span>
 
-If you want to use this vendor card as a template when you create new vendor cards, you can save it as a vendor template. For more information, see the following section.
+<span data-ttu-id="3f596-124">If you want to use this vendor card as a template when you create new vendor cards, you can save it as a vendor template.</span><span class="sxs-lookup"><span data-stu-id="3f596-124">If you want to use this vendor card as a template when you create new vendor cards, you can save it as a vendor template.</span></span> <span data-ttu-id="3f596-125">For more information, see the following section.</span><span class="sxs-lookup"><span data-stu-id="3f596-125">For more information, see the following section.</span></span>
 
-## <a name="to-save-the-vendor-card-as-a-template"></a>To save the vendor card as a template
-1. In the **Vendor Card** window, choose the **Save as Template** action. The **Vendor Template** window opens showing the vendor card as a template.
-2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
-3. To reuse dimensions in templates, choose the **Dimensions** action. The **Dimension Templates** window opens showing any dimension codes that are set up for the vendor.
-4. Edit or enter dimension codes that will apply to new vendor cards created by using the template.
-5. When you have completed the new vendor template, choose the **OK** button. The vendor template is added to the list of vendor templates, so that you can use it to create new vendor cards.
+## <a name="to-save-the-vendor-card-as-a-template"></a><span data-ttu-id="3f596-126">To save the vendor card as a template</span><span class="sxs-lookup"><span data-stu-id="3f596-126">To save the vendor card as a template</span></span>
+1. <span data-ttu-id="3f596-127">In the **Vendor Card** window, choose the **Save as Template** action.</span><span class="sxs-lookup"><span data-stu-id="3f596-127">In the **Vendor Card** window, choose the **Save as Template** action.</span></span> <span data-ttu-id="3f596-128">The **Vendor Template** window opens showing the vendor card as a template.</span><span class="sxs-lookup"><span data-stu-id="3f596-128">The **Vendor Template** window opens showing the vendor card as a template.</span></span>
+2. <span data-ttu-id="3f596-129">Fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="3f596-129">Fill in the fields as necessary.</span></span> <span data-ttu-id="3f596-130">Choose a field to read a short description of the field or link to more information.</span><span class="sxs-lookup"><span data-stu-id="3f596-130">Choose a field to read a short description of the field or link to more information.</span></span>
+3. <span data-ttu-id="3f596-131">To reuse dimensions in templates, choose the **Dimensions** action.</span><span class="sxs-lookup"><span data-stu-id="3f596-131">To reuse dimensions in templates, choose the **Dimensions** action.</span></span> <span data-ttu-id="3f596-132">The **Dimension Templates** window opens showing any dimension codes that are set up for the vendor.</span><span class="sxs-lookup"><span data-stu-id="3f596-132">The **Dimension Templates** window opens showing any dimension codes that are set up for the vendor.</span></span>
+4. <span data-ttu-id="3f596-133">Edit or enter dimension codes that will apply to new vendor cards created by using the template.</span><span class="sxs-lookup"><span data-stu-id="3f596-133">Edit or enter dimension codes that will apply to new vendor cards created by using the template.</span></span>
+5. <span data-ttu-id="3f596-134">When you have completed the new vendor template, choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="3f596-134">When you have completed the new vendor template, choose the **OK** button.</span></span> <span data-ttu-id="3f596-135">The vendor template is added to the list of vendor templates, so that you can use it to create new vendor cards.</span><span class="sxs-lookup"><span data-stu-id="3f596-135">The vendor template is added to the list of vendor templates, so that you can use it to create new vendor cards.</span></span>
 
-## <a name="see-also"></a>See Also
-[Manage Purchasing](purchasing-manage-purchasing.md)  
-[How to: Record Purchases](purchasing-how-record-purchases.md)   
-[Work with Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="3f596-136">See Also</span><span class="sxs-lookup"><span data-stu-id="3f596-136">See Also</span></span>
+[<span data-ttu-id="3f596-137">Manage Purchasing</span><span class="sxs-lookup"><span data-stu-id="3f596-137">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)  
+<span data-ttu-id="3f596-138">[How to: Record Purchases](purchasing-how-record-purchases.md) </span><span class="sxs-lookup"><span data-stu-id="3f596-138">[How to: Record Purchases](purchasing-how-record-purchases.md) </span></span>  
+[<span data-ttu-id="3f596-139">Work with Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="3f596-139">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

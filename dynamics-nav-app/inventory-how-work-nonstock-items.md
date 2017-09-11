@@ -9,14 +9,14 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2b49d95904732dcf091fd060a96006fdcb477ec1
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 6d99e06c167d3b86db97883c02c8bf5cd746ae10
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-work-with-nonstock-items"></a>How to: Work with Nonstock Items
+# How to: Work with Nonstock Items
 You can offer certain items to your customers for their convenience, which you do not want to maintain in inventory until you start selling them. When you want to start maintaining such items in inventory, you can convert them to normal item cards in two ways.
 
 - From a nonstock item card, create a new item card based on a template.
@@ -26,27 +26,27 @@ You can offer certain items to your customers for their convenience, which you d
 
 A nonstock item typically has the item number of the vendor who supplies it. To enable conversion of a nonstock item card to a normal item card, you must first set up how vendor item numbering is converted to your own item numbering.   
 
-## <a name="to-create-a-nonstock-item"></a>To create a nonstock item
+## To create a nonstock item
 Nonstock item cards have much less information than normal item cards because you only use them to offer on quotes and in other ways. For that reason, they must be converted to normal item cards before you can post sales transactions for them.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Nonstock Items**, and then choose the related link.
 2. Choose the **New** action.
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
-## <a name="to-set-up-how-nonstock-item-numbers-are-converted-to-your-own-numbering"></a>To set up how nonstock item numbers are converted to your own numbering  
+## To set up how nonstock item numbers are converted to your own numbering  
 To enable conversion of a nonstock item card to a normal item card, you must first set up how the vendor's item numbering is converted to your own item number format.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Nonstock Item Setup**, and then choose the related link.
 2. Fill in the fields as necessary.
 
-## <a name="to-convert-a-nonstock-item-to-a-normal-item"></a>To convert a nonstock item to a normal item
+## To convert a nonstock item to a normal item
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Nonstock Items**, and then choose the related link.
 2. Open the card for a nonstock item that you want to convert to a normal item.
 3. In the **Nonstock Item Card** window, choose the **Create Item** action.
 
 A new item card prefilled with information from the nonstock item and a relevant item template is created. You can then fill or edit fields on the new item card as necessary. For more information, see [How to: Register New Products](inventory-how-register-new-products.md).
 
-## <a name="to-sell-a-nonstock-item-and-convert-it-to-a-normal-item"></a>To sell a nonstock item, and convert it to a normal item
+## To sell a nonstock item, and convert it to a normal item
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Orders**, and then choose the related link.
 2. Choose the **New** action. fill in the fields on the **General** FastTab as for any sales order.
 3. On a new sales line, leave the **Item** field empty, choose **Line**, **Functions**, and then choose **Nonstock Items**.
@@ -59,7 +59,7 @@ You can then fill or edit fields on the new item card as necessary. For more inf
 
 **Note**: A Item cross reference record is automatically created for the vendor of the item between the vendor's item number and your new item number.
 
-## <a name="see-also"></a>See Also
+## See Also
 [How to: Register New Products](inventory-how-register-new-products.md)  
 [Manage Inventory](inventory-manage-inventory.md)  
 [Work With Dynamics NAV](ui-work-product.md)

@@ -16,81 +16,81 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-monitor-job-progress-and-performance"></a>How to: Monitor Job Progress and Performance
-As a job progresses, materials, resources, and other expenses are consumed and must be posted to the job. Work in Process (WIP) is a feature that enables you to estimate the financial value of jobs in the general ledger while the jobs are ongoing. In many cases, you might post expenses for a job before invoicing a job. When only expenses have been posted, your financial statement will be inaccurate. For more information, see [Understanding WIP Methods](projects-understanding-wip.md).
+# <a name="how-to-monitor-job-progress-and-performance"></a><span data-ttu-id="ecd4c-102">How to: Monitor Job Progress and Performance</span><span class="sxs-lookup"><span data-stu-id="ecd4c-102">How to: Monitor Job Progress and Performance</span></span>
+<span data-ttu-id="ecd4c-103">As a job progresses, materials, resources, and other expenses are consumed and must be posted to the job.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-103">As a job progresses, materials, resources, and other expenses are consumed and must be posted to the job.</span></span> <span data-ttu-id="ecd4c-104">Work in Process (WIP) is a feature that enables you to estimate the financial value of jobs in the general ledger while the jobs are ongoing.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-104">Work in Process (WIP) is a feature that enables you to estimate the financial value of jobs in the general ledger while the jobs are ongoing.</span></span> <span data-ttu-id="ecd4c-105">In many cases, you might post expenses for a job before invoicing a job.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-105">In many cases, you might post expenses for a job before invoicing a job.</span></span> <span data-ttu-id="ecd4c-106">When only expenses have been posted, your financial statement will be inaccurate.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-106">When only expenses have been posted, your financial statement will be inaccurate.</span></span> <span data-ttu-id="ecd4c-107">For more information, see [Understanding WIP Methods](projects-understanding-wip.md).</span><span class="sxs-lookup"><span data-stu-id="ecd4c-107">For more information, see [Understanding WIP Methods](projects-understanding-wip.md).</span></span>
 
-To track the value in the general ledger, you can calculate WIP and post the value to the general ledger.
+<span data-ttu-id="ecd4c-108">To track the value in the general ledger, you can calculate WIP and post the value to the general ledger.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-108">To track the value in the general ledger, you can calculate WIP and post the value to the general ledger.</span></span>
 
-You can calculate WIP based on the following:
+<span data-ttu-id="ecd4c-109">You can calculate WIP based on the following:</span><span class="sxs-lookup"><span data-stu-id="ecd4c-109">You can calculate WIP based on the following:</span></span>
 
-- Cost Value
-- Sales Value
-- Recognizable Cost
-- Percentage of Completion
-- Completed Contract
+- <span data-ttu-id="ecd4c-110">Cost Value</span><span class="sxs-lookup"><span data-stu-id="ecd4c-110">Cost Value</span></span>
+- <span data-ttu-id="ecd4c-111">Sales Value</span><span class="sxs-lookup"><span data-stu-id="ecd4c-111">Sales Value</span></span>
+- <span data-ttu-id="ecd4c-112">Recognizable Cost</span><span class="sxs-lookup"><span data-stu-id="ecd4c-112">Recognizable Cost</span></span>
+- <span data-ttu-id="ecd4c-113">Percentage of Completion</span><span class="sxs-lookup"><span data-stu-id="ecd4c-113">Percentage of Completion</span></span>
+- <span data-ttu-id="ecd4c-114">Completed Contract</span><span class="sxs-lookup"><span data-stu-id="ecd4c-114">Completed Contract</span></span>
 
-If you want to view the result using a different method, you can change the method and calculate WIP again. There is no limit to the number of times that you calculate WIP. WIP is only calculated, it does not get posted to the general ledger. After you have calculated WIP, you can post to the general ledger.
+<span data-ttu-id="ecd4c-115">If you want to view the result using a different method, you can change the method and calculate WIP again.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-115">If you want to view the result using a different method, you can change the method and calculate WIP again.</span></span> <span data-ttu-id="ecd4c-116">There is no limit to the number of times that you calculate WIP.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-116">There is no limit to the number of times that you calculate WIP.</span></span> <span data-ttu-id="ecd4c-117">WIP is only calculated, it does not get posted to the general ledger.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-117">WIP is only calculated, it does not get posted to the general ledger.</span></span> <span data-ttu-id="ecd4c-118">After you have calculated WIP, you can post to the general ledger.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-118">After you have calculated WIP, you can post to the general ledger.</span></span>
 
-## <a name="to-create-a-job-wip-method"></a>To create a job WIP method  
-You can create a job WIP method that reflects the needs of your organization. After you have created it, you can set it as the default job WIP calculation method that will be used in your organization.  
+## <a name="to-create-a-job-wip-method"></a><span data-ttu-id="ecd4c-119">To create a job WIP method</span><span class="sxs-lookup"><span data-stu-id="ecd4c-119">To create a job WIP method</span></span>  
+<span data-ttu-id="ecd4c-120">You can create a job WIP method that reflects the needs of your organization.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-120">You can create a job WIP method that reflects the needs of your organization.</span></span> <span data-ttu-id="ecd4c-121">After you have created it, you can set it as the default job WIP calculation method that will be used in your organization.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-121">After you have created it, you can set it as the default job WIP calculation method that will be used in your organization.</span></span>  
 
-**Note**. After you have used your new method to create WIP entries, you cannot delete the method or modify it.  
+<span data-ttu-id="ecd4c-122">**Note**.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-122">**Note**.</span></span> <span data-ttu-id="ecd4c-123">After you have used your new method to create WIP entries, you cannot delete the method or modify it.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-123">After you have used your new method to create WIP entries, you cannot delete the method or modify it.</span></span>  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job WIP Methods**, and then choose the related link.  
-2. Choose the **New** action, and then fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.  
-3. Close the window.   
-4. To make this new method the default, in the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.  
-5. In the **Default WIP Method** field, choose the method from the list.
+1. <span data-ttu-id="ecd4c-124">In the top right corner, choose the **Search for Page or Report** icon, enter **Job WIP Methods**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-124">In the top right corner, choose the **Search for Page or Report** icon, enter **Job WIP Methods**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="ecd4c-125">Choose the **New** action, and then fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-125">Choose the **New** action, and then fill in the fields as necessary.</span></span> <span data-ttu-id="ecd4c-126">Choose a field to read a short description of the field or link to more information.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-126">Choose a field to read a short description of the field or link to more information.</span></span>  
+3. <span data-ttu-id="ecd4c-127">Close the window.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-127">Close the window.</span></span>   
+4. <span data-ttu-id="ecd4c-128">To make this new method the default, in the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-128">To make this new method the default, in the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.</span></span>  
+5. <span data-ttu-id="ecd4c-129">In the **Default WIP Method** field, choose the method from the list.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-129">In the **Default WIP Method** field, choose the method from the list.</span></span>
 
-## <a name="to-define-a-wip-method-for-a-job"></a>To define a WIP method for a job  
-When you create a new job, you must specify which job WIP method that applies. In some cases, which Job WIP method that you can use has been set up for you as a default.
+## <a name="to-define-a-wip-method-for-a-job"></a><span data-ttu-id="ecd4c-130">To define a WIP method for a job</span><span class="sxs-lookup"><span data-stu-id="ecd4c-130">To define a WIP method for a job</span></span>  
+<span data-ttu-id="ecd4c-131">When you create a new job, you must specify which job WIP method that applies.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-131">When you create a new job, you must specify which job WIP method that applies.</span></span> <span data-ttu-id="ecd4c-132">In some cases, which Job WIP method that you can use has been set up for you as a default.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-132">In some cases, which Job WIP method that you can use has been set up for you as a default.</span></span>
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
-2. Choose the **New** action. For more information, see [How to: Create Jobs](projects-how-create-jobs.md).  
-3. In the **Job Card** window, in the **WIP Method** field, select a WIP method from the list. If a default method has been defined, you can select another option if needed.  
+1. <span data-ttu-id="ecd4c-133">In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-133">In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.</span></span>
+2. <span data-ttu-id="ecd4c-134">Choose the **New** action.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-134">Choose the **New** action.</span></span> <span data-ttu-id="ecd4c-135">For more information, see [How to: Create Jobs](projects-how-create-jobs.md).</span><span class="sxs-lookup"><span data-stu-id="ecd4c-135">For more information, see [How to: Create Jobs](projects-how-create-jobs.md).</span></span>  
+3. <span data-ttu-id="ecd4c-136">In the **Job Card** window, in the **WIP Method** field, select a WIP method from the list.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-136">In the **Job Card** window, in the **WIP Method** field, select a WIP method from the list.</span></span> <span data-ttu-id="ecd4c-137">If a default method has been defined, you can select another option if needed.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-137">If a default method has been defined, you can select another option if needed.</span></span>  
 
-## <a name="to-calculate-wip"></a>To calculate WIP  
-You can determine the WIP amount that is to be posted to balance sheet accounts for the period end reporting. You use the **Job Calculate WIP** batch job to do this.  
+## <a name="to-calculate-wip"></a><span data-ttu-id="ecd4c-138">To calculate WIP</span><span class="sxs-lookup"><span data-stu-id="ecd4c-138">To calculate WIP</span></span>  
+<span data-ttu-id="ecd4c-139">You can determine the WIP amount that is to be posted to balance sheet accounts for the period end reporting.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-139">You can determine the WIP amount that is to be posted to balance sheet accounts for the period end reporting.</span></span> <span data-ttu-id="ecd4c-140">You use the **Job Calculate WIP** batch job to do this.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-140">You use the **Job Calculate WIP** batch job to do this.</span></span>  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Calculate WIP**, and then choose the related link.  
-2. Choose the **Calculate WIP** action.
-3. In the **Job Calculate WIP** window, fill in the fields as necessary.
-4. Choose the **OK** button.  
+1. <span data-ttu-id="ecd4c-141">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Calculate WIP**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-141">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Calculate WIP**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="ecd4c-142">Choose the **Calculate WIP** action.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-142">Choose the **Calculate WIP** action.</span></span>
+3. <span data-ttu-id="ecd4c-143">In the **Job Calculate WIP** window, fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-143">In the **Job Calculate WIP** window, fill in the fields as necessary.</span></span>
+4. <span data-ttu-id="ecd4c-144">Choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-144">Choose the **OK** button.</span></span>  
 
-**Note**: The batch job only calculates the WIP. It is not posted to the general ledger. To do so, you must run the **Post WIP to G/L** batch job when you have calculated the WIP. For more information, see the following procedure.
+<span data-ttu-id="ecd4c-145">**Note**: The batch job only calculates the WIP.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-145">**Note**: The batch job only calculates the WIP.</span></span> <span data-ttu-id="ecd4c-146">It is not posted to the general ledger.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-146">It is not posted to the general ledger.</span></span> <span data-ttu-id="ecd4c-147">To do so, you must run the **Post WIP to G/L** batch job when you have calculated the WIP.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-147">To do so, you must run the **Post WIP to G/L** batch job when you have calculated the WIP.</span></span> <span data-ttu-id="ecd4c-148">For more information, see the following procedure.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-148">For more information, see the following procedure.</span></span>
 
-## <a name="to-post-wip"></a>To post WIP  
-When you have calculated WIP, you can post it to balance sheet accounts for the period end reporting. You use the **Job Post WIP to G/L** batch job to do this.
+## <a name="to-post-wip"></a><span data-ttu-id="ecd4c-149">To post WIP</span><span class="sxs-lookup"><span data-stu-id="ecd4c-149">To post WIP</span></span>  
+<span data-ttu-id="ecd4c-150">When you have calculated WIP, you can post it to balance sheet accounts for the period end reporting.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-150">When you have calculated WIP, you can post it to balance sheet accounts for the period end reporting.</span></span> <span data-ttu-id="ecd4c-151">You use the **Job Post WIP to G/L** batch job to do this.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-151">You use the **Job Post WIP to G/L** batch job to do this.</span></span>
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Post WIP to G/L**, and then choose the related link.  
-2. In the **Job Post WIP to G/L** window, fill in the fields as necessary.  
-3. Choose the **OK** button.
+1. <span data-ttu-id="ecd4c-152">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Post WIP to G/L**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-152">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Post WIP to G/L**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="ecd4c-153">In the **Job Post WIP to G/L** window, fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-153">In the **Job Post WIP to G/L** window, fill in the fields as necessary.</span></span>  
+3. <span data-ttu-id="ecd4c-154">Choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-154">Choose the **OK** button.</span></span>
 
-## <a name="to-view-job-usage-estimates-and-post-updates"></a>To view job usage estimates and post updates  
-You can view job usage up to the completion of a project in one step. To do so, you use the **Job Calc. Remaining Usage** batch job for all the tasks up to and including the end of a job.  
+## <a name="to-view-job-usage-estimates-and-post-updates"></a><span data-ttu-id="ecd4c-155">To view job usage estimates and post updates</span><span class="sxs-lookup"><span data-stu-id="ecd4c-155">To view job usage estimates and post updates</span></span>  
+<span data-ttu-id="ecd4c-156">You can view job usage up to the completion of a project in one step.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-156">You can view job usage up to the completion of a project in one step.</span></span> <span data-ttu-id="ecd4c-157">To do so, you use the **Job Calc. Remaining Usage** batch job for all the tasks up to and including the end of a job.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-157">To do so, you use the **Job Calc. Remaining Usage** batch job for all the tasks up to and including the end of a job.</span></span>  
 
-This lets you track and compare your original estimates against actual results and make modifications or new entries as needed. For example, you may have estimated that a job required 10 hours, and to date, it has taken 15 hours. You can add the extra five hours to the existing journal line or create a new journal line to report these five hours as overtime, which is another work type. The appropriate cost and price are calculated, and you can then post to the journal.  
+<span data-ttu-id="ecd4c-158">This lets you track and compare your original estimates against actual results and make modifications or new entries as needed.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-158">This lets you track and compare your original estimates against actual results and make modifications or new entries as needed.</span></span> <span data-ttu-id="ecd4c-159">For example, you may have estimated that a job required 10 hours, and to date, it has taken 15 hours.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-159">For example, you may have estimated that a job required 10 hours, and to date, it has taken 15 hours.</span></span> <span data-ttu-id="ecd4c-160">You can add the extra five hours to the existing journal line or create a new journal line to report these five hours as overtime, which is another work type.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-160">You can add the extra five hours to the existing journal line or create a new journal line to report these five hours as overtime, which is another work type.</span></span> <span data-ttu-id="ecd4c-161">The appropriate cost and price are calculated, and you can then post to the journal.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-161">The appropriate cost and price are calculated, and you can then post to the journal.</span></span>  
 
-**Note**: Item entries create item ledger entries and reduce the inventory quantity. The **Post Inventory Cost to G/L** batch job transfers the cost from inventory to the general ledger. Resource entries create resource ledger entries.  
+<span data-ttu-id="ecd4c-162">**Note**: Item entries create item ledger entries and reduce the inventory quantity.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-162">**Note**: Item entries create item ledger entries and reduce the inventory quantity.</span></span> <span data-ttu-id="ecd4c-163">The **Post Inventory Cost to G/L** batch job transfers the cost from inventory to the general ledger.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-163">The **Post Inventory Cost to G/L** batch job transfers the cost from inventory to the general ledger.</span></span> <span data-ttu-id="ecd4c-164">Resource entries create resource ledger entries.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-164">Resource entries create resource ledger entries.</span></span>  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journals**, and then choose the related link.  
-2. Select a relevant job journal, and then choose the **Calc. Remaining Usage** action.  
-3. In the **Job Calc. Remaining Usage** window, enter the document number and posting date that is to be inserted in the journal, and then choose the **OK** button.  
-4. Update the journal with any modifications that may be needed.  
-5. Choose the **Post**.
+1. <span data-ttu-id="ecd4c-165">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journals**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-165">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="ecd4c-166">Select a relevant job journal, and then choose the **Calc. Remaining Usage** action.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-166">Select a relevant job journal, and then choose the **Calc. Remaining Usage** action.</span></span>  
+3. <span data-ttu-id="ecd4c-167">In the **Job Calc. Remaining Usage** window, enter the document number and posting date that is to be inserted in the journal, and then choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-167">In the **Job Calc. Remaining Usage** window, enter the document number and posting date that is to be inserted in the journal, and then choose the **OK** button.</span></span>  
+4. <span data-ttu-id="ecd4c-168">Update the journal with any modifications that may be needed.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-168">Update the journal with any modifications that may be needed.</span></span>  
+5. <span data-ttu-id="ecd4c-169">Choose the **Post**.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-169">Choose the **Post**.</span></span>
 
-## <a name="to-view-job-ledger-entries"></a>To view job ledger entries
-All job-related entries are recorded in job registers and are numbered sequentially, starting with 1. From the job register, you can get an overview of all job ledger entries.    
+## <a name="to-view-job-ledger-entries"></a><span data-ttu-id="ecd4c-170">To view job ledger entries</span><span class="sxs-lookup"><span data-stu-id="ecd4c-170">To view job ledger entries</span></span>
+<span data-ttu-id="ecd4c-171">All job-related entries are recorded in job registers and are numbered sequentially, starting with 1.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-171">All job-related entries are recorded in job registers and are numbered sequentially, starting with 1.</span></span> <span data-ttu-id="ecd4c-172">From the job register, you can get an overview of all job ledger entries.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-172">From the job register, you can get an overview of all job ledger entries.</span></span>    
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Registers**, and then choose the related link.
-2. Select a relevant register, and then choose **Job Ledger** action.
+1. <span data-ttu-id="ecd4c-173">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Registers**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-173">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Registers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="ecd4c-174">Select a relevant register, and then choose **Job Ledger** action.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-174">Select a relevant register, and then choose **Job Ledger** action.</span></span>
 
-In the **Job Ledger Entries** window you can review the entries that are associated with any job.  
+<span data-ttu-id="ecd4c-175">In the **Job Ledger Entries** window you can review the entries that are associated with any job.</span><span class="sxs-lookup"><span data-stu-id="ecd4c-175">In the **Job Ledger Entries** window you can review the entries that are associated with any job.</span></span>  
 
-## <a name="see-also"></a>See Also
-[Manage Projects](projects-manage-projects.md)  
-[Finance](finance-setup.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)         
-[Manage Sales](sales-manage-sales.md)      
-[Work With Dynamics NAV](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="ecd4c-176">See Also</span><span class="sxs-lookup"><span data-stu-id="ecd4c-176">See Also</span></span>
+[<span data-ttu-id="ecd4c-177">Manage Projects</span><span class="sxs-lookup"><span data-stu-id="ecd4c-177">Manage Projects</span></span>](projects-manage-projects.md)  
+[<span data-ttu-id="ecd4c-178">Finance</span><span class="sxs-lookup"><span data-stu-id="ecd4c-178">Finance</span></span>](finance-setup.md)  
+<span data-ttu-id="ecd4c-179">[Manage Purchasing](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="ecd4c-179">[Manage Purchasing](purchasing-manage-purchasing.md)       </span></span>  
+<span data-ttu-id="ecd4c-180">[Manage Sales](sales-manage-sales.md)    </span><span class="sxs-lookup"><span data-stu-id="ecd4c-180">[Manage Sales](sales-manage-sales.md)    </span></span>  
+[<span data-ttu-id="ecd4c-181">Work With Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="ecd4c-181">Work With Dynamics NAV</span></span>](ui-work-product.md)  
 

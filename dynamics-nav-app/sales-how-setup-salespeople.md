@@ -9,23 +9,23 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2697a5f0d68b7ce6cb2fc873468583c64adb183b
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 1a3333568f83279f6afe6728e5bf10f55a9381bc
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-set-up-salespeople"></a>How to: Set Up Salespeople
-Many companies want to follow an individual employee's performance as a basis for calculating the sales commission or bonus. See, for example, the Salesperson Commissions report. A company may also want to assign a salesperson to each of their contacts.
+# <a name="how-to-set-up-salespeople"></a><span data-ttu-id="43966-102">How to: Set Up Salespeople</span><span class="sxs-lookup"><span data-stu-id="43966-102">How to: Set Up Salespeople</span></span>
+<span data-ttu-id="43966-103">Many companies want to follow an individual employee's performance as a basis for calculating the sales commission or bonus.</span><span class="sxs-lookup"><span data-stu-id="43966-103">Many companies want to follow an individual employee's performance as a basis for calculating the sales commission or bonus.</span></span> <span data-ttu-id="43966-104">See, for example, the Salesperson Commissions report.</span><span class="sxs-lookup"><span data-stu-id="43966-104">See, for example, the Salesperson Commissions report.</span></span> <span data-ttu-id="43966-105">A company may also want to assign a salesperson to each of their contacts.</span><span class="sxs-lookup"><span data-stu-id="43966-105">A company may also want to assign a salesperson to each of their contacts.</span></span>
 
-When yo have set up a salesperson in the **Salespeople** window, you can select it in the **Salesperson Code** field on all relevant records, such as G/L account, customer, vendor, contacts, and campaign cards. Then, when you post or set up invoices, credit memos, journal lines, finance-setup charge activities, and so on, the salesperson code is carried to the resulting ledger entries.
+<span data-ttu-id="43966-106">When yo have set up a salesperson in the **Salespeople** window, you can select it in the **Salesperson Code** field on all relevant records, such as G/L account, customer, vendor, contacts, and campaign cards.</span><span class="sxs-lookup"><span data-stu-id="43966-106">When yo have set up a salesperson in the **Salespeople** window, you can select it in the **Salesperson Code** field on all relevant records, such as G/L account, customer, vendor, contacts, and campaign cards.</span></span> <span data-ttu-id="43966-107">Then, when you post or set up invoices, credit memos, journal lines, finance-setup charge activities, and so on, the salesperson code is carried to the resulting ledger entries.</span><span class="sxs-lookup"><span data-stu-id="43966-107">Then, when you post or set up invoices, credit memos, journal lines, finance-setup charge activities, and so on, the salesperson code is carried to the resulting ledger entries.</span></span>
 
-## <a name="to-set-up-a-salesperson-code"></a>To set up a salesperson code
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople**, and then choose the related link.
-2. In the **Salespeople** window, choose the **New** action.
+## <a name="to-set-up-a-salesperson-code"></a><span data-ttu-id="43966-108">To set up a salesperson code</span><span class="sxs-lookup"><span data-stu-id="43966-108">To set up a salesperson code</span></span>
+1. <span data-ttu-id="43966-109">In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="43966-109">In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople**, and then choose the related link.</span></span>
+2. <span data-ttu-id="43966-110">In the **Salespeople** window, choose the **New** action.</span><span class="sxs-lookup"><span data-stu-id="43966-110">In the **Salespeople** window, choose the **New** action.</span></span>
 
-## <a name="see-also"></a>See Also  
-[Set Up Sales](sales-setup-sales.md)  
-[Manage Sales](sales-manage-sales.md)
+## <a name="see-also"></a><span data-ttu-id="43966-111">See Also</span><span class="sxs-lookup"><span data-stu-id="43966-111">See Also</span></span>  
+[<span data-ttu-id="43966-112">Set Up Sales</span><span class="sxs-lookup"><span data-stu-id="43966-112">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="43966-113">Manage Sales</span><span class="sxs-lookup"><span data-stu-id="43966-113">Manage Sales</span></span>](sales-manage-sales.md)
 

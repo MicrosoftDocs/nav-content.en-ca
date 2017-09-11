@@ -9,31 +9,31 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 4efaebd827fb18a5e3ef3e219c1062fdb3a09f8b
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 44ba987e5f2bab05a70d8cbef4b92565d392c234
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="create-contact-companies"></a>Create Contact Companies
-Your company regularly meets prospective companies that usually develop into future business relationships. When a new contact is made, this information needs to be recorded so that communication can continue.
+# <a name="create-contact-companies"></a><span data-ttu-id="d0d14-102">Create Contact Companies</span><span class="sxs-lookup"><span data-stu-id="d0d14-102">Create Contact Companies</span></span>
+<span data-ttu-id="d0d14-103">Your company regularly meets prospective companies that usually develop into future business relationships.</span><span class="sxs-lookup"><span data-stu-id="d0d14-103">Your company regularly meets prospective companies that usually develop into future business relationships.</span></span> <span data-ttu-id="d0d14-104">When a new contact is made, this information needs to be recorded so that communication can continue.</span><span class="sxs-lookup"><span data-stu-id="d0d14-104">When a new contact is made, this information needs to be recorded so that communication can continue.</span></span>
 
-By assigning as much data as possible about a specific company ensures efficient communication. For example, assigning the relevant industry group, ensures that specific companies are included in any relevant communication.
+<span data-ttu-id="d0d14-105">By assigning as much data as possible about a specific company ensures efficient communication.</span><span class="sxs-lookup"><span data-stu-id="d0d14-105">By assigning as much data as possible about a specific company ensures efficient communication.</span></span> <span data-ttu-id="d0d14-106">For example, assigning the relevant industry group, ensures that specific companies are included in any relevant communication.</span><span class="sxs-lookup"><span data-stu-id="d0d14-106">For example, assigning the relevant industry group, ensures that specific companies are included in any relevant communication.</span></span>
 
-You can also define the business relationship that you have with a contact. For example, a contact could be a prospect, bank, or contractor.
+<span data-ttu-id="d0d14-107">You can also define the business relationship that you have with a contact.</span><span class="sxs-lookup"><span data-stu-id="d0d14-107">You can also define the business relationship that you have with a contact.</span></span> <span data-ttu-id="d0d14-108">For example, a contact could be a prospect, bank, or contractor.</span><span class="sxs-lookup"><span data-stu-id="d0d14-108">For example, a contact could be a prospect, bank, or contractor.</span></span>
 
-The following table describes a sequence of tasks, with links to the topics that describe them. These tasks are listed in the order in which they are generally performed.
+<span data-ttu-id="d0d14-109">The following table describes a sequence of tasks, with links to the topics that describe them.</span><span class="sxs-lookup"><span data-stu-id="d0d14-109">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span> <span data-ttu-id="d0d14-110">These tasks are listed in the order in which they are generally performed.</span><span class="sxs-lookup"><span data-stu-id="d0d14-110">These tasks are listed in the order in which they are generally performed.</span></span>
 
-|To |See |
+|<span data-ttu-id="d0d14-111">To</span><span class="sxs-lookup"><span data-stu-id="d0d14-111">To</span></span> |<span data-ttu-id="d0d14-112">See</span><span class="sxs-lookup"><span data-stu-id="d0d14-112">See</span></span> |
 |---|----|
-|Set up a contact for a new company, either from scratch or from a customer, vendor, or bank account.|[How to: Create Contact Companies](marketing-how-create-contact-companies.md)|
-|Synchronize information in contacts with common information in customers, vendors, and bank accounts.|[Synchronizing Contacts With Customers, Vendors, and Bank Accounts](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)|
-|Describe the business relationship of a company contact.|[Set Up Business Relations on Contacts Companies](marketing-business-relations.md)|
-|Place a contact company in the appropriate industry group, for example, retail.|[Set Up Industry Groups on Contact Companies](marketing-industry-groups.md)|
-|Set up the mailing groups that you can use to identify groups of contacts that you want to receive the same information.|[Set Up Mailing Groups on Contact Companies](marketing-mailing-groups.md)|
-|Set up an alternative address for a contact.|[How to: Assign Alternative Addresses to a Contact](marketing-how-assign-alternative-address.md)|
-|Assign Web sources (search engines and Web sites) to your contacts to indicate where on the Internet you intend to search for information about the contacts.|[Set Up Web Sources on Contacts](marketing-web-sources.md)|
+|<span data-ttu-id="d0d14-113">Set up a contact for a new company, either from scratch or from a customer, vendor, or bank account.</span><span class="sxs-lookup"><span data-stu-id="d0d14-113">Set up a contact for a new company, either from scratch or from a customer, vendor, or bank account.</span></span>|[<span data-ttu-id="d0d14-114">How to: Create Contact Companies</span><span class="sxs-lookup"><span data-stu-id="d0d14-114">How to: Create Contact Companies</span></span>](marketing-how-create-contact-companies.md)|
+|<span data-ttu-id="d0d14-115">Synchronize information in contacts with common information in customers, vendors, and bank accounts.</span><span class="sxs-lookup"><span data-stu-id="d0d14-115">Synchronize information in contacts with common information in customers, vendors, and bank accounts.</span></span>|[<span data-ttu-id="d0d14-116">Synchronizing Contacts With Customers, Vendors, and Bank Accounts</span><span class="sxs-lookup"><span data-stu-id="d0d14-116">Synchronizing Contacts With Customers, Vendors, and Bank Accounts</span></span>](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)|
+|<span data-ttu-id="d0d14-117">Describe the business relationship of a company contact.</span><span class="sxs-lookup"><span data-stu-id="d0d14-117">Describe the business relationship of a company contact.</span></span>|[<span data-ttu-id="d0d14-118">Set Up Business Relations on Contacts Companies</span><span class="sxs-lookup"><span data-stu-id="d0d14-118">Set Up Business Relations on Contacts Companies</span></span>](marketing-business-relations.md)|
+|<span data-ttu-id="d0d14-119">Place a contact company in the appropriate industry group, for example, retail.</span><span class="sxs-lookup"><span data-stu-id="d0d14-119">Place a contact company in the appropriate industry group, for example, retail.</span></span>|[<span data-ttu-id="d0d14-120">Set Up Industry Groups on Contact Companies</span><span class="sxs-lookup"><span data-stu-id="d0d14-120">Set Up Industry Groups on Contact Companies</span></span>](marketing-industry-groups.md)|
+|<span data-ttu-id="d0d14-121">Set up the mailing groups that you can use to identify groups of contacts that you want to receive the same information.</span><span class="sxs-lookup"><span data-stu-id="d0d14-121">Set up the mailing groups that you can use to identify groups of contacts that you want to receive the same information.</span></span>|[<span data-ttu-id="d0d14-122">Set Up Mailing Groups on Contact Companies</span><span class="sxs-lookup"><span data-stu-id="d0d14-122">Set Up Mailing Groups on Contact Companies</span></span>](marketing-mailing-groups.md)|
+|<span data-ttu-id="d0d14-123">Set up an alternative address for a contact.</span><span class="sxs-lookup"><span data-stu-id="d0d14-123">Set up an alternative address for a contact.</span></span>|[<span data-ttu-id="d0d14-124">How to: Assign Alternative Addresses to a Contact</span><span class="sxs-lookup"><span data-stu-id="d0d14-124">How to: Assign Alternative Addresses to a Contact</span></span>](marketing-how-assign-alternative-address.md)|
+|<span data-ttu-id="d0d14-125">Assign Web sources (search engines and Web sites) to your contacts to indicate where on the Internet you intend to search for information about the contacts.</span><span class="sxs-lookup"><span data-stu-id="d0d14-125">Assign Web sources (search engines and Web sites) to your contacts to indicate where on the Internet you intend to search for information about the contacts.</span></span>|[<span data-ttu-id="d0d14-126">Set Up Web Sources on Contacts</span><span class="sxs-lookup"><span data-stu-id="d0d14-126">Set Up Web Sources on Contacts</span></span>](marketing-web-sources.md)|
 
-##<a name="see-also"></a>See Also
-[Create Contact Persons](marketing-create-contact-persons.md)
+##<a name="see-also"></a><span data-ttu-id="d0d14-127">See Also</span><span class="sxs-lookup"><span data-stu-id="d0d14-127">See Also</span></span>
+[<span data-ttu-id="d0d14-128">Create Contact Persons</span><span class="sxs-lookup"><span data-stu-id="d0d14-128">Create Contact Persons</span></span>](marketing-create-contact-persons.md)
 

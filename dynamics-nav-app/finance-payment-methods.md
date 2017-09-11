@@ -16,10 +16,10 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="payment-methods"></a>Payment Methods
-Payment methods define how an invoice will be paid. You can set up any number of payment methods. Examples of payment methods can be BANK, CASH, CHEQUE, or ACCOUNT.
-Payment methods are linked to vendors in order to specify how an invoice from the specific vendor must be paid.
+# <a name="payment-methods"></a><span data-ttu-id="db0da-102">Payment Methods</span><span class="sxs-lookup"><span data-stu-id="db0da-102">Payment Methods</span></span>
+<span data-ttu-id="db0da-103">Payment methods define how an invoice will be paid.</span><span class="sxs-lookup"><span data-stu-id="db0da-103">Payment methods define how an invoice will be paid.</span></span> <span data-ttu-id="db0da-104">You can set up any number of payment methods.</span><span class="sxs-lookup"><span data-stu-id="db0da-104">You can set up any number of payment methods.</span></span> <span data-ttu-id="db0da-105">Examples of payment methods can be BANK, CASH, CHEQUE, or ACCOUNT.</span><span class="sxs-lookup"><span data-stu-id="db0da-105">Examples of payment methods can be BANK, CASH, CHECK, or ACCOUNT.</span></span>
+<span data-ttu-id="db0da-106">Payment methods are linked to vendors in order to specify how an invoice from the specific vendor must be paid.</span><span class="sxs-lookup"><span data-stu-id="db0da-106">Payment methods are linked to vendors in order to specify how an invoice from the specific vendor must be paid.</span></span>
 
-## <a name="see-also"></a>See Also
-[Finance](finance-setup.md)  
+## <a name="see-also"></a><span data-ttu-id="db0da-107">See Also</span><span class="sxs-lookup"><span data-stu-id="db0da-107">See Also</span></span>
+[<span data-ttu-id="db0da-108">Finance</span><span class="sxs-lookup"><span data-stu-id="db0da-108">Finance</span></span>](finance-setup.md)  
 

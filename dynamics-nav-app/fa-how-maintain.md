@@ -16,72 +16,72 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-maintain-fixed-assets"></a>How to: Maintain Fixed Assets
-Maintenance expenses are routine periodic costs undertaken to preserve the value of fixed assets. Unlike capital improvements, they do not increase values.
+# <a name="how-to-maintain-fixed-assets"></a><span data-ttu-id="f1465-102">How to: Maintain Fixed Assets</span><span class="sxs-lookup"><span data-stu-id="f1465-102">How to: Maintain Fixed Assets</span></span>
+<span data-ttu-id="f1465-103">Maintenance expenses are routine periodic costs undertaken to preserve the value of fixed assets.</span><span class="sxs-lookup"><span data-stu-id="f1465-103">Maintenance expenses are routine periodic costs undertaken to preserve the value of fixed assets.</span></span> <span data-ttu-id="f1465-104">Unlike capital improvements, they do not increase values.</span><span class="sxs-lookup"><span data-stu-id="f1465-104">Unlike capital improvements, they do not increase values.</span></span>
 
-You can record and maintain an up-to-date file on maintenance and service of your fixed assets to have complete maintenance records on a fixed asset easily accessible. Each time a fixed asset is sent to service, you record all relevant information such as date of service, vendor number and service agent's phone number. Maintenance registration is recorded for each fixed asset from the relevant fixed asset card.
+<span data-ttu-id="f1465-105">You can record and maintain an up-to-date file on maintenance and service of your fixed assets to have complete maintenance records on a fixed asset easily accessible.</span><span class="sxs-lookup"><span data-stu-id="f1465-105">You can record and maintain an up-to-date file on maintenance and service of your fixed assets to have complete maintenance records on a fixed asset easily accessible.</span></span> <span data-ttu-id="f1465-106">Each time a fixed asset is sent to service, you record all relevant information such as date of service, vendor number and service agent's phone number.</span><span class="sxs-lookup"><span data-stu-id="f1465-106">Each time a fixed asset is sent to service, you record all relevant information such as date of service, vendor number and service agent's phone number.</span></span> <span data-ttu-id="f1465-107">Maintenance registration is recorded for each fixed asset from the relevant fixed asset card.</span><span class="sxs-lookup"><span data-stu-id="f1465-107">Maintenance registration is recorded for each fixed asset from the relevant fixed asset card.</span></span>
 
-Indexation is used to adjust values for general price-level changes. The **Index Fixed Assets** batch job can be used to recalculate the maintenance costs.
+<span data-ttu-id="f1465-108">Indexation is used to adjust values for general price-level changes.</span><span class="sxs-lookup"><span data-stu-id="f1465-108">Indexation is used to adjust values for general price-level changes.</span></span> <span data-ttu-id="f1465-109">The **Index Fixed Assets** batch job can be used to recalculate the maintenance costs.</span><span class="sxs-lookup"><span data-stu-id="f1465-109">The **Index Fixed Assets** batch job can be used to recalculate the maintenance costs.</span></span>
 
-## <a name="to-record-maintenance-work-on-a-fixed-asset"></a>To record maintenance work on a fixed asset  
-Every time maintenance has been performed, such as a service visit, you can record it for the relevant fixed asset in the **Maintenance Registrations** window.  
+## <a name="to-record-maintenance-work-on-a-fixed-asset"></a><span data-ttu-id="f1465-110">To record maintenance work on a fixed asset</span><span class="sxs-lookup"><span data-stu-id="f1465-110">To record maintenance work on a fixed asset</span></span>  
+<span data-ttu-id="f1465-111">Every time maintenance has been performed, such as a service visit, you can record it for the relevant fixed asset in the **Maintenance Registrations** window.</span><span class="sxs-lookup"><span data-stu-id="f1465-111">Every time maintenance has been performed, such as a service visit, you can record it for the relevant fixed asset in the **Maintenance Registrations** window.</span></span>  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.  
-2. Select the fixed asset that you want to record maintenance for, and then choose the **Maintenance Registration** action.
-3. In the **Maintenance Registration** window, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.  
+1. <span data-ttu-id="f1465-112">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="f1465-112">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="f1465-113">Select the fixed asset that you want to record maintenance for, and then choose the **Maintenance Registration** action.</span><span class="sxs-lookup"><span data-stu-id="f1465-113">Select the fixed asset that you want to record maintenance for, and then choose the **Maintenance Registration** action.</span></span>
+3. <span data-ttu-id="f1465-114">In the **Maintenance Registration** window, fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="f1465-114">In the **Maintenance Registration** window, fill in the fields as necessary.</span></span> <span data-ttu-id="f1465-115">Choose a field to read a short description of the field or link to more information.</span><span class="sxs-lookup"><span data-stu-id="f1465-115">Choose a field to read a short description of the field or link to more information.</span></span>  
 
-## <a name="to-post-maintenance-costs-from-a-fixed-asset-gl-journal"></a>To post maintenance costs from a fixed asset G/L journal
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Book List**, and then choose the related link.  
-2. Select the depreciation book that is assigned to the fixed asset, and then choose the **Edit** action.
-3. In the **Depreciation Book Card** window, make sure the **Maintenance** check box is not selected. This ensures that maintenance costs are not posted to the general ledger.
-4. In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.  
-5. Create an initial journal line and fill in the fields as necessary.
-6. In the **FA Posting Type** field, select **Maintenance**.
-7. Choose the **Insert FA Bal. Account** action. A second journal line is created for the balancing account that is set up for maintenance posting.
+## <a name="to-post-maintenance-costs-from-a-fixed-asset-gl-journal"></a><span data-ttu-id="f1465-116">To post maintenance costs from a fixed asset G/L journal</span><span class="sxs-lookup"><span data-stu-id="f1465-116">To post maintenance costs from a fixed asset G/L journal</span></span>
+1. <span data-ttu-id="f1465-117">In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Book List**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="f1465-117">In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Book List**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="f1465-118">Select the depreciation book that is assigned to the fixed asset, and then choose the **Edit** action.</span><span class="sxs-lookup"><span data-stu-id="f1465-118">Select the depreciation book that is assigned to the fixed asset, and then choose the **Edit** action.</span></span>
+3. <span data-ttu-id="f1465-119">In the **Depreciation Book Card** window, make sure the **Maintenance** check box is not selected.</span><span class="sxs-lookup"><span data-stu-id="f1465-119">In the **Depreciation Book Card** window, make sure the **Maintenance** check box is not selected.</span></span> <span data-ttu-id="f1465-120">This ensures that maintenance costs are not posted to the general ledger.</span><span class="sxs-lookup"><span data-stu-id="f1465-120">This ensures that maintenance costs are not posted to the general ledger.</span></span>
+4. <span data-ttu-id="f1465-121">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="f1465-121">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+5. <span data-ttu-id="f1465-122">Create an initial journal line and fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="f1465-122">Create an initial journal line and fill in the fields as necessary.</span></span>
+6. <span data-ttu-id="f1465-123">In the **FA Posting Type** field, select **Maintenance**.</span><span class="sxs-lookup"><span data-stu-id="f1465-123">In the **FA Posting Type** field, select **Maintenance**.</span></span>
+7. <span data-ttu-id="f1465-124">Choose the **Insert FA Bal. Account** action.</span><span class="sxs-lookup"><span data-stu-id="f1465-124">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="f1465-125">A second journal line is created for the balancing account that is set up for maintenance posting.</span><span class="sxs-lookup"><span data-stu-id="f1465-125">A second journal line is created for the balancing account that is set up for maintenance posting.</span></span>
 
-    **Note**: Step 7 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Maintenance Account** field contains the general ledger debit account and the **Maintenance Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation. For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).
-8. Choose the **Post** action.
+    <span data-ttu-id="f1465-126">**Note**: Step 7 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Maintenance Account** field contains the general ledger debit account and the **Maintenance Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation.</span><span class="sxs-lookup"><span data-stu-id="f1465-126">**Note**: Step 7 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Maintenance Account** field contains the general ledger debit account and the **Maintenance Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation.</span></span> <span data-ttu-id="f1465-127">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="f1465-127">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+8. <span data-ttu-id="f1465-128">Choose the **Post** action.</span><span class="sxs-lookup"><span data-stu-id="f1465-128">Choose the **Post** action.</span></span>
 
-## <a name="to-follow-up-on-fixed-assets-service-visits"></a>To follow up on fixed assets service visits
-You can print the **Maintenance - Next Service** report to see which assets you have scheduled a service visit for. You can also use this report when you are updating the **Next Service Date** field on fixed asset cards.  
+## <a name="to-follow-up-on-fixed-assets-service-visits"></a><span data-ttu-id="f1465-129">To follow up on fixed assets service visits</span><span class="sxs-lookup"><span data-stu-id="f1465-129">To follow up on fixed assets service visits</span></span>
+<span data-ttu-id="f1465-130">You can print the **Maintenance - Next Service** report to see which assets you have scheduled a service visit for.</span><span class="sxs-lookup"><span data-stu-id="f1465-130">You can print the **Maintenance - Next Service** report to see which assets you have scheduled a service visit for.</span></span> <span data-ttu-id="f1465-131">You can also use this report when you are updating the **Next Service Date** field on fixed asset cards.</span><span class="sxs-lookup"><span data-stu-id="f1465-131">You can also use this report when you are updating the **Next Service Date** field on fixed asset cards.</span></span>  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Next Service**, and then choose the related link.  
-2. Fill in the **Starting Date** and **Ending Date** fields.  
-3. Choose the **Print** or **Preview** button.
+1. <span data-ttu-id="f1465-132">In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Next Service**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="f1465-132">In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Next Service**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="f1465-133">Fill in the **Starting Date** and **Ending Date** fields.</span><span class="sxs-lookup"><span data-stu-id="f1465-133">Fill in the **Starting Date** and **Ending Date** fields.</span></span>  
+3. <span data-ttu-id="f1465-134">Choose the **Print** or **Preview** button.</span><span class="sxs-lookup"><span data-stu-id="f1465-134">Choose the **Print** or **Preview** button.</span></span>
 
-## <a name="to-monitor-maintenance-costs"></a>To monitor maintenance costs  
-You can view the maintenance costs when you look at the statistics of a fixed asset.  
+## <a name="to-monitor-maintenance-costs"></a><span data-ttu-id="f1465-135">To monitor maintenance costs</span><span class="sxs-lookup"><span data-stu-id="f1465-135">To monitor maintenance costs</span></span>  
+<span data-ttu-id="f1465-136">You can view the maintenance costs when you look at the statistics of a fixed asset.</span><span class="sxs-lookup"><span data-stu-id="f1465-136">You can view the maintenance costs when you look at the statistics of a fixed asset.</span></span>  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.
-2. Select the fixed asset you want to view maintenance costs for, and then choose the **Depreciation Books** action.
-3. In the **FA Depreciation Books** window, select the relevant fixed asset depreciation book, and then choose the **Statistics** action.
-4. In the **Fixed Asset Statistics** window, choose the **Maintenance** field.
+1. <span data-ttu-id="f1465-137">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="f1465-137">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="f1465-138">Select the fixed asset you want to view maintenance costs for, and then choose the **Depreciation Books** action.</span><span class="sxs-lookup"><span data-stu-id="f1465-138">Select the fixed asset you want to view maintenance costs for, and then choose the **Depreciation Books** action.</span></span>
+3. <span data-ttu-id="f1465-139">In the **FA Depreciation Books** window, select the relevant fixed asset depreciation book, and then choose the **Statistics** action.</span><span class="sxs-lookup"><span data-stu-id="f1465-139">In the **FA Depreciation Books** window, select the relevant fixed asset depreciation book, and then choose the **Statistics** action.</span></span>
+4. <span data-ttu-id="f1465-140">In the **Fixed Asset Statistics** window, choose the **Maintenance** field.</span><span class="sxs-lookup"><span data-stu-id="f1465-140">In the **Fixed Asset Statistics** window, choose the **Maintenance** field.</span></span>
 
-The **Maintenance Ledger Entries** window opens showing the entries that make up the amount in the **Maintenance** field.
+<span data-ttu-id="f1465-141">The **Maintenance Ledger Entries** window opens showing the entries that make up the amount in the **Maintenance** field.</span><span class="sxs-lookup"><span data-stu-id="f1465-141">The **Maintenance Ledger Entries** window opens showing the entries that make up the amount in the **Maintenance** field.</span></span>
 
-## <a name="to-view-or-print-maintenance-costs-for-multiple-fixed-assets"></a>To view or print maintenance costs for multiple fixed assets  
-In the **Maintenance - Analysis** report, you can select to see maintenance based on one, two, or three maintenance codes for a specified date or period. You can see the total of all selected assets or a total for each asset.
+## <a name="to-view-or-print-maintenance-costs-for-multiple-fixed-assets"></a><span data-ttu-id="f1465-142">To view or print maintenance costs for multiple fixed assets</span><span class="sxs-lookup"><span data-stu-id="f1465-142">To view or print maintenance costs for multiple fixed assets</span></span>  
+<span data-ttu-id="f1465-143">In the **Maintenance - Analysis** report, you can select to see maintenance based on one, two, or three maintenance codes for a specified date or period.</span><span class="sxs-lookup"><span data-stu-id="f1465-143">In the **Maintenance - Analysis** report, you can select to see maintenance based on one, two, or three maintenance codes for a specified date or period.</span></span> <span data-ttu-id="f1465-144">You can see the total of all selected assets or a total for each asset.</span><span class="sxs-lookup"><span data-stu-id="f1465-144">You can see the total of all selected assets or a total for each asset.</span></span>
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Analysis**, and then choose the related link.
-2. Fill in the fields as necessary.
-3. Choose the **Print** or **Preview** button.
+1. <span data-ttu-id="f1465-145">In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Analysis**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="f1465-145">In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Analysis**, and then choose the related link.</span></span>
+2. <span data-ttu-id="f1465-146">Fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="f1465-146">Fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="f1465-147">Choose the **Print** or **Preview** button.</span><span class="sxs-lookup"><span data-stu-id="f1465-147">Choose the **Print** or **Preview** button.</span></span>
 
-## <a name="to-view-maintenance-ledger-entries"></a>To view maintenance ledger entries
-You can also study maintenance costs by viewing the maintenance ledger entries.  
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.
-2. Select the fixed asset that you want to view ledger entries for, and then choose the **Depreciation Books** action.
-3. In the **FA Depreciation Books** window, select the relevant fixed asset depreciation book, and then choose the **Maintenance Ledger Entries** action.
+## <a name="to-view-maintenance-ledger-entries"></a><span data-ttu-id="f1465-148">To view maintenance ledger entries</span><span class="sxs-lookup"><span data-stu-id="f1465-148">To view maintenance ledger entries</span></span>
+<span data-ttu-id="f1465-149">You can also study maintenance costs by viewing the maintenance ledger entries.</span><span class="sxs-lookup"><span data-stu-id="f1465-149">You can also study maintenance costs by viewing the maintenance ledger entries.</span></span>  
+1. <span data-ttu-id="f1465-150">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="f1465-150">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="f1465-151">Select the fixed asset that you want to view ledger entries for, and then choose the **Depreciation Books** action.</span><span class="sxs-lookup"><span data-stu-id="f1465-151">Select the fixed asset that you want to view ledger entries for, and then choose the **Depreciation Books** action.</span></span>
+3. <span data-ttu-id="f1465-152">In the **FA Depreciation Books** window, select the relevant fixed asset depreciation book, and then choose the **Maintenance Ledger Entries** action.</span><span class="sxs-lookup"><span data-stu-id="f1465-152">In the **FA Depreciation Books** window, select the relevant fixed asset depreciation book, and then choose the **Maintenance Ledger Entries** action.</span></span>
 
-## <a name="to-view-or-print-maintenance-ledger-entries-for-multiple-fixed-assets"></a>To view or print maintenance ledger entries for multiple fixed assets  
-In the **Maintenance - Details** report, you can view or print maintenance ledger entries for one or many fixed assets.  
+## <a name="to-view-or-print-maintenance-ledger-entries-for-multiple-fixed-assets"></a><span data-ttu-id="f1465-153">To view or print maintenance ledger entries for multiple fixed assets</span><span class="sxs-lookup"><span data-stu-id="f1465-153">To view or print maintenance ledger entries for multiple fixed assets</span></span>  
+<span data-ttu-id="f1465-154">In the **Maintenance - Details** report, you can view or print maintenance ledger entries for one or many fixed assets.</span><span class="sxs-lookup"><span data-stu-id="f1465-154">In the **Maintenance - Details** report, you can view or print maintenance ledger entries for one or many fixed assets.</span></span>  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Details**, and then choose the related link.
-2. Fill in the fields as necessary.
-3. Choose the **Print** or **Preview** button.
+1. <span data-ttu-id="f1465-155">In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Details**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="f1465-155">In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Details**, and then choose the related link.</span></span>
+2. <span data-ttu-id="f1465-156">Fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="f1465-156">Fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="f1465-157">Choose the **Print** or **Preview** button.</span><span class="sxs-lookup"><span data-stu-id="f1465-157">Choose the **Print** or **Preview** button.</span></span>
 
-## <a name="see-also"></a>See Also
-[Manage Fixed Assets](fa-manage.md)  
-[Set Up Fixed Assets](fa-setup.md)  
-[Finance](finance-setup.md)  
-[Welcome to Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="f1465-158">See Also</span><span class="sxs-lookup"><span data-stu-id="f1465-158">See Also</span></span>
+[<span data-ttu-id="f1465-159">Manage Fixed Assets</span><span class="sxs-lookup"><span data-stu-id="f1465-159">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="f1465-160">Set Up Fixed Assets</span><span class="sxs-lookup"><span data-stu-id="f1465-160">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="f1465-161">Finance</span><span class="sxs-lookup"><span data-stu-id="f1465-161">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="f1465-162">Welcome to Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f1465-162">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

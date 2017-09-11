@@ -9,25 +9,25 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 922376d6a61c757f9cc3ad13fa8d3fce66af14a4
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: b33548911bf71e66178bb5dee6a529071665f3b8
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
     
-# <a name="how-to-view-test-reports-before-posting"></a>How to: View Test Reports Before Posting
-When you are ready to post a document, such as an order, invoice, or a credit memo, you can test the document to ensure that no issues exist that will block the posting.
+# <a name="how-to-view-test-reports-before-posting"></a><span data-ttu-id="489e7-102">How to: View Test Reports Before Posting</span><span class="sxs-lookup"><span data-stu-id="489e7-102">How to: View Test Reports Before Posting</span></span>
+<span data-ttu-id="489e7-103">When you are ready to post a document, such as an order, invoice, or a credit memo, you can test the document to ensure that no issues exist that will block the posting.</span><span class="sxs-lookup"><span data-stu-id="489e7-103">When you are ready to post a document, such as an order, invoice, or a credit memo, you can test the document to ensure that no issues exist that will block the posting.</span></span>
 
-**Note**: The following procedure is about testing before posting a purchase document. The functionality works in the same way for sales documents.
+<span data-ttu-id="489e7-104">**Note**: The following procedure is about testing before posting a purchase document.</span><span class="sxs-lookup"><span data-stu-id="489e7-104">**Note**: The following procedure is about testing before posting a purchase document.</span></span> <span data-ttu-id="489e7-105">The functionality works in the same way for sales documents.</span><span class="sxs-lookup"><span data-stu-id="489e7-105">The functionality works in the same way for sales documents.</span></span>
 
-## <a name="to-print-a-test-report-before-posting-a-purchase-invoice"></a>To print a test report before posting a purchase invoice
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Purchase Invoices**, and then select the related link.
-2. Open the purchase invoice that you want to test.
-3. Choose **Test Report**.  
+## <a name="to-print-a-test-report-before-posting-a-purchase-invoice"></a><span data-ttu-id="489e7-106">To print a test report before posting a purchase invoice</span><span class="sxs-lookup"><span data-stu-id="489e7-106">To print a test report before posting a purchase invoice</span></span>
+1. <span data-ttu-id="489e7-107">In the top right corner, choose the **Search for Page or Report** icon, enter **Purchase Invoices**, and then select the related link.</span><span class="sxs-lookup"><span data-stu-id="489e7-107">In the top right corner, choose the **Search for Page or Report** icon, enter **Purchase Invoices**, and then select the related link.</span></span>
+2. <span data-ttu-id="489e7-108">Open the purchase invoice that you want to test.</span><span class="sxs-lookup"><span data-stu-id="489e7-108">Open the purchase invoice that you want to test.</span></span>
+3. <span data-ttu-id="489e7-109">Choose **Test Report**.</span><span class="sxs-lookup"><span data-stu-id="489e7-109">Choose **Test Report**.</span></span>  
 
-All parts of the purchase invoice are tested, and the result is presented in a report. If the report indicates any errors or missing information, then you must correct the problem before posting the purchase invoice.
+<span data-ttu-id="489e7-110">All parts of the purchase invoice are tested, and the result is presented in a report.</span><span class="sxs-lookup"><span data-stu-id="489e7-110">All parts of the purchase invoice are tested, and the result is presented in a report.</span></span> <span data-ttu-id="489e7-111">If the report indicates any errors or missing information, then you must correct the problem before posting the purchase invoice.</span><span class="sxs-lookup"><span data-stu-id="489e7-111">If the report indicates any errors or missing information, then you must correct the problem before posting the purchase invoice.</span></span>
 
-## <a name="see-also"></a>See Also
-[Post Documents and Journals](ui-post-documents-journals.md)
+## <a name="see-also"></a><span data-ttu-id="489e7-112">See Also</span><span class="sxs-lookup"><span data-stu-id="489e7-112">See Also</span></span>
+[<span data-ttu-id="489e7-113">Post Documents and Journals</span><span class="sxs-lookup"><span data-stu-id="489e7-113">Post Documents and Journals</span></span>](ui-post-documents-journals.md)
 

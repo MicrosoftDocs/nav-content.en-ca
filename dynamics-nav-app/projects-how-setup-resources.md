@@ -16,62 +16,62 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-set-up-resources"></a>How to: Set Up Resources
-To correctly manage resource activities, you must set up your resources and the related costs and prices. The job-related prices, discounts, and cost factor rules are set up on the job card. You can specify the costs and prices for individual resources, resource groups, or all available resources of the company.
+# <a name="how-to-set-up-resources"></a><span data-ttu-id="25a91-102">How to: Set Up Resources</span><span class="sxs-lookup"><span data-stu-id="25a91-102">How to: Set Up Resources</span></span>
+<span data-ttu-id="25a91-103">To correctly manage resource activities, you must set up your resources and the related costs and prices.</span><span class="sxs-lookup"><span data-stu-id="25a91-103">To correctly manage resource activities, you must set up your resources and the related costs and prices.</span></span> <span data-ttu-id="25a91-104">The job-related prices, discounts, and cost factor rules are set up on the job card.</span><span class="sxs-lookup"><span data-stu-id="25a91-104">The job-related prices, discounts, and cost factor rules are set up on the job card.</span></span> <span data-ttu-id="25a91-105">You can specify the costs and prices for individual resources, resource groups, or all available resources of the company.</span><span class="sxs-lookup"><span data-stu-id="25a91-105">You can specify the costs and prices for individual resources, resource groups, or all available resources of the company.</span></span>
 
-When resources are used or sold in a job, the prices and costs associated with them are retrieved from the information that you set up.
+<span data-ttu-id="25a91-106">When resources are used or sold in a job, the prices and costs associated with them are retrieved from the information that you set up.</span><span class="sxs-lookup"><span data-stu-id="25a91-106">When resources are used or sold in a job, the prices and costs associated with them are retrieved from the information that you set up.</span></span>
 
-You specify the default amount per hour when the resource is created. For example, if you use a specific machine on a job for five hours, the job would be calculated based on the amount per hour.
+<span data-ttu-id="25a91-107">You specify the default amount per hour when the resource is created.</span><span class="sxs-lookup"><span data-stu-id="25a91-107">You specify the default amount per hour when the resource is created.</span></span> <span data-ttu-id="25a91-108">For example, if you use a specific machine on a job for five hours, the job would be calculated based on the amount per hour.</span><span class="sxs-lookup"><span data-stu-id="25a91-108">For example, if you use a specific machine on a job for five hours, the job would be calculated based on the amount per hour.</span></span>
 
-## <a name="to-set-up-a-resource"></a>To set up a resource
-Create a card for each resource that you want to use in projects.
+## <a name="to-set-up-a-resource"></a><span data-ttu-id="25a91-109">To set up a resource</span><span class="sxs-lookup"><span data-stu-id="25a91-109">To set up a resource</span></span>
+<span data-ttu-id="25a91-110">Create a card for each resource that you want to use in projects.</span><span class="sxs-lookup"><span data-stu-id="25a91-110">Create a card for each resource that you want to use in projects.</span></span>
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.
-2. Choose the **New** action.
-3. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.  
+1. <span data-ttu-id="25a91-111">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="25a91-111">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span></span>
+2. <span data-ttu-id="25a91-112">Choose the **New** action.</span><span class="sxs-lookup"><span data-stu-id="25a91-112">Choose the **New** action.</span></span>
+3. <span data-ttu-id="25a91-113">Fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="25a91-113">Fill in the fields as necessary.</span></span> <span data-ttu-id="25a91-114">Choose a field to read a short description of the field or link to more information.</span><span class="sxs-lookup"><span data-stu-id="25a91-114">Choose a field to read a short description of the field or link to more information.</span></span>  
 
-## <a name="to-set-up-a-resource-group"></a>To set up a resource group
-You can combine several resources in one resource group. All capacities and budgets of resource groups are accumulated from the individual resources. It is also possible to enter capacities for resource groups either independently of the accumulated values or in addition to them.
+## <a name="to-set-up-a-resource-group"></a><span data-ttu-id="25a91-115">To set up a resource group</span><span class="sxs-lookup"><span data-stu-id="25a91-115">To set up a resource group</span></span>
+<span data-ttu-id="25a91-116">You can combine several resources in one resource group.</span><span class="sxs-lookup"><span data-stu-id="25a91-116">You can combine several resources in one resource group.</span></span> <span data-ttu-id="25a91-117">All capacities and budgets of resource groups are accumulated from the individual resources.</span><span class="sxs-lookup"><span data-stu-id="25a91-117">All capacities and budgets of resource groups are accumulated from the individual resources.</span></span> <span data-ttu-id="25a91-118">It is also possible to enter capacities for resource groups either independently of the accumulated values or in addition to them.</span><span class="sxs-lookup"><span data-stu-id="25a91-118">It is also possible to enter capacities for resource groups either independently of the accumulated values or in addition to them.</span></span>
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resource groups**, and then choose the related link.
-2. Choose the **New** action.
-3. Fill in the fields as necessary.
+1. <span data-ttu-id="25a91-119">In the top right corner, choose the **Search for Page or Report** icon, enter **Resource groups**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="25a91-119">In the top right corner, choose the **Search for Page or Report** icon, enter **Resource groups**, and then choose the related link.</span></span>
+2. <span data-ttu-id="25a91-120">Choose the **New** action.</span><span class="sxs-lookup"><span data-stu-id="25a91-120">Choose the **New** action.</span></span>
+3. <span data-ttu-id="25a91-121">Fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="25a91-121">Fill in the fields as necessary.</span></span>
 
-## <a name="to-set-capacity-for-a-resource"></a>To set capacity for a resource 
-To calculate how much time a resource can spend on jobs, their capacity must first be set up as available time per period on the work calendar. This setup is used when you fill in job planning lines that contain the resource. For more information, see [How to: Create Jobs](projects-how-create-jobs.md).
+## <a name="to-set-capacity-for-a-resource"></a><span data-ttu-id="25a91-122">To set capacity for a resource</span><span class="sxs-lookup"><span data-stu-id="25a91-122">To set capacity for a resource</span></span> 
+<span data-ttu-id="25a91-123">To calculate how much time a resource can spend on jobs, their capacity must first be set up as available time per period on the work calendar.</span><span class="sxs-lookup"><span data-stu-id="25a91-123">To calculate how much time a resource can spend on jobs, their capacity must first be set up as available time per period on the work calendar.</span></span> <span data-ttu-id="25a91-124">This setup is used when you fill in job planning lines that contain the resource.</span><span class="sxs-lookup"><span data-stu-id="25a91-124">This setup is used when you fill in job planning lines that contain the resource.</span></span> <span data-ttu-id="25a91-125">For more information, see [How to: Create Jobs](projects-how-create-jobs.md).</span><span class="sxs-lookup"><span data-stu-id="25a91-125">For more information, see [How to: Create Jobs](projects-how-create-jobs.md).</span></span>
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.
-2. Open the relevant resource card, and then choose the **Resource Capacity** action.
-3. In the **Resource Capacity** window, in the **View By** field, specify the length of the period, such as **Day**, that is shown on columns on the **Resource Capacity Matrix** FastTab.
-4. For each resource on a line, specify for each period on the columns the number of hours that the resource is available.
-5. Alternatively, to detail the resource's weekly capacity within a starting and ending date, choose the **Set Capacity** action.
-6. In the **Resource Capacity Settings** window, fill in the fields as necessary.
-7. Choose the **Update Capacity** action. The **Resource Capacity** window is updated with the entered capacity.
-8. Close the window.
+1. <span data-ttu-id="25a91-126">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="25a91-126">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span></span>
+2. <span data-ttu-id="25a91-127">Open the relevant resource card, and then choose the **Resource Capacity** action.</span><span class="sxs-lookup"><span data-stu-id="25a91-127">Open the relevant resource card, and then choose the **Resource Capacity** action.</span></span>
+3. <span data-ttu-id="25a91-128">In the **Resource Capacity** window, in the **View By** field, specify the length of the period, such as **Day**, that is shown on columns on the **Resource Capacity Matrix** FastTab.</span><span class="sxs-lookup"><span data-stu-id="25a91-128">In the **Resource Capacity** window, in the **View By** field, specify the length of the period, such as **Day**, that is shown on columns on the **Resource Capacity Matrix** FastTab.</span></span>
+4. <span data-ttu-id="25a91-129">For each resource on a line, specify for each period on the columns the number of hours that the resource is available.</span><span class="sxs-lookup"><span data-stu-id="25a91-129">For each resource on a line, specify for each period on the columns the number of hours that the resource is available.</span></span>
+5. <span data-ttu-id="25a91-130">Alternatively, to detail the resource's weekly capacity within a starting and ending date, choose the **Set Capacity** action.</span><span class="sxs-lookup"><span data-stu-id="25a91-130">Alternatively, to detail the resource's weekly capacity within a starting and ending date, choose the **Set Capacity** action.</span></span>
+6. <span data-ttu-id="25a91-131">In the **Resource Capacity Settings** window, fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="25a91-131">In the **Resource Capacity Settings** window, fill in the fields as necessary.</span></span>
+7. <span data-ttu-id="25a91-132">Choose the **Update Capacity** action.</span><span class="sxs-lookup"><span data-stu-id="25a91-132">Choose the **Update Capacity** action.</span></span> <span data-ttu-id="25a91-133">The **Resource Capacity** window is updated with the entered capacity.</span><span class="sxs-lookup"><span data-stu-id="25a91-133">The **Resource Capacity** window is updated with the entered capacity.</span></span>
+8. <span data-ttu-id="25a91-134">Close the window.</span><span class="sxs-lookup"><span data-stu-id="25a91-134">Close the window.</span></span>
 
-## <a name="to-set-up-alternate-resource-costs"></a>To set up alternate resource costs
-In addition to the cost specified on the resource card, you can set up alternate costs for each resource. For example, if you pay an employee a higher hourly rate for overtime, you can set up a resource cost for the overtime rate. The alternate cost that you set up for the resource will override the cost on the resource card when you use the resource in the resource journal.
+## <a name="to-set-up-alternate-resource-costs"></a><span data-ttu-id="25a91-135">To set up alternate resource costs</span><span class="sxs-lookup"><span data-stu-id="25a91-135">To set up alternate resource costs</span></span>
+<span data-ttu-id="25a91-136">In addition to the cost specified on the resource card, you can set up alternate costs for each resource.</span><span class="sxs-lookup"><span data-stu-id="25a91-136">In addition to the cost specified on the resource card, you can set up alternate costs for each resource.</span></span> <span data-ttu-id="25a91-137">For example, if you pay an employee a higher hourly rate for overtime, you can set up a resource cost for the overtime rate.</span><span class="sxs-lookup"><span data-stu-id="25a91-137">For example, if you pay an employee a higher hourly rate for overtime, you can set up a resource cost for the overtime rate.</span></span> <span data-ttu-id="25a91-138">The alternate cost that you set up for the resource will override the cost on the resource card when you use the resource in the resource journal.</span><span class="sxs-lookup"><span data-stu-id="25a91-138">The alternate cost that you set up for the resource will override the cost on the resource card when you use the resource in the resource journal.</span></span>
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.  
-2. Select the resource for that you want to set up one or more alternate costs for, and then choose the **Costs** action.  
-3. In the **Resource Costs** window, fill in the fields on a line as necessary.  
-4. Repeat step 3 for each alternate resource cost that you want to set up.
+1. <span data-ttu-id="25a91-139">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="25a91-139">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="25a91-140">Select the resource for that you want to set up one or more alternate costs for, and then choose the **Costs** action.</span><span class="sxs-lookup"><span data-stu-id="25a91-140">Select the resource for that you want to set up one or more alternate costs for, and then choose the **Costs** action.</span></span>  
+3. <span data-ttu-id="25a91-141">In the **Resource Costs** window, fill in the fields on a line as necessary.</span><span class="sxs-lookup"><span data-stu-id="25a91-141">In the **Resource Costs** window, fill in the fields on a line as necessary.</span></span>  
+4. <span data-ttu-id="25a91-142">Repeat step 3 for each alternate resource cost that you want to set up.</span><span class="sxs-lookup"><span data-stu-id="25a91-142">Repeat step 3 for each alternate resource cost that you want to set up.</span></span>
 
-**Note**. To set up resource costs that will apply to all resources and resource groups, open the **Resource Costs** window and fill in the fields.
+<span data-ttu-id="25a91-143">**Note**.</span><span class="sxs-lookup"><span data-stu-id="25a91-143">**Note**.</span></span> <span data-ttu-id="25a91-144">To set up resource costs that will apply to all resources and resource groups, open the **Resource Costs** window and fill in the fields.</span><span class="sxs-lookup"><span data-stu-id="25a91-144">To set up resource costs that will apply to all resources and resource groups, open the **Resource Costs** window and fill in the fields.</span></span>
 
-## <a name="to-set-up-alternate-resource-prices"></a>To set up alternate resource prices  
-In addition to price specified on the resource card, you can set up alternate prices for each resource. These alternate prices can be conditional. They can depend on whether the resource is used with a specific job or work type.
+## <a name="to-set-up-alternate-resource-prices"></a><span data-ttu-id="25a91-145">To set up alternate resource prices</span><span class="sxs-lookup"><span data-stu-id="25a91-145">To set up alternate resource prices</span></span>  
+<span data-ttu-id="25a91-146">In addition to price specified on the resource card, you can set up alternate prices for each resource.</span><span class="sxs-lookup"><span data-stu-id="25a91-146">In addition to price specified on the resource card, you can set up alternate prices for each resource.</span></span> <span data-ttu-id="25a91-147">These alternate prices can be conditional.</span><span class="sxs-lookup"><span data-stu-id="25a91-147">These alternate prices can be conditional.</span></span> <span data-ttu-id="25a91-148">They can depend on whether the resource is used with a specific job or work type.</span><span class="sxs-lookup"><span data-stu-id="25a91-148">They can depend on whether the resource is used with a specific job or work type.</span></span>
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.
-2. Select the resource for that you want to set up one or more alternate prices for, and then choose the **Prices** action.
-3. In the **Resource Prices** window, fill in the fields on a line as necessary.
-4. Repeat step 3 for each alternate resource price that you want to set up.
+1. <span data-ttu-id="25a91-149">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="25a91-149">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span></span>
+2. <span data-ttu-id="25a91-150">Select the resource for that you want to set up one or more alternate prices for, and then choose the **Prices** action.</span><span class="sxs-lookup"><span data-stu-id="25a91-150">Select the resource for that you want to set up one or more alternate prices for, and then choose the **Prices** action.</span></span>
+3. <span data-ttu-id="25a91-151">In the **Resource Prices** window, fill in the fields on a line as necessary.</span><span class="sxs-lookup"><span data-stu-id="25a91-151">In the **Resource Prices** window, fill in the fields on a line as necessary.</span></span>
+4. <span data-ttu-id="25a91-152">Repeat step 3 for each alternate resource price that you want to set up.</span><span class="sxs-lookup"><span data-stu-id="25a91-152">Repeat step 3 for each alternate resource price that you want to set up.</span></span>
 
-## <a name="see-also"></a>See Also
-[Set Up Project Management](projects-setup-projects.md)  
-[Manage Projects](projects-manage-projects.md)  
-[Finance](finance-setup.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)         
-[Manage Sales](sales-manage-sales.md)      
-[Work With Dynamics NAV](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="25a91-153">See Also</span><span class="sxs-lookup"><span data-stu-id="25a91-153">See Also</span></span>
+[<span data-ttu-id="25a91-154">Set Up Project Management</span><span class="sxs-lookup"><span data-stu-id="25a91-154">Set Up Project Management</span></span>](projects-setup-projects.md)  
+[<span data-ttu-id="25a91-155">Manage Projects</span><span class="sxs-lookup"><span data-stu-id="25a91-155">Manage Projects</span></span>](projects-manage-projects.md)  
+[<span data-ttu-id="25a91-156">Finance</span><span class="sxs-lookup"><span data-stu-id="25a91-156">Finance</span></span>](finance-setup.md)  
+<span data-ttu-id="25a91-157">[Manage Purchasing](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="25a91-157">[Manage Purchasing](purchasing-manage-purchasing.md)       </span></span>  
+<span data-ttu-id="25a91-158">[Manage Sales](sales-manage-sales.md)    </span><span class="sxs-lookup"><span data-stu-id="25a91-158">[Manage Sales](sales-manage-sales.md)    </span></span>  
+[<span data-ttu-id="25a91-159">Work With Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="25a91-159">Work With Dynamics NAV</span></span>](ui-work-product.md)  
 

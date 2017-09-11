@@ -9,50 +9,50 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 191a9d0b38425c2e36400050afa4fa89ccd2556a
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 73e0e3a0ad91e6834f69bde098be880903057ddb
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-register-new-customers"></a>How to: Register New Customers
-Customers are the source of your income. Each customer who you sell to must be registered as a customer card.
+# <a name="how-to-register-new-customers"></a><span data-ttu-id="6d22c-102">How to: Register New Customers</span><span class="sxs-lookup"><span data-stu-id="6d22c-102">How to: Register New Customers</span></span>
+<span data-ttu-id="6d22c-103">Customers are the source of your income.</span><span class="sxs-lookup"><span data-stu-id="6d22c-103">Customers are the source of your income.</span></span> <span data-ttu-id="6d22c-104">Each customer who you sell to must be registered as a customer card.</span><span class="sxs-lookup"><span data-stu-id="6d22c-104">Each customer who you sell to must be registered as a customer card.</span></span>
 
-Before you can register new customers, you must set up various sales codes that you can select from when you fill customer cards. For more information, see [Set Up Sales](sales-setup-sales.md).
+<span data-ttu-id="6d22c-105">Before you can register new customers, you must set up various sales codes that you can select from when you fill customer cards.</span><span class="sxs-lookup"><span data-stu-id="6d22c-105">Before you can register new customers, you must set up various sales codes that you can select from when you fill customer cards.</span></span> <span data-ttu-id="6d22c-106">For more information, see [Set Up Sales](sales-setup-sales.md).</span><span class="sxs-lookup"><span data-stu-id="6d22c-106">For more information, see [Set Up Sales](sales-setup-sales.md).</span></span>
 
-Customer cards hold the information that is required to sell products to the customer. For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) and [How to: Register New Products](inventory-how-register-new-products.md).
+<span data-ttu-id="6d22c-107">Customer cards hold the information that is required to sell products to the customer.</span><span class="sxs-lookup"><span data-stu-id="6d22c-107">Customer cards hold the information that is required to sell products to the customer.</span></span> <span data-ttu-id="6d22c-108">For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) and [How to: Register New Products](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="6d22c-108">For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) and [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-**Note**: If customer templates exist for different customer types, then a window appears when you create a new customer card from where you can select an appropriate template. If only one customer template exists, then new customer cards always use that template.
+<span data-ttu-id="6d22c-109">**Note**: If customer templates exist for different customer types, then a window appears when you create a new customer card from where you can select an appropriate template.</span><span class="sxs-lookup"><span data-stu-id="6d22c-109">**Note**: If customer templates exist for different customer types, then a window appears when you create a new customer card from where you can select an appropriate template.</span></span> <span data-ttu-id="6d22c-110">If only one customer template exists, then new customer cards always use that template.</span><span class="sxs-lookup"><span data-stu-id="6d22c-110">If only one customer template exists, then new customer cards always use that template.</span></span>
 
-## <a name="to-create-a-new-customer-card"></a>To create a new customer card
-1. On the Home page, choose the **Customers** action to open the list of existing customers.  
-2. In the **Customers** window, choose the **New** action.
+## <a name="to-create-a-new-customer-card"></a><span data-ttu-id="6d22c-111">To create a new customer card</span><span class="sxs-lookup"><span data-stu-id="6d22c-111">To create a new customer card</span></span>
+1. <span data-ttu-id="6d22c-112">On the Home page, choose the **Customers** action to open the list of existing customers.</span><span class="sxs-lookup"><span data-stu-id="6d22c-112">On the Home page, choose the **Customers** action to open the list of existing customers.</span></span>  
+2. <span data-ttu-id="6d22c-113">In the **Customers** window, choose the **New** action.</span><span class="sxs-lookup"><span data-stu-id="6d22c-113">In the **Customers** window, choose the **New** action.</span></span>
 
-    If only one customer template exists, then a new customer card opens with some fields filled with information from the template.
+    <span data-ttu-id="6d22c-114">If only one customer template exists, then a new customer card opens with some fields filled with information from the template.</span><span class="sxs-lookup"><span data-stu-id="6d22c-114">If only one customer template exists, then a new customer card opens with some fields filled with information from the template.</span></span>
 
-    If more than one customer template exists, then a window opens from which you can select a customer template. In that case, follow the next two steps.
-3. In the **Select a template for a new customer** window, choose the template that you want to use for the new customer card.
-4. Choose the **OK** button. A new customer card opens with some fields filled with information from the template.  
-5. Proceed to fill or change fields on the customer card as necessary. Choose a field to read a short description of the field or link to more information.
+    <span data-ttu-id="6d22c-115">If more than one customer template exists, then a window opens from which you can select a customer template.</span><span class="sxs-lookup"><span data-stu-id="6d22c-115">If more than one customer template exists, then a window opens from which you can select a customer template.</span></span> <span data-ttu-id="6d22c-116">In that case, follow the next two steps.</span><span class="sxs-lookup"><span data-stu-id="6d22c-116">In that case, follow the next two steps.</span></span>
+3. <span data-ttu-id="6d22c-117">In the **Select a template for a new customer** window, choose the template that you want to use for the new customer card.</span><span class="sxs-lookup"><span data-stu-id="6d22c-117">In the **Select a template for a new customer** window, choose the template that you want to use for the new customer card.</span></span>
+4. <span data-ttu-id="6d22c-118">Choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="6d22c-118">Choose the **OK** button.</span></span> <span data-ttu-id="6d22c-119">A new customer card opens with some fields filled with information from the template.</span><span class="sxs-lookup"><span data-stu-id="6d22c-119">A new customer card opens with some fields filled with information from the template.</span></span>  
+5. <span data-ttu-id="6d22c-120">Proceed to fill or change fields on the customer card as necessary.</span><span class="sxs-lookup"><span data-stu-id="6d22c-120">Proceed to fill or change fields on the customer card as necessary.</span></span> <span data-ttu-id="6d22c-121">Choose a field to read a short description of the field or link to more information.</span><span class="sxs-lookup"><span data-stu-id="6d22c-121">Choose a field to read a short description of the field or link to more information.</span></span>
 
-On the **Sales Prices** FastTab, you can view special prices or discounts that you grant for the customer if certain criteria are met, such as item, minimum order quantity, or ending date. Each row represents a special price or line discount. Each column represents a criterion that must apply to warrant the special price that you enter in the **Unit Price** field, or the line discount that you enter in the **Line Discount %** field. For more information, see [Record Sales Price, Discount, and Payment Agreements](sales-how-record-sales-price-discount-payment-agreements.md).
+<span data-ttu-id="6d22c-122">On the **Sales Prices** FastTab, you can view special prices or discounts that you grant for the customer if certain criteria are met, such as item, minimum order quantity, or ending date.</span><span class="sxs-lookup"><span data-stu-id="6d22c-122">On the **Sales Prices** FastTab, you can view special prices or discounts that you grant for the customer if certain criteria are met, such as item, minimum order quantity, or ending date.</span></span> <span data-ttu-id="6d22c-123">Each row represents a special price or line discount.</span><span class="sxs-lookup"><span data-stu-id="6d22c-123">Each row represents a special price or line discount.</span></span> <span data-ttu-id="6d22c-124">Each column represents a criterion that must apply to warrant the special price that you enter in the **Unit Price** field, or the line discount that you enter in the **Line Discount %** field.</span><span class="sxs-lookup"><span data-stu-id="6d22c-124">Each column represents a criterion that must apply to warrant the special price that you enter in the **Unit Price** field, or the line discount that you enter in the **Line Discount %** field.</span></span> <span data-ttu-id="6d22c-125">For more information, see [Record Sales Price, Discount, and Payment Agreements](sales-how-record-sales-price-discount-payment-agreements.md).</span><span class="sxs-lookup"><span data-stu-id="6d22c-125">For more information, see [Record Sales Price, Discount, and Payment Agreements](sales-how-record-sales-price-discount-payment-agreements.md).</span></span>
 
-The customer is now registered, and the customer card is ready to be used on sales documents.
+<span data-ttu-id="6d22c-126">The customer is now registered, and the customer card is ready to be used on sales documents.</span><span class="sxs-lookup"><span data-stu-id="6d22c-126">The customer is now registered, and the customer card is ready to be used on sales documents.</span></span>
 
-If you want to use this customer card as a template when you create new customer cards, you can save it as a template. For more information, see the following section.
+<span data-ttu-id="6d22c-127">If you want to use this customer card as a template when you create new customer cards, you can save it as a template.</span><span class="sxs-lookup"><span data-stu-id="6d22c-127">If you want to use this customer card as a template when you create new customer cards, you can save it as a template.</span></span> <span data-ttu-id="6d22c-128">For more information, see the following section.</span><span class="sxs-lookup"><span data-stu-id="6d22c-128">For more information, see the following section.</span></span>
 
-## <a name="to-save-the-customer-card-as-a-template"></a>To save the customer card as a template
-1. In the **Customer Card** window, choose the **Save as Template** action. The **Customer Template** window opens showing the customer card as a template.
-2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
-3. To reuse dimensions in templates, choose the **Dimensions** action. The **Dimension Templates** window opens showing any dimension codes that are set up for the customer.
-4. Edit or enter dimension codes that will apply to new customer cards created by using the template.  
-5. When you have completed the new customer template, choose the **OK** button.
+## <a name="to-save-the-customer-card-as-a-template"></a><span data-ttu-id="6d22c-129">To save the customer card as a template</span><span class="sxs-lookup"><span data-stu-id="6d22c-129">To save the customer card as a template</span></span>
+1. <span data-ttu-id="6d22c-130">In the **Customer Card** window, choose the **Save as Template** action.</span><span class="sxs-lookup"><span data-stu-id="6d22c-130">In the **Customer Card** window, choose the **Save as Template** action.</span></span> <span data-ttu-id="6d22c-131">The **Customer Template** window opens showing the customer card as a template.</span><span class="sxs-lookup"><span data-stu-id="6d22c-131">The **Customer Template** window opens showing the customer card as a template.</span></span>
+2. <span data-ttu-id="6d22c-132">Fill in the fields as necessary.</span><span class="sxs-lookup"><span data-stu-id="6d22c-132">Fill in the fields as necessary.</span></span> <span data-ttu-id="6d22c-133">Choose a field to read a short description of the field or link to more information.</span><span class="sxs-lookup"><span data-stu-id="6d22c-133">Choose a field to read a short description of the field or link to more information.</span></span>
+3. <span data-ttu-id="6d22c-134">To reuse dimensions in templates, choose the **Dimensions** action.</span><span class="sxs-lookup"><span data-stu-id="6d22c-134">To reuse dimensions in templates, choose the **Dimensions** action.</span></span> <span data-ttu-id="6d22c-135">The **Dimension Templates** window opens showing any dimension codes that are set up for the customer.</span><span class="sxs-lookup"><span data-stu-id="6d22c-135">The **Dimension Templates** window opens showing any dimension codes that are set up for the customer.</span></span>
+4. <span data-ttu-id="6d22c-136">Edit or enter dimension codes that will apply to new customer cards created by using the template.</span><span class="sxs-lookup"><span data-stu-id="6d22c-136">Edit or enter dimension codes that will apply to new customer cards created by using the template.</span></span>  
+5. <span data-ttu-id="6d22c-137">When you have completed the new customer template, choose the **OK** button.</span><span class="sxs-lookup"><span data-stu-id="6d22c-137">When you have completed the new customer template, choose the **OK** button.</span></span>
 
-The customer template is added to the list of customer templates, so that you can use it to create new customer cards.
+<span data-ttu-id="6d22c-138">The customer template is added to the list of customer templates, so that you can use it to create new customer cards.</span><span class="sxs-lookup"><span data-stu-id="6d22c-138">The customer template is added to the list of customer templates, so that you can use it to create new customer cards.</span></span>
 
-## <a name="see-also"></a>See Also  
-[Manage Sales](sales-manage-sales.md)    
-[Set Up Sales](sales-setup-sales.md)    
-[Work with Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="6d22c-139">See Also</span><span class="sxs-lookup"><span data-stu-id="6d22c-139">See Also</span></span>  
+<span data-ttu-id="6d22c-140">[Manage Sales](sales-manage-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="6d22c-140">[Manage Sales](sales-manage-sales.md)  </span></span>  
+<span data-ttu-id="6d22c-141">[Set Up Sales](sales-setup-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="6d22c-141">[Set Up Sales](sales-setup-sales.md)  </span></span>  
+[<span data-ttu-id="6d22c-142">Work with Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="6d22c-142">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

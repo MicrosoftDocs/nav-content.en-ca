@@ -1,1 +1,1 @@
-Option
+<span data-ttu-id="94b4f-101">Option</span><span class="sxs-lookup"><span data-stu-id="94b4f-101">Option</span></span>
