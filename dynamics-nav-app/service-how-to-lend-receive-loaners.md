@@ -1,0 +1,50 @@
+---
+title: How to Lend Service Items as Substitutes
+description: You can lend customers loaner items to temporarily replace service items that you have received for servicing.
+documentationcenter: 
+author: bholtorf
+ms.prod: dynamics-nav-2017
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: 
+ms.date: 08/28/2017
+ms.author: bholtorf
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 165ce9b821b2f75380bb5c69fb7824a85e3f7a05
+ms.contentlocale: en-ca
+ms.lasthandoff: 10/16/2017
+
+---
+# <a name="how-to-lend-and-receive-loaners"></a><span data-ttu-id="01f20-103">How to: Lend and Receive Loaners</span><span class="sxs-lookup"><span data-stu-id="01f20-103">How to: Lend and Receive Loaners</span></span>
+<span data-ttu-id="01f20-104">You can lend customers loaners to temporarily replace service items that you have received for servicing.</span><span class="sxs-lookup"><span data-stu-id="01f20-104">You can lend customers loaners to temporarily replace service items that you have received for servicing.</span></span>  
+  
+## <a name="to-lend-a-loaner-item"></a><span data-ttu-id="01f20-105">To lend a loaner item</span><span class="sxs-lookup"><span data-stu-id="01f20-105">To lend a loaner item</span></span>    
+1. <span data-ttu-id="01f20-106">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Service Orders**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="01f20-106">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Service Orders**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="01f20-107">Open the relevant service order card.</span><span class="sxs-lookup"><span data-stu-id="01f20-107">Open the relevant service order card.</span></span>  
+3. <span data-ttu-id="01f20-108">Select the service item line with the service item you want to replace with a loaner.</span><span class="sxs-lookup"><span data-stu-id="01f20-108">Select the service item line with the service item you want to replace with a loaner.</span></span>  
+4. <span data-ttu-id="01f20-109">In the **Loaner No.**</span><span class="sxs-lookup"><span data-stu-id="01f20-109">In the **Loaner No.**</span></span> <span data-ttu-id="01f20-110">field, choose the relevant loaner item.</span><span class="sxs-lookup"><span data-stu-id="01f20-110">field, choose the relevant loaner item.</span></span>  
+5. <span data-ttu-id="01f20-111">Choose **Yes** to confirm the loan.</span><span class="sxs-lookup"><span data-stu-id="01f20-111">Choose **Yes** to confirm the loan.</span></span>  
+
+## <a name="to-receive-a-loaner"></a><span data-ttu-id="01f20-112">To receive a loaner</span><span class="sxs-lookup"><span data-stu-id="01f20-112">To receive a loaner</span></span>  
+<span data-ttu-id="01f20-113">When you receive a loaner from a customer, you must register the receipt.</span><span class="sxs-lookup"><span data-stu-id="01f20-113">When you receive a loaner from a customer, you must register the receipt.</span></span> <span data-ttu-id="01f20-114">You do this in the **Service Order**, **Posted Service Shipment**, and **Loaner Card** windows.</span><span class="sxs-lookup"><span data-stu-id="01f20-114">You do this in the **Service Order**, **Posted Service Shipment**, and **Loaner Card** windows.</span></span> <span data-ttu-id="01f20-115">This procedure shows how to receive loaners in the **Service Order** window.</span><span class="sxs-lookup"><span data-stu-id="01f20-115">This procedure shows how to receive loaners in the **Service Order** window.</span></span>  
+  
+1. <span data-ttu-id="01f20-116">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Service Orders**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="01f20-116">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Service Orders**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="01f20-117">Open the relevant service order.</span><span class="sxs-lookup"><span data-stu-id="01f20-117">Open the relevant service order.</span></span>  
+3. <span data-ttu-id="01f20-118">Choose the service item line with the loaner you want to receive.</span><span class="sxs-lookup"><span data-stu-id="01f20-118">Choose the service item line with the loaner you want to receive.</span></span>  
+4. <span data-ttu-id="01f20-119">Choose **Actions**, choose **Functions**, and then choose **Receive Loaner**.</span><span class="sxs-lookup"><span data-stu-id="01f20-119">Choose **Actions**, choose **Functions**, and then choose **Receive Loaner**.</span></span>  
+
+## <a name="to-register-loaner-comments"></a><span data-ttu-id="01f20-120">To register loaner comments</span><span class="sxs-lookup"><span data-stu-id="01f20-120">To register loaner comments</span></span>  
+<span data-ttu-id="01f20-121">You can use the **General Service Comment Sheet** window to register comments on registered loaners.</span><span class="sxs-lookup"><span data-stu-id="01f20-121">You can use the **General Service Comment Sheet** window to register comments on registered loaners.</span></span>  
+  
+1. <span data-ttu-id="01f20-122">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Loaners**, and then choose the related link.</span><span class="sxs-lookup"><span data-stu-id="01f20-122">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Loaners**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="01f20-123">Open the relevant loaner card.</span><span class="sxs-lookup"><span data-stu-id="01f20-123">Open the relevant loaner card.</span></span>  
+3. <span data-ttu-id="01f20-124">Choose the **Comments** action.</span><span class="sxs-lookup"><span data-stu-id="01f20-124">Choose the **Comments** action.</span></span> <span data-ttu-id="01f20-125">The **General Service Comment Sheet** window opens.</span><span class="sxs-lookup"><span data-stu-id="01f20-125">The **General Service Comment Sheet** window opens.</span></span>  
+4. <span data-ttu-id="01f20-126">In the **Date** field, enter a date.</span><span class="sxs-lookup"><span data-stu-id="01f20-126">In the **Date** field, enter a date.</span></span>  
+5. <span data-ttu-id="01f20-127">In the **Comment** field, enter a comment.</span><span class="sxs-lookup"><span data-stu-id="01f20-127">In the **Comment** field, enter a comment.</span></span> <span data-ttu-id="01f20-128">You can enter a maximum of 80 characters.</span><span class="sxs-lookup"><span data-stu-id="01f20-128">You can enter a maximum of 80 characters.</span></span> <span data-ttu-id="01f20-129">If you need to enter additional text, go to the next line.</span><span class="sxs-lookup"><span data-stu-id="01f20-129">If you need to enter additional text, go to the next line.</span></span> <span data-ttu-id="01f20-130">You can fill in as many lines as necessary.</span><span class="sxs-lookup"><span data-stu-id="01f20-130">You can fill in as many lines as necessary.</span></span>  
+  
+## <a name="see-also"></a><span data-ttu-id="01f20-131">See Also</span><span class="sxs-lookup"><span data-stu-id="01f20-131">See Also</span></span>  
+[<span data-ttu-id="01f20-132">How to: Set Up a Loaner Program</span><span class="sxs-lookup"><span data-stu-id="01f20-132">How to: Set Up a Loaner Program</span></span>](service-how-setup-loaner-program.md)   
+

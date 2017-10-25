@@ -1,1 +1,1 @@
-<span data-ttu-id="a5c9d-101">Microsoft Dynamics NAV 2013 R2</span><span class="sxs-lookup"><span data-stu-id="a5c9d-101">Microsoft Dynamics NAV 2013 R2</span></span>
+<span data-ttu-id="d11ad-101">Microsoft Dynamics NAV 2013 R2</span><span class="sxs-lookup"><span data-stu-id="d11ad-101">Microsoft Dynamics NAV 2013 R2</span></span>

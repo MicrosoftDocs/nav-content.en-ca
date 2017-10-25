@@ -1,41 +1,44 @@
 ---
-title: Set Up Sales
+title: Overview of Tasks to Configure Sales Processes
+description: Outlines tasks to set up rules and values to define your sales policies and processes.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a02a3c4dd4586925412fd4cdc451a9c57842f839
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: trade, sell, configure
+ms.date: 08/23/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 300f281cc409e08a253f060e97bb9a80340176bf
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-sales"></a><span data-ttu-id="8eb4c-103">Setting Up Sales</span><span class="sxs-lookup"><span data-stu-id="8eb4c-103">Setting Up Sales</span></span>
+<span data-ttu-id="8eb4c-104">Before you can manage sales processes, you must configure the rules and values that define the company's sales policies.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-104">Before you can manage sales processes, you must configure the rules and values that define the company's sales policies.</span></span>
 
-# <a name="set-up-sales"></a><span data-ttu-id="ea74d-102">Set Up Sales</span><span class="sxs-lookup"><span data-stu-id="ea74d-102">Set Up Sales</span></span>
+<span data-ttu-id="8eb4c-105">You must define the general setup, such as which sales documents are required and how their values are posted.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-105">You must define the general setup, such as which sales documents are required and how their values are posted.</span></span> <span data-ttu-id="8eb4c-106">This general setup is typically performed once during the initial implementation.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-106">This general setup is typically performed once during the initial implementation.</span></span>
 
-<span data-ttu-id="ea74d-103">Before you can manage sales processes, you must configure the rules and values that define the company's sales policies.</span><span class="sxs-lookup"><span data-stu-id="ea74d-103">Before you can manage sales processes, you must configure the rules and values that define the company's sales policies.</span></span>
+<span data-ttu-id="8eb4c-107">A separate series of tasks related to registering new customers is to record any special price or discount agreements that you have with each customer.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-107">A separate series of tasks related to registering new customers is to record any special price or discount agreements that you have with each customer.</span></span>
 
-<span data-ttu-id="ea74d-104">First, you must define the general setup, such as which sales documents are required and how their values are posted.</span><span class="sxs-lookup"><span data-stu-id="ea74d-104">First, you must define the general setup, such as which sales documents are required and how their values are posted.</span></span> <span data-ttu-id="ea74d-105">This general setup is typically performed once during the initial implementation.</span><span class="sxs-lookup"><span data-stu-id="ea74d-105">This general setup is typically performed once during the initial implementation.</span></span>
+<span data-ttu-id="8eb4c-108">Finance-related sales setup, such as payment methods and currencies, are covered in the Finance Setup section.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-108">Finance-related sales setup, such as payment methods and currencies, are covered in the Finance Setup section.</span></span> <span data-ttu-id="8eb4c-109">For more information, see [Setting Up Finance](finance-setup-finance.md).</span><span class="sxs-lookup"><span data-stu-id="8eb4c-109">For more information, see [Setting Up Finance](finance-setup-finance.md).</span></span>
 
-<span data-ttu-id="ea74d-106">A separate series of tasks related to creating customer master data is to record the customers' discount and price agreements in windows linked to the customer cards.</span><span class="sxs-lookup"><span data-stu-id="ea74d-106">A separate series of tasks related to creating customer master data is to record the customers' discount and price agreements in windows linked to the customer cards.</span></span>
+| <span data-ttu-id="8eb4c-110">To</span><span class="sxs-lookup"><span data-stu-id="8eb4c-110">To</span></span> | <span data-ttu-id="8eb4c-111">See</span><span class="sxs-lookup"><span data-stu-id="8eb4c-111">See</span></span> |
+| --- | --- |
+| <span data-ttu-id="8eb4c-112">Create a customer card for each customer that you sell to.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-112">Create a customer card for each customer that you sell to.</span></span> |[<span data-ttu-id="8eb4c-113">How to: Register New Customers</span><span class="sxs-lookup"><span data-stu-id="8eb4c-113">How to: Register New Customers</span></span>](sales-how-register-new-customers.md) |
+| <span data-ttu-id="8eb4c-114">Enable customers to pay through PayPal by choosing the PayPal logo on sales documents.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-114">Enable customers to pay through PayPal by choosing the PayPal logo on sales documents.</span></span> |[<span data-ttu-id="8eb4c-115">How to: Enable Customer Payment Through PayPal</span><span class="sxs-lookup"><span data-stu-id="8eb4c-115">How to: Enable Customer Payment Through PayPal</span></span>](sales-how-enable-payment-service-extensions.md) |
+| <span data-ttu-id="8eb4c-116">Enter the different discounts and special prices that you grant to customers depending on item, quantities, and/or date.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-116">Enter the different discounts and special prices that you grant to customers depending on item, quantities, and/or date.</span></span> |[<span data-ttu-id="8eb4c-117">How to: Record Sales Price, Discount, and Payment Agreements</span><span class="sxs-lookup"><span data-stu-id="8eb4c-117">How to: Record Sales Price, Discount, and Payment Agreements</span></span>](sales-how-record-sales-price-discount-payment-agreements.md) |
+| <span data-ttu-id="8eb4c-118">Set up salespeople so that you can assign them to customer contacts or measure salespeople's performance as a basis for calculating the sales commission or bonus.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-118">Set up salespeople so that you can assign them to customer contacts or measure salespeople's performance as a basis for calculating the sales commission or bonus.</span></span> |[<span data-ttu-id="8eb4c-119">How to: Set Up Salespeople</span><span class="sxs-lookup"><span data-stu-id="8eb4c-119">How to: Set Up Salespeople</span></span>](sales-how-setup-salespeople.md) |
+| <span data-ttu-id="8eb4c-120">Specify for individual customers or for all customers how sales documents are sent by default when you choose the **Post and Send** action.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-120">Specify for individual customers or for all customers how sales documents are sent by default when you choose the **Post and Send** action.</span></span> |[<span data-ttu-id="8eb4c-121">How to: Set Up Document Sending Profiles</span><span class="sxs-lookup"><span data-stu-id="8eb4c-121">How to: Set Up Document Sending Profiles</span></span>](sales-how-setup-document-send-profiles.md) |
+| <span data-ttu-id="8eb4c-122">Set your email up to contain a summary of information in the sales document that is being sent.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-122">Set your email up to contain a summary of information in the sales document that is being sent.</span></span> |<span data-ttu-id="8eb4c-123">[How to: Send Documents by Email](ui-how-send-documents-email.md).</span><span class="sxs-lookup"><span data-stu-id="8eb4c-123">[How to: Send Documents by Email](ui-how-send-documents-email.md).</span></span> |
+|<span data-ttu-id="8eb4c-124">Use an EU web service to verify a customer's GST/HST Registration number.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-124">Use an EU web service to verify a customer's VAT registration number.</span></span>|[<span data-ttu-id="8eb4c-125">How to: Verify GST/HST Registration numbers</span><span class="sxs-lookup"><span data-stu-id="8eb4c-125">How to: Verify VAT Registration Numbers</span></span>](sales-how-to-verify-vat-registration-numbers.md)|
+|<span data-ttu-id="8eb4c-126">Enter information about the different transportation vendors you use, including a link to their package tracking service.</span><span class="sxs-lookup"><span data-stu-id="8eb4c-126">Enter information about the different transportation vendors you use, including a link to their package tracking service.</span></span>|[<span data-ttu-id="8eb4c-127">How to: Set Up Shipping Agents</span><span class="sxs-lookup"><span data-stu-id="8eb4c-127">How to: Set Up Shipping Agents</span></span>](sales-how-to-set-up-shipping-agents.md)|
 
-<span data-ttu-id="ea74d-107">The periodic activity of creating customer cards for new customers is covered in the Manage Sales section.</span><span class="sxs-lookup"><span data-stu-id="ea74d-107">The periodic activity of creating customer cards for new customers is covered in the Manage Sales section.</span></span> <span data-ttu-id="ea74d-108">For more information, see [How to: Register New Customers](sales-how-register-new-customers.md).</span><span class="sxs-lookup"><span data-stu-id="ea74d-108">For more information, see [How to: Register New Customers](sales-how-register-new-customers.md).</span></span>
-
-<span data-ttu-id="ea74d-109">Finance-related sales setup, such as payment methods and currencies, are covered in the Finance Setup section.</span><span class="sxs-lookup"><span data-stu-id="ea74d-109">Finance-related sales setup, such as payment methods and currencies, are covered in the Finance Setup section.</span></span> <span data-ttu-id="ea74d-110">For more information, see [Set Up Finance](finance-setup-setup-finance-setup.md).</span><span class="sxs-lookup"><span data-stu-id="ea74d-110">For more information, see [Set Up Finance](finance-setup-setup-finance-setup.md).</span></span>
-
-|<span data-ttu-id="ea74d-111">To</span><span class="sxs-lookup"><span data-stu-id="ea74d-111">To</span></span> |<span data-ttu-id="ea74d-112">See</span><span class="sxs-lookup"><span data-stu-id="ea74d-112">See</span></span> |
-|---|----|
-|<span data-ttu-id="ea74d-113">Enable customers to pay through PayPal by choosing the PayPal logo on sales documents.</span><span class="sxs-lookup"><span data-stu-id="ea74d-113">Enable customers to pay through PayPal by choosing the PayPal logo on sales documents.</span></span>|[<span data-ttu-id="ea74d-114">How to: Enable Customer Payment Through PayPal</span><span class="sxs-lookup"><span data-stu-id="ea74d-114">How to: Enable Customer Payment Through PayPal</span></span>](sales-how-enable-customer-payments-paypal.md)|
-|<span data-ttu-id="ea74d-115">Enter the different discounts and alternative prices that you grant the customers depending on item, quantities, and/or date.</span><span class="sxs-lookup"><span data-stu-id="ea74d-115">Enter the different discounts and alternative prices that you grant the customers depending on item, quantities, and/or date.</span></span>|[<span data-ttu-id="ea74d-116">Record Sales Price, Discount, and Payment Agreements</span><span class="sxs-lookup"><span data-stu-id="ea74d-116">Record Sales Price, Discount, and Payment Agreements</span></span>](sales-how-record-sales-price-discount-payment-agreements.md)|
-|<span data-ttu-id="ea74d-117">Set up salespeople so that you can assign them to customer contacts or measure salespeople's performance as a basis for calculating the sales commission or bonus.</span><span class="sxs-lookup"><span data-stu-id="ea74d-117">Set up salespeople so that you can assign them to customer contacts or measure salespeople's performance as a basis for calculating the sales commission or bonus.</span></span>|[<span data-ttu-id="ea74d-118">How to: Set Up Salespeople</span><span class="sxs-lookup"><span data-stu-id="ea74d-118">How to: Set Up Salespeople</span></span>](sales-how-setup-salespeople.md)|
-|<span data-ttu-id="ea74d-119">Specify for individual customers or for all customers how sales documents are sent by default when you choose the **Post and Send** action.</span><span class="sxs-lookup"><span data-stu-id="ea74d-119">Specify for individual customers or for all customers how sales documents are sent by default when you choose the **Post and Send** action.</span></span>|[<span data-ttu-id="ea74d-120">How to: Set Up Document Sending Profiles</span><span class="sxs-lookup"><span data-stu-id="ea74d-120">How to: Set Up Document Sending Profiles</span></span>](sales-how-setup-document-send-profiles.md)|
-|<span data-ttu-id="ea74d-121">Set your email up to contain a summary of information in the sales document that is being sent.</span><span class="sxs-lookup"><span data-stu-id="ea74d-121">Set your email up to contain a summary of information in the sales document that is being sent.</span></span>|<span data-ttu-id="ea74d-122">[How to: Send Documents by Email](ui-how-send-documents-email.md).</span><span class="sxs-lookup"><span data-stu-id="ea74d-122">[How to: Send Documents by Email](ui-how-send-documents-email.md).</span></span>|
-
-## <a name="see-also"></a><span data-ttu-id="ea74d-123">See Also</span><span class="sxs-lookup"><span data-stu-id="ea74d-123">See Also</span></span>  
-[<span data-ttu-id="ea74d-124">Manage Sales</span><span class="sxs-lookup"><span data-stu-id="ea74d-124">Manage Sales</span></span>](sales-manage-sales.md)
+## <a name="see-also"></a><span data-ttu-id="8eb4c-128">See Also</span><span class="sxs-lookup"><span data-stu-id="8eb4c-128">See Also</span></span>
+[<span data-ttu-id="8eb4c-129">Sales</span><span class="sxs-lookup"><span data-stu-id="8eb4c-129">Sales</span></span>](sales-manage-sales.md)  
+<span data-ttu-id="8eb4c-130">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="8eb4c-130">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 
