@@ -1,23 +1,25 @@
 ---
-title: 'How to: Set Up a Coloured Indicator on Cues'
+title: Specify Coloured Indicators to Customize Visual Signals About a Cue's Activity
+description: "Set up a coloured indicator on a Cue tile to provide a personalized visual signal of the Cue’s activity."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 04272431b01c0ab398618d9878b90d73e6324abe
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: personalize, customize
+ms.date: 03/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: cb231bdf438363f66b806369e2d0041e4ff014e2
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
 # <a name="how-to-set-up-a-colored-indicator-on-cues"></a>How to: Set Up a Coloured Indicator on Cues
-You can set up Cues that appear on the **Home** page to include an indicator that changes colour based on the data values in the Cues. 
+You can set up Cues that appear on the **Home** page to include an indicator that changes colour based on the data values in the Cues.
 
 The indicator appears as a coloured bar along the top border of the Cue tile. It provides a visual signal of the status of the Cue's activity, which can indicate favourable or unfavourable conditions to prompt the user to take action. For example, if a Cue displays ongoing sales invoices, you can set up the indicator to appear green (favourable) when total number of ongoing sales invoices is below 10, and appears red (unfavourable) when the total is greater than 20.
 
@@ -27,20 +29,19 @@ To set up the indicator, you specify up to two threshold values that define thre
 
 ## <a name="to-set-up-colored-indicators-on-cues"></a>To set up coloured indicators on Cues
 1. Under **Activities** on your **Home** page, choose **Set Up Cues**.  
-The **Cue Setup** window appears. The window lists the indicators that are currently setup up on Cues.
+   The **Cue Setup** window appears. The window lists the indicators that are currently setup up on Cues.
 2. To modify an indicator, edit the fields and modify, for example, the values for the different thresholds.  
 
 The following table lists the colours that correspond to the options of the **Low Range Style**, **Middle Range Style**, and **High Range Style** fields.
 
-|Option|Colour|
-|------|-----|
-|**None**|No colour (same colour as the Cue tile|
-|**Favorable**|Green|
-|**Unfavorable**|Red|
-|**Ambiguous**|Yellow|
-|**Subordinate**|Grey|
+| Option | Colour |
+| --- | --- |
+| **None** |No colour (same colour as the Cue tile |
+| **Favorable** |Green |
+| **Unfavorable** |Red |
+| **Ambiguous** |Yellow |
+| **Subordinate** |Grey |
 
 ## <a name="see-also"></a>See Also
-[Work with Dynamics NAV](ui-work-product.md)
-
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

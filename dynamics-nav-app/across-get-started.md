@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 113453b0c0b6e1ed61ac4ec66046fcbcead4960f
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 010c3862fcd791755958b17f63b4064ff33fcf58
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -38,7 +38,7 @@ When you have run an assisted setup, it is marked as **Completed**. To run the a
 
 ## <a name="see-also"></a>See Also
 [Setup](setup.md)  
-[Finance](finance-setup.md)  
+[Finance](finance.md)  
 [Customizing Dynamics NAV Using Extensions](ui-extensions.md)  
 [Work With Dynamics NAV](ui-work-product.md)  
 [Using Dynamics NAV as your Business Inbox in Outlook](across-outlook.md)  

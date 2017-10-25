@@ -1,1 +1,1 @@
-CRONUS Canada, Inc. demonstration database
+CRONUS International Ltd. demonstration database

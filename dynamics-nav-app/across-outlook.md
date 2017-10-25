@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 647ebd5d4f47a367c86fc02057e28c514a433aec
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: cf4202c3b7186eb1dd4633f74d2d48664458455e
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -44,7 +44,7 @@ In the Document Links add-in, you can modify and take actions with the document,
 
 ## <a name="see-also"></a>See Also
 [Welcome to Dynamics NAV](across-get-started.md)  
-[Finance](finance-setup.md)  
+[Finance](finance.md)  
 [Manage Sales](sales-manage-sales.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
 

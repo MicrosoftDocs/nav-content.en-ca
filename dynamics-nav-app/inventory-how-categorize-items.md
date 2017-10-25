@@ -1,44 +1,48 @@
 ---
-title: 'How to: Categorize Items'
+title: Organize Items in Categories
+description: To help you search for and find items, you can assign item attributes and organize items in categories.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 139f3e1a73ec57b56564e68e7318d163dc2483b1
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: category, search, attribute, facet
+ms.date: 06/02/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: cc83849ced0fc7dc14375962824290b93e23b197
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-categorize-items"></a>How to: Categorize Items
 To maintain an overview of your items and to help you sort and find items, it is useful to organize your items in item categories.
 
 To find items by characteristics, you can assign item attributes to items and also to item categories. For more information, see [How to: Work with Item Attributes](inventory-how-work-item-attributes.md).
 
 ## <a name="to-create-an-item-category"></a>To create an item category
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Item Categories**, and then choose the related link.
+1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Item Categories**, and then choose the related link.
 2. In the **Item Categories** window, choose the **New** action.
-3. In the **Item Category Card** window, on the **General** FastTab, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
+3. In the **Item Category Card** window, on the **General** FastTab, fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. On the **Attributes** FastTab, specify any item attributes for the item category. For more information, see the "To assign item attributes to an item category" section in [How to: Work with Item Attributes](inventory-how-work-item-attributes.md).
 
-**Note**: If the item category has a parent item category, as indicated by the **Parent Category** field, then any item attributes that are assigned to that parent item category are prefilled on the **Attributes** FastTab.
+> [!NOTE]  
+>   If the item category has a parent item category, as indicated by the **Parent Category** field, then any item attributes that are assigned to that parent item category are prefilled on the **Attributes** FastTab.
 
-**Note**: Item attributes that you assign to an item category will automatically apply to the item that the item category is assigned to.
+> [!NOTE]  
+>   Item attributes that you assign to an item category will automatically apply to the item that the item category is assigned to.
 
 ## <a name="to-assign-an-item-category-to-an-item"></a>To assign an item category to an item
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Items**, and then choose the related link.
+1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Items**, and then choose the related link.
 2. Open the card for the item that you want to assign to an item category.
-3. Choose the AssistEdit button in the **Item Category Code** field and select an existing item category. Alternatively, choose the **New** action to first create a new item category as explained in the "To create an item category" section.
+3. Choose the lookup button in the **Item Category Code** field and select an existing item category. Alternatively, choose the **New** action to first create a new item category as explained in the "To create an item category" section.
 
-## <a name="see-also"></a>See Also  
+## <a name="see-also"></a>See Also
 [How to: Work with Item Attributes](inventory-how-work-item-attributes.md)  
-[How to: Register New Products](inventory-how-register-new-products.md)  
-[Manage Inventory](inventory-manage-inventory.md)  
-[Work With Dynamics NAV](ui-work-product.md)
+[How to: Register New Items](inventory-how-register-new-items.md)  
+[Inventory](inventory-manage-inventory.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

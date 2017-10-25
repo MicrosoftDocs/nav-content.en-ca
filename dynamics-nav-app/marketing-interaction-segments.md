@@ -1,21 +1,24 @@
 ---
-title: Interactions and Segments
+title: Keep Track of Segments and Related Interactions
+description: Learn about creating segments to define groups of contacts and specifying interactions for segments.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c66dff69fa31458e94f7de5fa4b524656141a5f6
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b4fb4abfdfe69856d0e26e20d30f3adcaf2fd665
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="interactions-and-segments"></a>Interactions and Segments
+# <a name="managing-interactions-for-segments"></a>Managing Interactions for Segments
 The **Segment** window is a type of worksheet where you can:
 
 * Create segments.
@@ -40,12 +43,12 @@ In the **Segment** window, when you choose **Log**, the application records the 
 
 In the **Logged Segments** window, you can decide to create a follow-up segment containing the same contacts as the segment you have logged.
 
-
-##<a name="see-also"></a>See Also
+## <a name="see-also"></a>See Also
 [How to: Create Segments](marketing-how-create-segment.md)  
 [How to: Create Interactions for Segments](marketing-how-create-interactions.md)  
-[Manage Segments](marketing-segments.md)  
+[Managing Segments](marketing-segments.md)  
 [Recording Interactions With Contacts](marketing-interactions.md)  
-[Manage Sales Opportunities](marketing-manage-sales-opportunities.md)  
-[Create and Manage Contacts](marketing-contacts.md)
+[Managing Sales Opportunities](marketing-manage-sales-opportunities.md)  
+[Creating and Managing Contacts](marketing-contacts.md)  
+[Working with Dynamics NAV](ui-work-product.md)
 

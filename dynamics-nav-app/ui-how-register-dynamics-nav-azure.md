@@ -10,11 +10,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 225773f7f686dd6e9a79f759d520d66f7e7b9d0a
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: d41b96ab5807402a342991d5c5bc2d672db09e2f
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a>How to: Register Dynamics NAV in the Azure Management Portal
@@ -25,8 +25,7 @@ You can use the **Set Up Azure Management Portal** guide to register Dynamics NA
 The point of the registration is that Dynamics NAV and the service that you want to connect to must know the Azure Active Directory (Azure AD) details about each other.
 
 ## <a name="to-register-dynamics-nav-in-the-azure-management-portal"></a>To register Dynamics NAV in the Azure Management Portal
-1. Log in to the Azure Management Portal at [https://portal.azure.com](https://portal.azure.com).
-    If you are not familiar with the Azure Management Portal, you can find guidance in the [Azure documentation library](https://azure.microsoft.com/en-us/documentation/articles).
+1. Log in to the Azure Management Portal at [https://portal.azure.com](https://portal.azure.com).  If you are not familiar with the Azure Management Portal, you can find guidance in the [Azure documentation library](https://azure.microsoft.com/en-us/documentation/articles).
 2. In the left navigation pane, choose **More services**, and then choose **App registrations**.
 3. In the top menu, choose **Add**, and then, in the **Create pane**, fill in the fields with the following information:
     - **Name**: Specify a name for your Dynamics NAV solution, such as *Dynamics NAV*.

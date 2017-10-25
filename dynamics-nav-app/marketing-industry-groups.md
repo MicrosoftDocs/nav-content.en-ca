@@ -1,34 +1,38 @@
 ---
 title: Set Up Industry Groups for Contact Companies
+description: Describes how to define an industry group and assign it to a contact company, for example, the retail industry or the automobile industry.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 466f8513b3abc8c10dc579bff5fde9ea11c21d27
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 62d946155cb65a3e976771bc5029878893bd4797
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="set-up-industry-groups-for-contact-companies"></a>Set Up Industry Groups for Contact Companies
+# <a name="how-to-set-up-industry-groups-for-contact-companies"></a>How to: Set Up Industry Groups for Contact Companies
 You use industry groups to indicate the type of industry to which your contacts belong, for example, the retail industry or the automobile industry.
 
 Using industry groups on contacts is a two-step process. First, you define the industry group code. You only have to perform this step one time for each industry group. Once you have an industry group code, you can start to assign the code to contact companies.
 
-**Note:** If you plan to synchronize your contacts with vendors, customers, or bank accounts in other parts of the application, you may want to set up a business relation for them.
+> [!NOTE]  
+>   If you plan to synchronize your contacts with vendors, customers, or bank accounts in other parts of the application, you may want to set up a business relation for them.
 
-## <a name="define-an-industry-group-code"></a>Define an Industry Group Code
+## <a name="to-define-an-industry-group-code"></a>To define an industry group code
 The industry group code defines the type or category of the group, such as ADVERT for advertising, or PRESS, for TV and radio. You can have several industry group codes. To define the industry groups, you use the **Industry Groups** window.
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Industry Groups**, and then choose the related link.
+1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Industry Groups**, and then choose the related link.
 2. Choose the **New** action, and fill in a code and description. The code can be a maximum of 11 characters, and can be any combination of numbers and letters.
 
-## <a name="assign-industry-groups-to-a-contact"></a>Assign Industry Groups to a Contact
+## <a name="AssignIndustryGroupContact"></a> To assign industry groups to a contact
 You cannot assign industry groups to a contact person - only companies.
 
 1. Open the contact.
@@ -37,10 +41,11 @@ You cannot assign industry groups to a contact person - only companies.
 
 Repeat these steps to assign as many industry groups as you want. You can also assign industry groups from the contact list by following the same procedure.
 
-The number of industry groups that you have assigned to the contact is displayed in the **No. of Industry Groups** field on the **Segmentation** section of the **Contact** window.
+The number of industry groups that you have assigned to the contact is displayed in the **No. of Industry Groups** field in the **Segmentation** section in the **Contact** window.
 
 After you have assigned industry groups to your contacts, you can use this information to select contacts for your segments. For more information, see [How to: Add Contacts to Segments](marketing-add-contact-segment.md).
 
-##<a name="see-also"></a>See Also
-[Create Contact Companies](marketing-create-contact-companies.md)
+## <a name="see-also"></a>See Also
+[Creating Contact Companies](marketing-create-contact-companies.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

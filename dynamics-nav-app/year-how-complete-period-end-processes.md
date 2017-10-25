@@ -1,62 +1,65 @@
 ---
-title: Close Periods
+title: Optional Activities for Closing Periods
+description: This topic outlines the optional processes and activities for closing accounting periods in Dynamics NAV.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ac1ed2d1dcf8bf780bda91fbf0a04e5c5e8d106a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
+ms.date: 06/19/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: ca22e72552c69d3bcb0b85101b586796ff026896
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="close-periods"></a>Close Periods
-The application does not force you to close periods, however, there are many period-end (month-end) activities that can be performed in the application if you want. This topic provides an overview of these processes and activities, which may or may not be necessary for your company.
+# <a name="overview-of-tasks-to-close-accounting-periods"></a>Overview of Tasks to Close Accounting Periods
+[!INCLUDE[d365fin](includes/d365fin_md.md)] does not force you to close periods, however, there are many period-end (month-end) activities that you can do. This topic provides an overview of optional processes and activities for closing periods.  
 
 ## <a name="general-ledger"></a>General Ledger
-* Specify system-wide and user-specific posting period.
+* Specify system-wide and user-specific posting periods.  
 
-    This specifies the dates between which postings are allowed. Depending on your business needs, you may want to restrict user posting date ranges at the start of the period-end process or at later time towards the end of the period. For more information, see [How to: Specify Posting Periods](finance-setup-how-specify-posting-periods.md).
-* Make all necessary G/L adjustments.
-* Update and post Recurring Journals.
-<!--* Process Consolidations-->
-* Run account schedules as follows:
-  1. Open the **Account Schedule** window, and choose the **Print** action.
-  2. Fill the **Account Schedule** request window and choose the **Print** action.
+    This specifies the dates between which you allow posting. Depending on your business, you may want to allow posting at the start of the period, or toward the end. For more information, see [How to: Specify Posting Periods](finance-how-specify-posting-periods.md).  
+* Make all necessary G/L adjustments.  
+* Update and post Recurring Journals.  
+  <!--* Process Consolidations-->
+* Run account schedules as follows:  
+  * Open the **Account Schedule** window, and then choose the **Print** action.  
 
-## <a name="sales--receivables"></a>Sales & Receivables
-* Post all sales orders, invoices, credit memos, and return orders.
-* Post all cash receipt journals.
-* Update and post recurring journals that are related to Sales & Receivables.
-* Reconcile accounts receivable to the general ledger.
-* Run the **Delete Invoiced Sales Orders** batch job.
+## <a name="sales-and-receivables"></a>Sales and Receivables
+* Post all sales orders, invoices, credit memos, and return orders.  
+* Post all cash receipt journals.  
+* Update and post recurring journals that are related to sales and receivables.  
+* Reconcile accounts receivable to the general ledger.  
+* Run the **Delete Invoiced Sales Orders** batch job.  
 
-## <a name="purchases--payables"></a>Purchases & Payables
-* Post all purchase orders, invoices, credit memos, and return orders.
-* Post all payment journals.
-* Update and post recurring journals that are related to purchases & payables.
-* Run the **Aged Accounts Payable** report and reconcile accounts payable to the general ledger.
-* Run the **Delete Invoiced Purchase Orders** batch job.
+## <a name="purchases-and-payables"></a>Purchases and Payables
+* Post all purchase orders, invoices, credit memos, and return orders.  
+* Post all payment journals.  
+* Update and post recurring journals that are related to purchases & payables.  
+* Run the **Aged Accounts Payable** report and reconcile accounts payable to the general ledger.  
+* Run the **Delete Invoiced Purchase Orders** batch job.  
 
-<!-- ### Fixed Assets
+Fixed Assets
 * Post all maintenance costs have been posted through the fixed asset journals or invoices.
 * Post adjustments.
 * Post appreciation.
 * Post depreciation.
-* Update and post the recurring fixed asset journal.-->
+* Update and post the recurring fixed asset journal.
 
-<!--### Intercompany
-* Process Intercompany Postings.-->
+Intercompany
+* Process Intercompany Transactions
 
 ## <a name="calculate-and-process-sales-tax"></a>Calculate and Process Sales Tax
-*  Complete Tax Statements.
+* Complete Tax Statements.  
 
 ## <a name="see-also"></a>See Also
 [Closing Years and Periods](year-close-years-periods.md)  
-[Close Books](year-close-books.md)
+[Closing Books](year-close-books.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

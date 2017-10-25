@@ -1,21 +1,24 @@
 ---
 title: Create Contact Persons
+description: Outlines the tasks to create a contact card for a person, for example, a prospect or supplier, helping to define the relationship and tailor communication.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2d6fa08f83276d9da91f22215e578d98199cf4e3
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 34dc16ae3c6f9f6b11abca2480c7bcae9a0a3cab
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="create-contact-persons"></a>Create Contact Persons
+# <a name="creating-contact-persons"></a>Creating Contact Persons
 You create a contact by setting up a contact card for the person. You can create contact persons from existing contact companies, or you can create independent contact persons.
 
 For example, after meeting with a prospective company, you meet the purchaser. You can create a contact card for this person so communication can be more tailored.
@@ -24,16 +27,18 @@ You may also need some publications about your products translated and after som
 
 By recording as many details as possible about a contact person ensures that all groups at your company can find the relevant information.
 
-The following table describes a sequence of tasks, with links to the topics that describe them. These tasks are listed in the order in which they are generally performed.
+The following table describes a sequence of tasks, with links to the topics that describe them. 
 
-|To |See |
-|---|----|
-|Provide information about a contact person.|[How to: Create Contact Person](marketing-how-create-contact-persons.md)|
-|Set up an alternative address for a contact.|[How to: Assign Alternative Addresses](marketing-how-assign-alternative-address.md)|
-|Describe the business relationship of a company contact.|[Set Up Job Responsibilities on Contacts](marketing-job-responsibilities.md)|
-|Describe the organizational level of your contacts.|[Set Up Organizational Levels for Contact Persons](marketing-organizational-levels.md)|
-|Assign mailing groups your contacts.|[Assign Mailing Groups to a Contact](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)|
+| To | See |
+| --- | --- |
+| Provide information about a contact person. |[How to: Create Contact Persons](marketing-how-create-contact-persons.md) |
+| Set up an alternate address for a contact. |[How to: Assign Alternative Addresses](marketing-how-assign-alternate-address.md) |
+| Describe the business relationship of a company contact. |[How to: Set Up Job Responsibilities on Contacts](marketing-job-responsibilities.md) |
+| Describe the organizational level of your contacts. |[How to: Set Up Organizational Levels for Contact Persons](marketing-organizational-levels.md) |
+| Assign mailing groups your contacts |[Assigning Mailing Groups to a Contact](marketing-mailing-groups.md) |
 
-##<a name="see-also"></a>See Also
-[Create Contact Companies](marketing-create-contact-companies.md)
+## <a name="see-also"></a>See Also
+[Creating Contact Companies](marketing-create-contact-companies.md)  
+[Creating and Managing Contacts]()  
+[Working with Dynamics NAV](ui-work-product.md)
 

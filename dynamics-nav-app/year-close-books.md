@@ -1,21 +1,24 @@
 ---
-title: Close Books
+title: Overview of the Tasks for Closing the Books
+description: Learn about the process of closing the books for a fiscal year or period, and what happens after you close at the end of a year.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ad75bfd18936df07e0fe9dcc5ed6bb94360ea965
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
+ms.date: 03/29/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d709f8bfb5da3a0ebf5b44f3246fa3ccaa69c77f
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="close-books"></a>Close Books
+# <a name="closing-the-books"></a>Closing the Books
 After you ensure that all your accounts are up-to-date, and you allocate costs and income, then you can close the books for a fiscal year or period.
 
 You are not required to close a year, but doing so will make working in the system easier for you because you will be able to take advantage of the convenient filtering options provided. You also do not have to worry about losing details of transactions when you close because all details are retained, even after you close the year.
@@ -25,14 +28,12 @@ The process for closing the book includes these main tasks:
 
 1. Closing the accounting period.
 
-    A fiscal year is defined as one or more open periods as defined in the **Accounting Periods** page. A typical fiscal year contains 12 periods of one month each, but you can also choose another method of defining a year.
+    A fiscal year is defined as one or more open periods as defined in the **Accounting Periods** window. A typical fiscal year contains 12 periods of one month each, but you can also choose another method of defining a year.
 
     For more information, see [How to: Close Accounting Periods](year-close-account-periods.md).
-
 2. Registering prior-year entries.
 
     When you close a fiscal year, you must enter a number of administrative transactions (such as prepaid and accrued items). These transactions are called adjusting entries. There are no special rules for posting these entries, and they (like other entries) contain a check mark in the **Prior-Year Entry** field if they are posted on a date in a closed fiscal year. Even though a fiscal year has been closed, you can still post general ledger entries to it.
-
 3. Transferring balances from the income statement accounts to the balance sheet.
 
     After a fiscal year has been closed and all prior-year entries have been posted, the income statement accounts must be closed and the net income for the year must be transferred to an account under owners' equity on the balance sheet. Use the Close Income Statement batch job for this purpose. The batch job processes all general ledger accounts of the type Income Statement and creates entries that reverse their balances. These entries are placed in a journal from which they can be posted. The batch job does not post them automatically, except when an additional reporting currency is used. When an additional reporting currency is used, the batch job posts directly to the general ledger.
@@ -52,5 +53,6 @@ The system then generates a closing entry, but it does not post the entry automa
 You can post in a previous fiscal year, even after the income statement accounts have been closed, if you run the Close Income Statement batch job again afterward.
 
 ## <a name="see-also"></a>See Also
-[How to: Open a New Fiscal Year](finance-setup-how-open-new-fiscal-year.md)
+[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)  
+[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

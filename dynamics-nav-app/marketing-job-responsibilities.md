@@ -1,32 +1,35 @@
 ---
-title: Set Up Job Responsibilities for Contact Persons
+title: Setting Up Job Responsibilities for Contacts
+description: You can define a job responsibility code and assign it to a contact to indicate the tasks that your contact is responsible for in their company, for example, IT or production.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f2c5fc024cc09aaa6b2478a652127463d563088d
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: task, to-do, relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 7d4481226772b902eeb1b526a291adff70372908
 ms.contentlocale: en-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="set-up-job-responsibilities-for-contact-persons"></a>Set Up Job Responsibilities for Contact Persons
+# <a name="how-to-set-up-job-responsibilities-for-contact-persons"></a>How to: Set Up Job Responsibilities for Contact Persons
 You can add information about the job responsibilities of contact persons to indicate what the contact person is responsible for within their company, for example, IT, management, or production. You can use this information when entering information about your contacts.
 
 Using job responsibilities on contacts is a two-step process. First, you define the job responsibility code. You only have to perform this step one time for each job responsibility. Once you have a job responsibility code, you can start to assign the code to contact persons.
 
-## <a name="define-a-job-responsibility-code"></a>Define a Job Responsibility Code
+## <a name="to-define-a-job-responsibility-code"></a>to define a job responsibility code
 The job responsibility code defines the type or category of the job, such a MARKETING or PURCHASE. You can have several job responsibility codes. To define the job responsibility, you use the **Job Responsibilities** window.
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Responsibilities**, and then choose the related link.
+1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Job Responsibilities**, and then choose the related link.
 2. Choose the **New** action, and fill in a code and description. The code can be a maximum of 11 characters, and can be any combination of numbers and letters.
 
-## <a name="assign-job-responsibilities-to-a-contact-person"></a>Assign Job Responsibilities to a Contact Person
+## <a name="to-assign-job-responsibilities-to-a-contact-person"></a>to assign job responsibilities to a contact person
 You cannot assign job responsibilities to contact companies.
 
 1. Open the contact person.
@@ -35,11 +38,12 @@ You cannot assign job responsibilities to contact companies.
 
 Repeat these steps to assign as many job responsibilities as you want. You can also assign job responsibilities from the contact list by following the same procedure.
 
-The number of job responsibilities you have assigned to the contact is displayed in the **No. of Job Responsibilities** field on the **Segmentation** section of the **Contact** window.
+The number of job responsibilities you have assigned to the contact is displayed in the **No. of Job Responsibilities** field in the **Segmentation** section in the **Contact** window.
 
 After you have assigned job responsibilities to your contacts, you can use this information to select contacts for your segments. For more information, see [How to: Add Contacts to Segments](marketing-add-contact-segment.md).
 
-##<a name="see-also"></a>See Also
-[Create Contact Persons](marketing-create-contact-persons.md)  
-[Create Contact Companies](marketing-create-contact-companies.md)
+## <a name="see-also"></a>See Also
+[Creating Contact Persons](marketing-create-contact-persons.md)  
+[Creating Contact Companies](marketing-create-contact-companies.md)  
+[Working with Dynamics NAV](ui-work-product.md)
 
