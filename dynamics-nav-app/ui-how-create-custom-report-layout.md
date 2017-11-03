@@ -12,10 +12,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f301bcc0ef0c8130030f3c6686a907f60bc09844
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: ee614c44a17873591916bc97bd9b2a3f33fce21b
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-create-and-modify-a-custom-report-or-document-layout"></a>How to: Create and Modify a Custom Report or Document Layout
@@ -28,7 +28,8 @@ To create a custom layout, you can either make a copy of an existing custom layo
 
 ## <a name="to-create-a-custom-layout"></a>To create a custom layout
 1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Report Layout Selection**, and then choose the related link.  
-   The **Report Layout Selection** window lists all the reports that are available in the company that is specified in the Company field at the top of the window.
+
+    The **Report Layout Selection** window lists all the reports that are available in the company that is specified in the **Company** field at the top of the window.
 2. Set the **Company** field to the company in which you want to create the report layout.
 3. Select the row for the report that you want to create the layout for, and then choose the **Custom Layouts** action.  
    The **Custom Report Layouts** window appears and lists all the custom layouts that are available for the selected report.
@@ -50,45 +51,45 @@ To modify a report layout, you must first export the report layout as a file to 
 ### <a name="to-modify-a-custom-layout"></a>To modify a custom layout
 1.  You export a custom layout from the **Custom Report Layouts** window. If this window is not already open, search for and open the **Report Layout Selection** window, select the report that has the layout that you want to modify, and then choose the **Custom Layouts** action.  
 2.  In the **Custom Report Layouts** window, select the layout that you want to modify, choose the **Export Layout** action, and then choose **Save** or **Save As** to save the report layout document to a location on your computer or network.  
-  
+
 3.  Open the report layout document that you just saved, and then make changes.
 
-      If you are changing a Word layout, open the layout document in Word. For editing details, see the next section [Making Changes to the Report Layout](ui-how-create-custom-report-layout.md#MakeChangesToLayout). 
+      If you are changing a Word layout, open the layout document in Word. For editing details, see the next section [Making Changes to the Report Layout](ui-how-create-custom-report-layout.md#MakeChangesToLayout).
 
       RDLC report layouts are more advanced than Word report layouts. For more information about modifying an RDLC report layout, see [Designing RDLC Report Layouts](https://msdn.microsoft.com/en-us/dynamics-nav/designing-rdlc-report-layouts).
 
       Remember to save you changes when done.
-  
+
 4.  Return to the **Custom Report Layouts** window, select the report layout that you exported and modified, and then choose the **Import Layout** action.  
-  
+
 5. In the **Import** dialogue box, select **Choose** to find and select the report layout document, and then choose **Open**.
 
 ##  <a name="MakeChangesToLayout"></a> Making changes to a Word report layout  
 To can make general formatting and layout changes, such as changing text font, adding and modifying a table, or removing a data field, just use the basic editing features of Word, like you do with any Word document.
 
-If you are designing a Word report layout from scratch or adding new data fields, then start by adding a table that includes rows and columns that will eventually hold the data fields. 
-  
+If you are designing a Word report layout from scratch or adding new data fields, then start by adding a table that includes rows and columns that will eventually hold the data fields.
+
 > [!TIP]  
 >  Show the table gridlines so that you see the boundaries of table cells. Remember to hide the gridlines when you are done editing. To show or hide table gridlines, select the table, and then under **Layout** on the **Table** tab, choose **View Gridlines**.  
-  
+
 ###  <a name="RemoveField"></a> Removing Label and Data Fields in Word Layouts  
  Label and data fields of a report are contained in content controls in Word. The following figure illustrates a content control when it is selected in the Word document.  
-  
+
  ![Content control for field in Word report layout](media/nav_wordreportlayouts_contentcontrol.png "NAV_WordReportLayouts_ContentControl")  
-  
+
  The name of the label or data field name displays in the content control. In the example, the field name is CompanyAddr1.  
-  
+
 ### <a name="to-remove-a-label-or-data-field"></a>To remove a label or data field  
-  
-1.  Right-click the field that you want to delete, and then choose **Remove Content Control**.  
-  
+
+1.  Right-choose the field that you want to delete, and then choose **Remove Content Control**.  
+
      The content control is removed, but the field name remains as text.  
-  
+
 2.  Delete the remaining text as needed.  
 
 ### <a name="adding-data-fields"></a>Adding data fields
 Adding data fields from a report dataset is a more advanced and requires some knowledge of the report dataset. For information about adding fields for data, labels, data, and images, see [How to: Add Fields to a Word Report Layout](ui-how-add-fields-word-report-layout.md).  
-  
+
 
 ## <a name="see-also"></a>See Also
 [Managing Report Layouts](ui-manage-report-layouts.md)  

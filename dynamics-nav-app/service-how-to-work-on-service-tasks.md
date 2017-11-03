@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 44f01241825a95d6e34ee838a36474f1dd347873
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 3e8fd9d1e56de77c54f5190d97f95faa0702908e
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-work-on-service-tasks"></a>How to: Work on Service Tasks
@@ -83,7 +83,7 @@ When you service a service item that is composed of components, you may need to 
     |**Ignore**|Does nothing to the component list of the service item.|  
   
 7. Choose **Replace Component**.  
-8. Choose the component to replace, and then choose **OK**.  
+8. Choose the component to replace, and then Choose the **OK** button.  
 
 ## <a name="to-change-the-response-time-for-a-service-item-line"></a>To change the response time for a service item line  
 When you register a service item line in a service order or quote, depending on whether the service item is on a service contract the response time in hours is automatically entered and the response date and time are calculated accordingly. You can change the response time in hours and the response date and time if you need to.  

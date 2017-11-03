@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e41e0eb6dd10127a47b2b6545d0333db700586bc
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: d83e68f31edf2dee9e3e5bc5b73a4861cfe919d7
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="exchanging-data"></a>Exchanging Data
@@ -29,7 +29,7 @@ Before you can send and receive electronic documents or import and export bank f
 |Convert sales document records in [!INCLUDE[d365fin](includes/d365fin_md.md)] to a standardized format and send them as electronic documents that your customers can receive into their system.|[How to: Send Electronic Documents](sales-how-to-send-electronic-documents.md)|  
 |Send PDF or image files to a provider of OCR services, and receive them back as electronic documents that can be converted to document records in [!INCLUDE[d365fin](includes/d365fin_md.md)].|[How to: Use OCR to Turn PDF and Image Files into Electronic Documents](across-how-use-ocr-pdf-images-files.md)|  
 |Receive electronic documents, either from the OCR service or the document exchange service, in a standardized format that you convert to the relevant document records in [!INCLUDE[d365fin](includes/d365fin_md.md)].|[How to: Receive and Convert Electronic Documents](purchasing-how-to-receive-and-convert-electronic-documents.md)|  
-|Import a bank statement file into the **Payment Reconciliation Journal** window as the first step in reconciling payments or into the **Bank Acc. Reconciliation** window as the first step in reconciling bank accounts.|[Apply Payments Automatically and Reconcile Bank Accounts]([Applying Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md)|  
+|Import a bank statement file into the **Payment Reconciliation Journal** window as the first step in reconciling payments or into the **Bank Acc. Reconciliation** window as the first step in reconciling bank accounts.|[Applying Payments Automatically and Reconciling Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md)|  
 |Export payments from the **Payment Journal** window to a bank file that you upload to your electronic bank account for processing.|[How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md)|  
 |Instruct your bank to transfer payment amounts from your customers’ bank accounts to your company’s account according to your setup of SEPA direct debit.|[How to: Create SEPA Direct Debit Collection Entries and Export to a Bank File](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)|  
 |Use a service provider of currency exchange rates to update the **Currencies** window.|[How to: Update Currency Exchange Rates](finance-how-update-currencies.md)|  

@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d5bd6388db1d72d6be0fb193a51df620e7e059c2
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: b768f78cd8ef7f6981e5e148fee5f61e9ab922ee
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-sepa-direct-debit"></a>How to: Set Up SEPA Direct Debit
@@ -38,7 +38,7 @@ Before you can process customer payments electronically by exporting direct debi
 2. Choose the **New** action.  
 3. Set up a payment method. Fill in the direct debit\-specific fields as described in the following table.  
 
-    |Field|[Description|  
+    |Field|Description|  
     |---------------------------------|---------------------------------------|  
     |**Direct Debit**|Specify if the payment method is for SEPA direct debit collection.|  
     |**Direct Debit Pmt. Terms Code**|Specify the payment terms, such as DON’T PAY, that are displayed on sales invoices that are paid with SEPA direct debit to indicate to the customer that the payment will be collected automatically. Alternatively, leave the field empty.|  
@@ -59,7 +59,7 @@ Before you can process customer payments electronically by exporting direct debi
 4. In the **Customer Bank Account List** window, select the customer bank account that will use direct debits, and then, on the **Home** tab, in the **Process** group, choose **Direct Debit Mandates**.  
 5. In the **SEPA Direct Debit Mandates** window, fill in the fields as described in the following table.  
 
-    |[Field|Description]|  
+    |Field|Description|  
     |---------------------------------|---------------------------------------|  
     |**Customer Bank Account Code**|Specifies the bank account from which direct\-debit payments are collected. This field is filled automatically.|  
     |**Valid From**|Specify the date when the direct\-debit mandate starts.|  

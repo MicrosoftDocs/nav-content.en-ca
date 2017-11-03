@@ -12,10 +12,10 @@ ms.search.keywords: change Role Center, notification, change company, change wor
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1fd559bd0bf213a745f0c567c2b2d5721071c553
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: cf5a74cea6d7906845a0e087576ab090c319f297
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="changing-basic-settings"></a>Changing Basic Settings
@@ -24,9 +24,9 @@ In the **My Settings** window, you can see and change basic settings for [!INCLU
 ## <a name="role-center"></a>Role Centre
 The Role Centre represents the Home page, a starting page that is designed for the needs of the role. On the Home page, you have an overview of the business. To the left you see a navigation bar that gives you easy access to customers, vendors, items, and so on.
 
-In the centre you find the Activities tiles. Activities show current data and can be clicked or tapped for easy access to the selected document. The Key Performance Indicators can be set up to display a selected chart for a visual representation of, for example, cash flow or income and expenses.
+In the centre you find the Activities tiles. Activities show current data and can be chooseed or tapped for easy access to the selected document. The Key Performance Indicators can be set up to display a selected chart for a visual representation of, for example, cash flow or income and expenses.
 
-You can also build up a list of Favourite Customers on the Home page for accounts that you do business with often or need to pay special attention to. Use the arrows to collapse part of the page and make more room to show specific data. At the top of the Home page you will find all of the actions that can be applied to the current content. This too can be collapsed and you only need to click or tap within the collapsed area to view it again.
+You can also build up a list of Favourite Customers on the Home page for accounts that you do business with often or need to pay special attention to. Use the arrows to collapse part of the page and make more room to show specific data. At the top of the Home page you will find all of the actions that can be applied to the current content. This too can be collapsed and you only need to choose or tap within the collapsed area to view it again.
 
 The default Role Centre is **Business Manager**, but you can select another Role Centre that fits your needs better. For more information, see [How to: Change the Role Centre](change-role.md).
 

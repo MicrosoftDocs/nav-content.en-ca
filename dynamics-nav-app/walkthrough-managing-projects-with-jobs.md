@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 613cf6d423fcefbc4b92a7f4813d665d68a3ffc7
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 75d0c1648b152717c6ceff69f37b399c8cc3ae26
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="walkthrough-managing-projects-with-jobs"></a>Walkthrough: Managing Projects with Jobs
@@ -353,7 +353,7 @@ This walkthrough focuses on CRONUS International Ltd., a design and consultancy 
      Changes are automatically entered on the line for Job Task No. 1120. In the total cost of scheduled work, five additional hours of work by Tricia has been added to the schedule.  
 
 12. Choose the **Close** button to close the window.  
-13. Right-click the amount in the **Contract (Total Cost)** field and choose **DrillDown** to view the information.  
+13. Right-choose the amount in the **Contract (Total Cost)** field and choose **DrillDown** to view the information.  
 
      In the total price for the contract, only the original contracted 30 hours are included, because this is what was agreed upon with the customer.  
 

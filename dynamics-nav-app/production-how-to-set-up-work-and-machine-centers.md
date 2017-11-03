@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/19/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fd257dc9a0b52160ccce7153505a4665552b26a7
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: ba71815bc7d099b7f600ab828dec579ddbf2265a
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-work-centers-and-machine-centers"></a>How to: Set Up Work Centres and Machine Centres
@@ -64,7 +64,7 @@ The following primarily describes how to set up a work centre. The steps to set 
     > [!NOTE]  
     > If you select to use Days then remember that 1 day = 24 hours - and not 8 (working hours).
 
-13.  In the **Capacity** field, define whether the work centre has more than one machine or person working at the same time. If your **Product Name** installation does not include the Machine Centre functionality, then the value in this field must be **1**).  
+13.  In the **Capacity** field, define whether the work centre has more than one machine or person working at the same time. If your [!INCLUDE[d365fin](includes/d365fin_md.md)] installation does not include the Machine Centre functionality, then the value in this field must be **1**.  
 14.  In the **Efficiency** field, enter the percentage of the expected standard output that this work centre actually outputs. If you enter **100**, it means that the work centre has an actual output that is the same as the standard output.  
 15. Select the **Consolidated Calendar** check box if you are also using machine centres. This ensures that calendar entries are rolled up from machine centre calendars.  
 16.  In the **Shop Calendar Code** field, select a shop calendar. For more information, see [How to: Create Shop Calendars](production-how-to-create-work-center-calendars.md).  

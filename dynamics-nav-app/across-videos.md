@@ -12,10 +12,10 @@ ms.search.keywords: video, library, how to
 ms.date: 06/02/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 25d26af01e3006fccf025d0f7c146e0bc8f501ee
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 456bdf12b9fc30e3845b83099759df1b83935d56
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="visit-our-video-library"></a>Visit Our Video Library
@@ -35,8 +35,8 @@ You can access the videos in several ways. If you're already working in [!INCLUD
 
 > [!Tip]  
 > In addition to videos, **Business Assistance** includes resources such as links to topics and assisted setup guides that make it easier to set things up. These resources replace the chart on the Role Centre. After you explore the resources, you can switch back to the chart in the **Business Assistance** menu by choosing **Show Chart**.  
-  
-You can view our "how to" videos, plus a lot of other content, on the YouTube channel we created for Microsoft Dynamics NAV. To visit the channel now, [click here](https://go.microsoft.com/fwlink/?linkid=851533).
+
+You can view our "how to" videos, plus a lot of other content, on the YouTube channel we created for [!INCLUDE[navnow](includes/navnow_md.md)]. To visit the channel now, [choose](https://go.microsoft.com/fwlink/?linkid=851533).
 
 ## <a name="see-also"></a>See Also
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] ](index.md)

@@ -12,10 +12,10 @@ ms.search.keywords: trade, sell, configure
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 300f281cc409e08a253f060e97bb9a80340176bf
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 620d8d2fcdc62249ce5bad6718519211e50cdbac
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="setting-up-sales"></a>Setting Up Sales
@@ -35,7 +35,7 @@ Finance-related sales setup, such as payment methods and currencies, are covered
 | Set up salespeople so that you can assign them to customer contacts or measure salespeople's performance as a basis for calculating the sales commission or bonus. |[How to: Set Up Salespeople](sales-how-setup-salespeople.md) |
 | Specify for individual customers or for all customers how sales documents are sent by default when you choose the **Post and Send** action. |[How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md) |
 | Set your email up to contain a summary of information in the sales document that is being sent. |[How to: Send Documents by Email](ui-how-send-documents-email.md). |
-|Use an EU web service to verify a customer's GST/HST Registration number.|[How to: Verify GST/HST Registration numbers](sales-how-to-verify-vat-registration-numbers.md)|
+|Use an EU web service to verify a customer's GST/HST Registration number.|[How to: Verify GST/HST Registration numbers](finance-setup-vat.md)|
 |Enter information about the different transportation vendors you use, including a link to their package tracking service.|[How to: Set Up Shipping Agents](sales-how-to-set-up-shipping-agents.md)|
 
 ## <a name="see-also"></a>See Also

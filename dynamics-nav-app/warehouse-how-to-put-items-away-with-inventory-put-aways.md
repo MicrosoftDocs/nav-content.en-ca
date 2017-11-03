@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/31/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 38d24e04398467c43592f47412662b6895fe915e
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: b42ac71b23a173d5bd3a9e3f1a99b9ac5379e286
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-put-items-away-with-inventory-put-aways"></a>How to: Put Items Away with Inventory Put-aways
@@ -44,7 +44,7 @@ When the warehouse request is created, a warehouse employee assigned to putting 
 
 ## <a name="to-create-an-inventory-put-away-based-on-the-source-document"></a>To create an inventory put-away based on the source document
 Now that the request is created, the warehouse employee can create a new inventory put-away based on the released source document.   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Inventory Put-away**, and then select the related link.  
+1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Inventory Put-away**, and then choose the related link.  
 2. Choose the **New** action.  
 3. In the **Source Document** field, select the type of source document you are putting away for.  
 4. In the **Source No.** field, select the source document.  

@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 05/12/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9666627da75d88a5f7cf467b9e7cdaeba67c75cf
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 1c197576564f4fe88a92d06c43e2b237f6836aa1
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-view-test-reports-before-posting"></a>How to: View Test Reports Before Posting
@@ -24,7 +24,7 @@ When you are ready to post a document, such as an order, invoice, or a credit me
 >   The following procedure is about testing before posting a purchase document. The functionality works in the same way for sales documents.
 
 ## <a name="to-print-a-test-report-before-posting-a-purchase-invoice"></a>To print a test report before posting a purchase invoice
-1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchase Invoices**, and then select the related link.
+1. Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchase Invoices**, and then choose the related link.
 2. Open the purchase invoice that you want to test.
 3. Choose the **Test Report** action.  
 

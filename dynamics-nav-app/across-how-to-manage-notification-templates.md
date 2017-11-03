@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8dee7a54cb086ffa8259f6523733b964ee2c080a
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 4180eeabe2e81aabcfc54642e656fc8ef37157a7
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-manage-notification-templates"></a>How to: Manage Notification Templates
@@ -43,7 +43,7 @@ Notifications are sent to workflow users to notify them about steps they must ma
 2.  In the **Notification Templates** window, select the notification template that you want to modify.  
 3.  Choose the **Export Template Content** action.  
 4.  In the **Export File** window, choose the **Save** button, and then name and save the HTML file in an appropriate location.  
-5.  Right-click the file, choose **Open with**, and then choose the relevant program.  
+5.  Right-choose the file, choose **Open with**, and then choose the relevant program.  
 
     > [!NOTE]  
     >  Content for notification templates of type Email are in HTML format. Content for notification templates of type Note are in TXT format.  
