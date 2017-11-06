@@ -34,6 +34,4 @@ The GetAddress.io UK Postcodes extension can save time and prevent mistakes when
 >   If you know the street number, you can filter the addresses by entering some or all of the number in the **Delivery Point** field.
 
 
-## <a name="see-also"></a>See Also
-[Set up the GetAddress.io UK Postal Code extension](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
 

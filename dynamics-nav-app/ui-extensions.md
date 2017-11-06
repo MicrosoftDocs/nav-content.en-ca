@@ -65,10 +65,10 @@ Microsoft provides the following extensions:
 
 ## <a name="see-also"></a>See Also
 [How to: Enable Customer Payment Through PayPal](sales-how-enable-payment-service-extensions.md)  
-[Migrate Business Data from Other Finance Systems](upload-data.md)  
-[Set up the GetAddress.io UK Postal Code extension](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  
+[Migrate Business Data from Other Finance Systems](upload-data.md)    
 [[!INCLUDE[d365fin](includes/d365fin_md.md)] Extensions by Other Providers](ui-extensions-other.md)  
 [Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 
 ##
+
 
