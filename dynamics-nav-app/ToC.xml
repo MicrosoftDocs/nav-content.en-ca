@@ -381,8 +381,5 @@
   </Node>
   <Node Name="" DisplayName="Local Functionality" Page="index.html">
     <Node Name="" DisplayName="Canada" Page="LocalFunctionality/Canada/canada-local-functionality.html"/>
-    <Node Name="" DisplayName="Denmark" Page="LocalFunctionality/Denmark/denmark-local-functionality.html"/>
-    <Node Name="" DisplayName="United Kingdom" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
-    <Node Name="" DisplayName="United States" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
   </Node>
 </Node>
