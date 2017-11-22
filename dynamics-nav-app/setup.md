@@ -57,5 +57,3 @@ Some areas require you to be an administrator in your [!INCLUDE[d365fin](include
 [Setup and Administration in [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-##
-
