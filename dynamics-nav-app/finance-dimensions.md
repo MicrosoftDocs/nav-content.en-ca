@@ -3,7 +3,7 @@ title: Work with Dimensions
 description: You use dimensions to categorize entries, for example, by department or project, so you can easily track and analyse data.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: analysis, history, track
 ms.date: 06/14/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f312a30686566cc5bf123b473c0d2b93d0fadd89
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 95d8c0ddd8b12c2da7949b7ffbc9722edbc70d4e
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="working-with-dimensions"></a><span data-ttu-id="1bd67-103">Working with Dimensions</span><span class="sxs-lookup"><span data-stu-id="1bd67-103">Working with Dimensions</span></span>

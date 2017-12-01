@@ -3,7 +3,7 @@ title: How to Plan Picks in Worksheets
 description: If your warehouse is set up to require both pick and shipment processing, the warehouse can choose to operate so that the lines on shipment documents are not automatically transformed into pick instructions, but are made available instead to the pick worksheet.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9483eda38a9db7cd50d7167b45d0c6b6d21ace8c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 78ff3326a2b15d8314a745bce729aae8939633cf
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-plan-picks-in-worksheets"></a><span data-ttu-id="d482a-103">How to: Plan Picks in Worksheets</span><span class="sxs-lookup"><span data-stu-id="d482a-103">How to: Plan Picks in Worksheets</span></span>

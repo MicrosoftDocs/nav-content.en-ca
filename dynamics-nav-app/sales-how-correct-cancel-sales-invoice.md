@@ -3,7 +3,7 @@ title: Correct or Cancel a Posted Sales Invoice
 description: Describes how to correct, undo, or cancel a posted sales invoice and apply a sales credit memo.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: undo, credit memo, return
 ms.date: 08/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: dcf67c1506b402c725cb98795d37c206abcca57e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 72f197a4830e0a255feb0a59f2a22a2b6cffac2f
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-correct-or-cancel-unpaid-sales-invoices"></a><span data-ttu-id="9d48b-103">How to: Correct or Cancel Unpaid Sales Invoices</span><span class="sxs-lookup"><span data-stu-id="9d48b-103">How to: Correct or Cancel Unpaid Sales Invoices</span></span>

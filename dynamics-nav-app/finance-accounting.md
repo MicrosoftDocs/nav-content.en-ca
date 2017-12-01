@@ -2,7 +2,7 @@
 title: Dynamics NAV accountant experience
 description: Learn about the accountant portal for Dynamics NAV and the Accountant Role Centre that supports internal and external accountants in the client company.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: accountant, accounting, financial report
 ms.date: 09/05/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 19738a07dcd90c7788e164ad908721e9165dd9d2
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fa89303d29a79ef4b073322ad17375ea052d5d8e
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="accountant-experiences-in-included365finlongincludesd365finlongmdmd"></a><span data-ttu-id="2e908-103">Accountant Experiences in [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</span><span class="sxs-lookup"><span data-stu-id="2e908-103">Accountant Experiences in [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</span></span>

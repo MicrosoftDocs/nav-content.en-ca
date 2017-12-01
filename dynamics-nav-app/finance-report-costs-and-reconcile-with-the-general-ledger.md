@@ -3,7 +3,7 @@ title: Reporting Costs and Reconcile with the General Ledger
 description: At the end of accounting periods, monthly, yearly or other, a sequence of cost control and auditing tasks must be performed to report a correct and balanced inventory value to the finance department. Apart from the posting routine that transfers the individual item value entries to dedicated general ledger accounts, several reports, tracing functions, and a special reconciliation tool are available to the auditor or controller responsible for this business-critical work.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e65d9613e3d0c71528649d9c69811bf0c6eb086e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 410e8b7cf6955509718b7cd653f31789c516a82f
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="reporting-costs-and-reconciling-with-the-general-ledger"></a><span data-ttu-id="a82c8-104">Reporting Costs and Reconciling with the General Ledger</span><span class="sxs-lookup"><span data-stu-id="a82c8-104">Reporting Costs and Reconciling with the General Ledger</span></span>

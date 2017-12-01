@@ -3,7 +3,7 @@ title: How to Set Up Locations to Use Bins
 description: Bins represent the basic warehouse structure and are used to make suggestions about the placement of items. When you have created your bins, you can define very specifically the contents that you want to place in each bin, or the bin can function as a floating bin without specified contents.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 95b36b6eed79da868c1e41905110788c90f24829
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f2cf364e7fe2f2892cc08650492890569e106622
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-locations-to-use-bins"></a><span data-ttu-id="02cb6-104">How to: Set Up Locations to Use Bins</span><span class="sxs-lookup"><span data-stu-id="02cb6-104">How to: Set Up Locations to Use Bins</span></span>

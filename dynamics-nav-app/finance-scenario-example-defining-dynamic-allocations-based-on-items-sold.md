@@ -3,7 +3,7 @@ title: Scenario Example - Defining Dynamic Allocations Based on Items Sold
 description: "This topic shows an example of how to define allocations by using the dynamic allocation method. In the example, you change the dynamic allocation of the costs for the SALES cost centre to support the new cost object IT EQUIPMENT. IT EQUIPMENT packages have item numbers in the range from 8904-W to 8924-W. You use the previous year’s sales figures to calculate the share. The allocation is posted to the helping cost type 9903."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 0d892099be95d52546d98bf17705df2b19f764c7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 32310933bb8eb483bd30270802c8943c55423a2f
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="scenario-example-defining-dynamic-allocations-based-on-items-sold"></a><span data-ttu-id="ebc67-107">Scenario Example: Defining Dynamic Allocations Based on Items Sold</span><span class="sxs-lookup"><span data-stu-id="ebc67-107">Scenario Example: Defining Dynamic Allocations Based on Items Sold</span></span>

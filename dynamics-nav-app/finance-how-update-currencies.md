@@ -3,7 +3,7 @@ title: Updating Currency Exchange Rates
 description: To use multiple currencies in your business, you can set up a code for each currency and use an external exchange rate service, such as Yahoo.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: multiple currencies, Yahoo
 ms.date: 07/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 50603747629eee61f9bdaed900dcfc0dfc96ab3b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1155cf87596a68f1d48fd7dd63c4e41824d36992
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-update-currency-exchange-rates"></a><span data-ttu-id="198fe-103">How to: Update Currency Exchange Rates</span><span class="sxs-lookup"><span data-stu-id="198fe-103">How to: Update Currency Exchange Rates</span></span>

@@ -2,7 +2,7 @@
 title: How to Manage Customer Credit Information
 description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can add comments to customer credit information. You can also hold and block customers with bad credit before shipping or invoicing occurs.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/11/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3e2fbee902fcdced0648cf4b76ce06d32ed69982
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 283a995221217d37a892efb9b6f6643c0657093f
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-manage-customer-credit-information"></a><span data-ttu-id="42d13-104">How to: Manage Customer Credit Information</span><span class="sxs-lookup"><span data-stu-id="42d13-104">How to: Manage Customer Credit Information</span></span>

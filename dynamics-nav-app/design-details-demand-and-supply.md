@@ -3,7 +3,7 @@ title: Design Details - Demand and Supply
 description: Demand is the common term used for any kind of gross demand, such as a sales order and component need from a production order. In addition, the program allows more technical types of demand, such as negative inventory and purchase returns.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 933b5518e81edb07acb84f79b19bae6c20966c16
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 193848aa36fe4331775dc3d80f8e1ee0e6c4b997
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-demand-and-supply"></a><span data-ttu-id="0992f-104">Design Details: Demand and Supply</span><span class="sxs-lookup"><span data-stu-id="0992f-104">Design Details: Demand and Supply</span></span>

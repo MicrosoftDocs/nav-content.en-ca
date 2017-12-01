@@ -3,7 +3,7 @@ title: How to Set Up Shop Calendars
 description: "A work centre calendar specifies the working days and hours, shifts, holidays, and absences that determine the work centre’s gross available capacity, measured in time, according to its defined efficiency and capacity values. Creating and enabling a work centre calendar involves several preparatory tasks."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/14/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 59131cdded4bf854aed02a7d835e8160342adb36
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8039167587f1656f6dd430490cb5970d83e8d6a6
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-shop-calendars"></a><span data-ttu-id="ddd2f-104">How to: Set Up Shop Calendars</span><span class="sxs-lookup"><span data-stu-id="ddd2f-104">How to: Set Up Shop Calendars</span></span>

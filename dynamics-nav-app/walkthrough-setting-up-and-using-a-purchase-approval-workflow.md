@@ -3,7 +3,7 @@ title: Walkthrough - Setting Up and Using a Purchase Approval Workflow
 description: "You can automate the process of approving new or changed records, such as documents, journal lines, and customer cards, by creating workflows with steps for the approvals in question. Before you create approval workflows, you must set up an approver and substitute approver for each approval user. You can also set approvers’ amount limits to define which sales and purchase records they are qualified to approve. Approval requests and other notifications can be sent as email or internal note. For each approval user setup, you can also set up when they receive notifications."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b4498e8f32349d37d0f9efadfb1bbcf6000e3e7f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 731e50503839535e8cd0c1882ee6d99dc7e560ea
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-setting-up-and-using-a-purchase-approval-workflow"></a><span data-ttu-id="d789f-107">Walkthrough: Setting Up and Using a Purchase Approval Workflow</span><span class="sxs-lookup"><span data-stu-id="d789f-107">Walkthrough: Setting Up and Using a Purchase Approval Workflow</span></span>

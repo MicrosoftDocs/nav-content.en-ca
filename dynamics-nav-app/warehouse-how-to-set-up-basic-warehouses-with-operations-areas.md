@@ -3,7 +3,7 @@ title: How to Set Up Basic Warehouses with Operations Areas
 description: If internal operation areas such as production or assembly exist in basic warehouse configurations where locations use the **Bin Mandatory** setup field and possibly the **Require Pick** and **Require Put-away** setup fields, then you use three basic warehouse documents to record your warehouse activities for internal operation areas.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d141fcb9f5357355272f6a34d71b88f50129985b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 30b4f824925255ca3afa6ddb831aef45884c85da
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-basic-warehouses-with-operations-areas"></a><span data-ttu-id="80a94-103">How to: Set Up Basic Warehouses with Operations Areas</span><span class="sxs-lookup"><span data-stu-id="80a94-103">How to: Set Up Basic Warehouses with Operations Areas</span></span>

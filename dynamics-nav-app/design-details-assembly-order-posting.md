@@ -3,7 +3,7 @@ title: Design Details - Assembly Order Posting
 description: Assembly order posting is based on the same principles as when posting the similar activities of sales orders and production consumption/output. However, the principles are combined in that assembly orders have their own posting UI, like that for sales orders, while the actual entry posting happens in the background as direct item and resource journal postings, like that for production consumption, output, and capacity.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8a8cd33e4ec0a044565fbce821de4034c7da74a5
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ed71853b5a35dde157f7f90d6ddfc11afa663497
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-assembly-order-posting"></a><span data-ttu-id="c5a4a-104">Design Details: Assembly Order Posting</span><span class="sxs-lookup"><span data-stu-id="c5a4a-104">Design Details: Assembly Order Posting</span></span>

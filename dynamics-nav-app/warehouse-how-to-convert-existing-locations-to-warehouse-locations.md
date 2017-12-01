@@ -3,7 +3,7 @@ title: How to Convert Existing Locations to Warehouse Locations
 description: You can enable an existing inventory location to use zones and bins and to operate as a warehouse location.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 16f1d8ac06c39361ee00e8c7514a282ad4d709e5
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9c07809b67badc58d5c1215011a6b9afefba5d56
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-convert-existing-locations-to-warehouse-locations"></a><span data-ttu-id="ca651-103">How to: Convert Existing Locations to Warehouse Locations</span><span class="sxs-lookup"><span data-stu-id="ca651-103">How to: Convert Existing Locations to Warehouse Locations</span></span>

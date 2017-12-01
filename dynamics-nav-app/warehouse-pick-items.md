@@ -3,7 +3,7 @@ title: Pick Items
 description: The warehouse activity of picking items before they are shipped or consumed is performed in different ways, depending on how warehouse management features are configured. The [setup](../configure-warehouse-processes.md) complexity can rank from no warehouse features, through basic warehouse configurations for order-by-order handling in one or more activities only, to advanced configurations where all warehouse activities must be performed in a directed workflow.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a00a6b2740bb55352dfbe8e6ac4fd3d72870608e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e0af0180045cd166c065c264bbdf66e5a9d33d0b
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="pick-items"></a><span data-ttu-id="d5447-104">Pick Items</span><span class="sxs-lookup"><span data-stu-id="d5447-104">Pick Items</span></span>

@@ -3,7 +3,7 @@ title: Business Process Walkthroughs
 description: This selection of walkthroughs provides step-by-step, end-to-end business processes that you can perform using the CRONUS International Ltd. demonstration company. The walkthroughs consist of multiple procedures, some of which would normally be performed by one user, while others incorporate several different user roles. In order to simulate the working environment, some of the walkthroughs contain setup steps necessary to complete the exercises as described. These steps can provide insight into the kind of information users need to share with their company's IT professionals.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9f919af2c738c0fef2d9333bf04126cc614ebd48
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 29c4f4647c2ddd6aad079f006cdbe4bf480c2e9c
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="business-process-walkthroughs"></a><span data-ttu-id="a2d14-106">Business Process Walkthroughs</span><span class="sxs-lookup"><span data-stu-id="a2d14-106">Business Process Walkthroughs</span></span>

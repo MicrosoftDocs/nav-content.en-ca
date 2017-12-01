@@ -3,7 +3,7 @@ title: Change the Role Centre
 description: You can select a different profile in Dynamics NAV to change what you see on your Home page.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: Profile
 ms.date: 06/02/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d624848883cb684feeae164443b797fcea616911
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 85b68fa3af4189d6703c17e28be31506f24be41b
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-change-the-role-center"></a><span data-ttu-id="7b371-103">How to: Change the Role Centre</span><span class="sxs-lookup"><span data-stu-id="7b371-103">How to: Change the Role Center</span></span>

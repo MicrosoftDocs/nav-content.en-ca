@@ -2,7 +2,7 @@
 title: Setting Up Tax Groups, Areas, and Jurisdictions in Canada
 description: Learn about how sales tax is set up, and how tax groups, tax areas (states, counties, cities, and localities), tax jurisdictions, and tax details work.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: local
 ms.date: 03/29/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: d53e8792481d97d35247f49726a886efc38337f5
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9467cb9adde7d63d7f0bbf346437ed739dce9b21
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="reporting-sales-tax-in-canada"></a><span data-ttu-id="fa030-103">Reporting Sales Tax in Canada</span><span class="sxs-lookup"><span data-stu-id="fa030-103">Reporting Sales Tax in Canada</span></span>

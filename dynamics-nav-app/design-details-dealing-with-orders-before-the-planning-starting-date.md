@@ -3,7 +3,7 @@ title: Design Details - Dealing with Orders Before the Planning Starting Date
 description: This topic describes the rules that planning applies to orders in the frozen zone.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: planning, frozen, design serial, lot
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: be20503b92b92448eceb1f388649d9f4022836ca
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9b15856d89be0c0fba18381cea730a8a388986a3
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-dealing-with-orders-before-the-planning-starting-date"></a><span data-ttu-id="f9596-103">Design Details: Dealing with Orders Before the Planning Starting Date</span><span class="sxs-lookup"><span data-stu-id="f9596-103">Design Details: Dealing with Orders Before the Planning Starting Date</span></span>

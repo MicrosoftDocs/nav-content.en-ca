@@ -2,7 +2,7 @@
 title: Sales Tax in Canada
 description: Learn about local sales tax and goods and services tax in Canada.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: sales tax, local
 ms.date: 08/11/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6af495928129acab451a0af9f03c68f55955e6ea
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 771bfd61cd782fd30fe5e0ae5144e4faa31a8b1c
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="reporting-sales-tax-and-goodsservices-tax-in-canada"></a><span data-ttu-id="be6ed-103">Reporting Sales Tax and Goods/Services Tax in Canada</span><span class="sxs-lookup"><span data-stu-id="be6ed-103">Reporting Sales Tax and Goods/Services Tax in Canada</span></span>

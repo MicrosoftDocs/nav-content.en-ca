@@ -3,7 +3,7 @@ title: How to Work on Service Tasks
 description: After you have created a service order or service quote, registered service item lines, and allocated resources to the service items in the order or quote, you can start repairing and maintaining the service items.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 3e8fd9d1e56de77c54f5190d97f95faa0702908e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5ad936ce7af986ca9a9fdb7d401bb742235ee091
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-work-on-service-tasks"></a><span data-ttu-id="99cf3-103">How to: Work on Service Tasks</span><span class="sxs-lookup"><span data-stu-id="99cf3-103">How to: Work on Service Tasks</span></span>

@@ -3,7 +3,7 @@ title: How to Ship Items
 description: Depending on your warehouse configuration, you can either record shipment on the related outbound business document, such as a sales order,  directly, or you can use warehouse shipment documents that respect a workflow and integrate to various warehouse activities.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 121f1e32d1fa265d4e059dc0ee43fad22f732472
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3cb3b22f91d9816c8391b4563811d7a48fb6aa88
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-ship-items"></a><span data-ttu-id="11256-103">How to: Ship Items</span><span class="sxs-lookup"><span data-stu-id="11256-103">How to: Ship Items</span></span>

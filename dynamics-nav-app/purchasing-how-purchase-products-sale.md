@@ -3,7 +3,7 @@ title: Create a Purchase Invoice from a Sales Invoice to Buy Items for a Sale
 description: From a sales invoice, to purchase products, you can create a purchase invoice for a vendor or supplier.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: supply planning, sales demand, replenish
 ms.date: 05/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a6380570c9fb2bc5880bf531b4311fbf6e9cf4ec
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0ba1fa771a0853c2a2cabe4d368cc09902496b01
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-purchase-items-for-a-sale"></a><span data-ttu-id="25134-103">How to: Purchase Items for a Sale</span><span class="sxs-lookup"><span data-stu-id="25134-103">How to: Purchase Items for a Sale</span></span>

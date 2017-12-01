@@ -3,7 +3,7 @@ title: Approve or Reject Documents in Workflows
 description: Request, reject, or delegate an approval of, for example, a purchase or sales document, as part of a workflow.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: reject, delegate, request
 ms.date: 08/24/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: b0cd3c6c2465c29d5e4710ae2ef13e3f42522245
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 04ca711a6ede36d7c0593adebf505842f2406af4
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-use-approval-workflows"></a><span data-ttu-id="1430a-103">How to: Use Approval Workflows</span><span class="sxs-lookup"><span data-stu-id="1430a-103">How to: Use Approval Workflows</span></span>

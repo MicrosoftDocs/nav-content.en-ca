@@ -3,7 +3,7 @@ title: Walkthrough - Conducting a Sales Campaign
 description: A campaign is any kind of activity that involves several contacts. An important part of setting up a campaign involves selecting the target audience for your campaign. For this purpose, in [!INCLUDE[d365fin](includes/d365fin_md.md)], you create a segment, or a group of contacts using filters.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0bd960274639500ee47a63bba5c20e85691cb8c1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 691da3b1b79cc198863f66e36e19a7c5fd0b6e7a
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-conducting-a-sales-campaign"></a><span data-ttu-id="0d2b7-105">Walkthrough: Conducting a Sales Campaign</span><span class="sxs-lookup"><span data-stu-id="0d2b7-105">Walkthrough: Conducting a Sales Campaign</span></span>

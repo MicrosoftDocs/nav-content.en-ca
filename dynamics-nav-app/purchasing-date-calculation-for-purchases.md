@@ -3,7 +3,7 @@ title: Date Calculation for Purchases
 description: The program automatically calculates the date on which you must order an item to have it in inventory on a certain date. This is the date on which you can expect items ordered on a particular date to be available for picking.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/10/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3f3f87311f0971b2901852a9aa0c766c6c806190
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8c10146b10534bc09a43608588292f5e83849e79
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="date-calculation-for-purchases"></a><span data-ttu-id="dedec-104">Date Calculation for Purchases</span><span class="sxs-lookup"><span data-stu-id="dedec-104">Date Calculation for Purchases</span></span>

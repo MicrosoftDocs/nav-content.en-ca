@@ -3,7 +3,7 @@ title: Using Dynamics NAV with Outlook
 description: Dynamics NAV has deep integration with Office 365 enabling you to manage all your business interactions and mail with customers and vendors directly in Outlook.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 832f07d5419f9dbb02059bd412563e2087c9b791
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1be769e798ee1bc7c65b21dbf45287c0bfdf9ba1
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="using-dynamics-nav-as-your-business-inbox-in-outlook"></a><span data-ttu-id="1e7fd-103">Using Dynamics NAV as your Business Inbox in Outlook</span><span class="sxs-lookup"><span data-stu-id="1e7fd-103">Using Dynamics NAV as your Business Inbox in Outlook</span></span>

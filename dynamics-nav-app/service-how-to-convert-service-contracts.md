@@ -2,7 +2,7 @@
 title: How to Convert Service Contracts
 description: Because the VAT rate change tool cannot convert service contracts, these contracts must be converted manually. This topic describes several alternative methods that you can use for service contract conversion.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2ae15fef88b10072a5c1dffa8e2673fe9413dd27
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fc17686ed96f43d63b75878bfb66bcb743065846
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-convert-service-contracts-that-include-vat-amounts"></a><span data-ttu-id="17c23-104">How to: Convert Service Contracts that Include Tax Amounts</span><span class="sxs-lookup"><span data-stu-id="17c23-104">How to: Convert Service Contracts that Include VAT Amounts</span></span>

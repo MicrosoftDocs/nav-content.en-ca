@@ -3,7 +3,7 @@ title: Importing Payroll or Salary Data Using the Ceridian Payroll Extension
 description: Use this extension to import payroll transactions from the Ceridian HR/Payroll (US) and Ceridian PowerPay (Canada) services.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms. search.keywords: app, add-in, manifest, customize, salary, wage
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8c8fb0e19f0acaaa86f912a166661ae9307fd941
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fa09e3618712b1a3e158d8027eb51bcb8cb0333d
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="the-ceridian-payroll-extension-to-dynamics-nav"></a><span data-ttu-id="8008c-103">The Ceridian Payroll Extension to Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="8008c-103">The Ceridian Payroll Extension to Dynamics NAV</span></span>

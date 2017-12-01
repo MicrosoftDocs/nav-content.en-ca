@@ -3,7 +3,7 @@ title: Set Up and Manage a Budget for a Job
 description: Describes how to plan resources and forecast and control the costs of a project by setting up a budget for each job.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: project budget, forecast
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 69ac2811e90985f49739ef3e5df020f136112654
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 67874a8d10a975818d1c0d94d5e178259a5c5782
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-manage-job-budgets"></a><span data-ttu-id="b0eb7-103">How to: Manage Job Budgets</span><span class="sxs-lookup"><span data-stu-id="b0eb7-103">How to: Manage Job Budgets</span></span>

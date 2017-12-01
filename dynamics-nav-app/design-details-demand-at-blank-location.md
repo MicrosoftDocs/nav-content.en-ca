@@ -3,7 +3,7 @@ title: Design Details - Demand and Supply
 description: This topic introduces the concept of demand, which is the common term used for any kind of gross demand, such as a sales order and component need from a production order.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, demand, supply, inventory, planning
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d744b55835f5553e249a536e0fca0eb0046fda7b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 02ed5d4d144e3c56f3e7e1a0bac212da777b8dd3
 ms.contentlocale: en-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-demand-and-supply"></a><span data-ttu-id="f7972-103">Design Details: Demand and Supply</span><span class="sxs-lookup"><span data-stu-id="f7972-103">Design Details: Demand and Supply</span></span>
