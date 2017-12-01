@@ -3,7 +3,7 @@ title: Design Details - Lot-for-Lot
 description: Learn how to use the lot-for-lot policy to settle order quantity based on demand.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

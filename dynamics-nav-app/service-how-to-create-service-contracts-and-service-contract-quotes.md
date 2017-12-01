@@ -3,7 +3,7 @@ title: How to Work with Service Contracts and Service Contract Quotes
 description: You can create a service contract either manually or from a service contract quote. You can create a contract based on a service contract quote.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

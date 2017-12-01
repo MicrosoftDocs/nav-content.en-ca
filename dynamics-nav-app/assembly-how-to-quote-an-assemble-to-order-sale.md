@@ -3,7 +3,7 @@ title: How to Quote an Assemble-to-Order Sale
 description: "You can use assembly management to customize an assembly item to a customer’s request during the sales process."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

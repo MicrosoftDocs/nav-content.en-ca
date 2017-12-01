@@ -3,7 +3,7 @@ title: Set Up Special and Alternate Pricing and Discounts for Vendors '
 description: You can define different or alternate prices and discount agreements and apply them to purchase documents for vendors.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

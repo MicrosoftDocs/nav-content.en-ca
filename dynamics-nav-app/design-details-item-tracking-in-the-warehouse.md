@@ -3,7 +3,7 @@ title: Design Details - Item Tracking Availability
 description: This topic discusses how to make sure that the people who process orders can rely on the availability of serial or lot numbers.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

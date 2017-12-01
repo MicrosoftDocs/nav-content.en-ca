@@ -3,7 +3,7 @@ title: Set Up FA Depreciation
 description: You specify in a depreciation book how you want fixed assets to be depreciated or written-down.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

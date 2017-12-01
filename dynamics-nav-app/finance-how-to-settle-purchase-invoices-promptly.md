@@ -3,7 +3,7 @@ title: How to Settle Purchase Invoices Promptly
 description: If you need to pay the vendor by cash or cheque, you can have the necessary posting done when you post the invoice.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: How to Combine Receipts
 description: If you want to invoice more than one purchase receipt at a time, you can use the Combine Receipts function.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

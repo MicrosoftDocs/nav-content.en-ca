@@ -3,7 +3,7 @@ title: Process Incoming Documents
 description: To record an external document, such as a PDF,  in Dynamics NAV, you first create or complete an incoming document record.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Review a Test Report Before Posting a Sales or Purchase Document
 description: Before you post a document, for example, an order or a credit memo, you can test and review it to check for errors that might block posting.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

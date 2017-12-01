@@ -3,7 +3,7 @@ title: Design Details - Item Application
 description: This topic describes where inventory quantity and value are recorded when you post an inventory transaction.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

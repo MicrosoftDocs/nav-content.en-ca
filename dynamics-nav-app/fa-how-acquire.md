@@ -3,7 +3,7 @@ title: Acquire Fixed Assets
 description: "You can set up a fixed asset, assign a depreciation book, and record the fixed asset’s acquisition cost."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

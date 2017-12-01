@@ -3,7 +3,7 @@ title: Accounting for Costs
 description: Cost accounting is used to help you understand the costs of running a business. To get started with cost accounting, see the following topics.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

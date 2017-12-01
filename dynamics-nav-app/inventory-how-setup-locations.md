@@ -3,7 +3,7 @@ title: Set Up a Location Card and Define Transfer Routes
 description: You create a location card for each place you store inventory items, for example, a warehouse or distribution centre, and set up routes to transfer items between locations.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

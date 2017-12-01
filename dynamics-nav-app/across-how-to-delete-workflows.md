@@ -3,7 +3,7 @@ title: How to Delete Workflows
 description: If you are certain that a workflow is no longer being used, you can delete it. All workflow step instances that are defined in the workflow must have status **Completed**.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

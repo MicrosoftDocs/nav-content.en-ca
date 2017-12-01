@@ -3,7 +3,7 @@ title: How to Set Up Standard Tasks for Operations
 description: You can enter descriptions of standard tasks.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

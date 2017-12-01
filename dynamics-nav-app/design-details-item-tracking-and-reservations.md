@@ -3,7 +3,7 @@ title: Design Details - Item Tracking and Reservations
 description: This topic talks about item tracking and reservations, and describes the concepts behind the two.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

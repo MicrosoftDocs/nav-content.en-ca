@@ -3,7 +3,7 @@ title: Set Up Opportunity Sales Cycles and Cycle Stages
 description: Describes how to define sales stages, from initial contact to closing, to create a sales cycle and assign it to opportunities in Dynamics NAV.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

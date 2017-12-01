@@ -2,7 +2,7 @@
 title: Field Mapping When Importing SEPA CAMT Files
 description: In European markets, you can import bank statement files in the regional SEPA standards (Single Euro Payments Area).
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

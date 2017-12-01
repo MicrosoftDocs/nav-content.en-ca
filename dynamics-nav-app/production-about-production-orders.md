@@ -3,7 +3,7 @@ title: About Production Orders
 description: Production orders are used to manage the conversion of purchased materials into manufactured items. Production orders (job or work orders) route work through various facilities (work or machine centres) on the shop floor.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

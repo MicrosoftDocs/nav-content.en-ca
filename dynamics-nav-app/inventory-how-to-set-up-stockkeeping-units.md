@@ -3,7 +3,7 @@ title: How to Set Up Stockkeeping Units
 description: You can use stockkeeping units to record information about your items for a specific location or a specific variant code.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,12 +18,12 @@ ms.contentlocale: en-ca
 ms.lasthandoff: 10/16/2017
 
 ---
-# How to: Set Up Stockkeeping Units
+# <a name="how-to-set-up-stockkeeping-units"></a>How to: Set Up Stockkeeping Units
 You can use stockkeeping units to record information about your items for a specific location or a specific variant code.  
 
  Stockkeeping units are a supplement to item cards. They do not replace them, although they are related to them. Stockkeeping units allow you to differentiate information about an item for a specific location, such as a warehouse or distribution centre, or a specific variant, such as different shelf numbers and different replenishment information, for the same item.  
 
-## To set up a stockkeeping unit  
+## <a name="to-set-up-a-stockkeeping-unit"></a>To set up a stockkeeping unit  
 
 1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Stockkeeping Units**, and then choose the related link.  
 2.  Choose the **New** action.  
@@ -36,7 +36,7 @@ To create several stockkeeping units for an item, use the **Create Stockkeeping 
 > [!NOTE]  
 >  The information on the **Stockkeeping Unit** card has priority over the **Item** card.  
 
-## See Also  
+## <a name="see-also"></a>See Also  
 [How to: Register New Items](inventory-how-register-new-items.md)  
 [Setting Up Warehouse Management](warehouse-setup-warehouse.md)  
 [Warehouse Management](warehouse-manage-warehouse.md)  

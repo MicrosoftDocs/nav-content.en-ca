@@ -3,7 +3,7 @@ title: Ways to Troubleshoot or Work Around Issues with Self-Service Sign-Up
 description: Learn about the most common reasons why you may not be able to complete the signup to Dynamics NAV, and ways to work around them.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

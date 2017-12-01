@@ -3,7 +3,7 @@ title: Job Tasks using Resources and Time Sheets
 description: Outlines how to use resources, time sheets, and jobs to manage projects.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

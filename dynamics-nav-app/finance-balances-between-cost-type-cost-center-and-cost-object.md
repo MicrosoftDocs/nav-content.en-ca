@@ -3,7 +3,7 @@ title: Balances Between Cost Type, Cost centre, and Cost Object
 description: When you set up cost accounting, you must make sure that all entries are assigned to a cost type as well as a cost centre or a cost object. The means that each cost entry must have a cost type assigned and a cost centre code or a cost object assigned. This rule ensures that each cost entry appears in either the cost centres or the cost objects, but never in both places.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

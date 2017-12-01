@@ -3,7 +3,7 @@ title: How to Cross-Dock Items
 description: Cross-docking functionality is available to you if you have set up your location to require warehouse receive and put-away processing.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

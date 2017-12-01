@@ -3,7 +3,7 @@ title: Create a Sales Order and Sell Products
 description: Describes how to create a sales order to record your agreement with a customer to sell or trade products under specific terms.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Setting Up Job Responsibilities for Contacts
 description: You can define a job responsibility code and assign it to a contact to indicate the tasks that your contact is responsible for in their company, for example, IT or production.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

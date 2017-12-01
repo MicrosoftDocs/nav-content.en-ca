@@ -3,7 +3,7 @@ title: Approve or Reject Documents in Workflows
 description: Request, reject, or delegate an approval of, for example, a purchase or sales document, as part of a workflow.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

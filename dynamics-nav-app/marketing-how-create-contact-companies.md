@@ -3,7 +3,7 @@ title: Create Contact Companies
 description: Describes how to create a contact for each new company or prospective company you interact with or have a relationship with.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

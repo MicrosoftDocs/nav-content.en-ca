@@ -3,7 +3,7 @@ title: How to Link from Records to External Information or Programs
 description: Attach a hyperlink to a document or website to a specific record, such as a customer or document.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Selling Dynamics NAV
 description: Find out how you can expand your business opportunities and become a Microsoft partner and Dynamics NAV reseller.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

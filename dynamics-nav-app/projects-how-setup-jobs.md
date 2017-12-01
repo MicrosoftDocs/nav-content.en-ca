@@ -3,7 +3,7 @@ title: Set Up Jobs Prices and Job Posting Groups
 description: Describes how to set up general jobs information, and set up prices for job items, resources, and G/L accounts and jobs posting groups.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

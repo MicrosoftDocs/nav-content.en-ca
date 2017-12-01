@@ -3,7 +3,7 @@ title: Create a Job Card for a Job and Specify Tasks'
 description: For a new project, you create a job card that contains job tasks and planning lines, to help you manage progress and budgets.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

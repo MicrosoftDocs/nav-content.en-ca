@@ -3,7 +3,7 @@ title: Create a Vendor Card to Register a New Vendor
 description: Learn how to create a vendor card to register a new vendor or supplier.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

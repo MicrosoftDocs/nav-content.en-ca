@@ -3,7 +3,7 @@ title: Set Up Time Sheets and Their Approval
 description: You set up time sheets to track the time used on jobs and using resources, helping you with project management, staffing, and capacity
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Work With Smart Notifications and Specify When You See Them
 description: You can receive notifications that inform you about status changes or events, for example, an overdue balance or low inventory.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

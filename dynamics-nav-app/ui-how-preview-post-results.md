@@ -3,7 +3,7 @@ title: Preview Entries Before You Post a Document or Journal
 description: You can make sure that entries for documents and journals are accurate before you post them to the general ledger.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: How to work With Tax on Sales and Purchases
 description: This topic describes how perform tasks such as correcting posted VAT. In EU countries/regions, every sales and purchase transaction is subject to VAT calculations. This topic describes how.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

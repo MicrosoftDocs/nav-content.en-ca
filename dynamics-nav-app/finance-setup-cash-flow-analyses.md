@@ -3,7 +3,7 @@ title: Setting up Cash Flow Analysis
 description: Set up the charts on the Accounts Role Centre to help analyse the flow of money in your business, including expenses and income, liquidity, and cash receipts minus cash payments.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Manage FA Budgets
 description: You set up information about future investments, disposals, and depreciation of fixed assets to help prepare budgets and forecasts.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

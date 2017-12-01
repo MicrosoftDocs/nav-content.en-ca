@@ -3,7 +3,7 @@ title: Create New Value Entries for Items in the Inventory
 description: Describes how to appreciate or depreciate the value entries of one or more items in the inventory by posting their current, calculated value.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

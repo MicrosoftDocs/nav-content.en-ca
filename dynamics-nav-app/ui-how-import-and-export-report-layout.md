@@ -3,7 +3,7 @@ title: Importing and Exporting a Report and Document Layout
 description: You can import and export an existing custom report layout as a file to and from a location on your computer and network.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

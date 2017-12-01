@@ -3,7 +3,7 @@ title: Issue, Print, Cancel, and Void Cheques
 description: Describes how to issue cheques using the payment journal, print cheques, and void or view cheque ledger entries in Dynamics NAV.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

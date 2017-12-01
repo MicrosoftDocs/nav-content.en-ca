@@ -3,7 +3,7 @@ title: How to Create Prepayment Invoices
 description: Learn how to handle situations where you require prepayment, or your vendor does.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

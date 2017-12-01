@@ -2,7 +2,7 @@
 title: Define how data is exchanged electronically
 description: You can use an external provider of OCR services to have PDF or image files turned into electronic documents.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

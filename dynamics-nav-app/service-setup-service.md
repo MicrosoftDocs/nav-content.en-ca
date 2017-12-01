@@ -3,7 +3,7 @@ title: Setting Up Service Management
 description: Overview of tasks to set up Service Management to suit the way that your organizations manages its services.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

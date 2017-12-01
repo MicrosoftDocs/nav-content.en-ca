@@ -3,7 +3,7 @@ title: Setting Up Unrealized Value Added Tax
 description: If you're using cash-based accounting, you can specify how to handle unrealized tax for sales and purchases.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

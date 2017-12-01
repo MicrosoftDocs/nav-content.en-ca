@@ -3,7 +3,7 @@ title: Manage Interactions With Your Contacts
 description: You can manage all types of communication or interactions between your company and your contacts, for example, letters, phone calls, meetings, and so on.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

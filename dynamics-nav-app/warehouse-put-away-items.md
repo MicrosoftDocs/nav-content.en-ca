@@ -3,7 +3,7 @@ title: Put Items Away
 description: The warehouse activity of putting items away after they are received or output is performed in different ways depending on how warehouse management features are configured.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

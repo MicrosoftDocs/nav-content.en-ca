@@ -3,7 +3,7 @@ title: Payment Tolerance and Payment Discount Tolerance
 description: You can set up payment tolerance to close an invoice when the payment does not fully cover the amount on the invoice.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Change the Role Centre
 description: You can select a different profile in Dynamics NAV to change what you see on your Home page.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

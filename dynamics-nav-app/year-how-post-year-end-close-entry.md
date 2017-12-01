@@ -3,7 +3,7 @@ title: Review and Post the Year-End Closing Entry
 description: Describes how to open the journal you specified in the Close Income Statement batch job, and then review and post the year-end closing entry.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

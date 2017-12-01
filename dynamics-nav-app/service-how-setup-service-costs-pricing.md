@@ -3,7 +3,7 @@ title: Set Up Pricing and Costs for Services
 description: Learn how to set up prices and additional costs for services.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

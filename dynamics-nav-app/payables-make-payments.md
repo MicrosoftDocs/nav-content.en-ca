@@ -3,7 +3,7 @@ title: Overview of Tasks to Manage Payments to Vendors
 description: Outlines tasks to manage payments to vendors or creditors, including posting payment lines and getting an overview of the balance due.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

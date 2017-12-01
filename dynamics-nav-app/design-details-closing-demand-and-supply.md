@@ -3,7 +3,7 @@ title: Design Details - Closing Demand and Supply
 description: This topic provides a suggestion for what to do after you perform supply balancing procedures.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

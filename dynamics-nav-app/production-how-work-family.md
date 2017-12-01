@@ -3,7 +3,7 @@ title: How to Use Item Families in Manufacturing
 description: The main task in customizing a base calendar for your company, or one of its business partners, is to enter any changes to working and nonworking day status.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

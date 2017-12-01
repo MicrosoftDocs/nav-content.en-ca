@@ -3,7 +3,7 @@ title: Close Income Statement Accounts
 description: At year closing, you must run the Close Income Statement batch job to close the accounting periods that make up the fiscal year.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Set Up Complex Application Areas Using Best Practices
 description: Entering the correct setup values from the start is important to the success of any new business software.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

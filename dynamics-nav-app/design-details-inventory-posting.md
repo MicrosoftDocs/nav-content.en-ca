@@ -3,7 +3,7 @@ title: Design Details - Inventory Posting
 description: Each inventory transaction, such as a purchase receipt or a sales shipment, posts two entries of different types.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Manage Bank Accounts
 description: You must regularly reconcile bank ledger entries in Dynamics NAV with the related bank transactions in your bank accounts.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

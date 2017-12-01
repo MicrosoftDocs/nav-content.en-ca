@@ -2,7 +2,7 @@
 title: How to Print Troubleshooting Reports
 description: The following troubleshooting reports are available to assist Microsoft Certified Partners with troubleshooting issues.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

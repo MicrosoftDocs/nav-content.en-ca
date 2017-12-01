@@ -2,7 +2,7 @@
 title: How to Enter Data in Fields
 description: There are many general functions that help you enter data  in a quick and easy way. The general functions for entering data are described in this topic.
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Design Details - Order
 description: This topic provides information about order-to-order links in a make-to-order environment.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

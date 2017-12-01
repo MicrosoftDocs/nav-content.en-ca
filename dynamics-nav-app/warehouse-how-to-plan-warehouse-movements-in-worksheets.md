@@ -3,7 +3,7 @@ title: How to Plan Warehouse Movements in Worksheets
 description: Plan movements in the worksheet using a bin replenishment function or manually planning the lines that you want to create as movement instructions.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

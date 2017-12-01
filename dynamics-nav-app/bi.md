@@ -3,7 +3,7 @@ title: Business Intelligence
 description: Capture and analyse business data, such as sales figures, purchases, operational expenses, employee salaries, and budgets, that can be valuable information for business intelligence or for decision making.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

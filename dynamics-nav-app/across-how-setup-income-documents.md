@@ -3,7 +3,7 @@ title: Set Up Incoming Documents
 description: Use the Incoming Documents feature to create electronic documents, manage OCR tasks, import invoices, and convert image files.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

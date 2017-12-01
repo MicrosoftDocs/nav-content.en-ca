@@ -3,7 +3,7 @@ title: Set Up Organizational Levels for Contact Persons
 description: You can define an organizational level and assign it to your contact to indicate the position they have in their company, for example, top management.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

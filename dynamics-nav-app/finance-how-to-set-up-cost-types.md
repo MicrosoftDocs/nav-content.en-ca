@@ -3,7 +3,7 @@ title: How to Set Up a Chart of Cost Types
 description: Chart of cost types are similar to the chart of accounts in the general ledger.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

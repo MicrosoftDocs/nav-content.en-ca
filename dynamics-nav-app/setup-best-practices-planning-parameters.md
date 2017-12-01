@@ -2,7 +2,7 @@
 title: Setup Best Practices - Planning Parameters
 description: "The **Planning** FastTab on the item card is the centre of a company’s supply chain. Setting the correct planning parameters is very important for cost-effective inventory control and high customer service."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

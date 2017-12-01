@@ -3,7 +3,7 @@ title: Manage Customers Using Dynamics 365 for Sales
 description: You can use Dynamics 365 for Sales from inside Dynamics NAV to map data and have seamless integration and synchronization in the lead-to-cash process.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

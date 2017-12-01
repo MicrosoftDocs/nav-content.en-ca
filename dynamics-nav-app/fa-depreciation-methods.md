@@ -3,7 +3,7 @@ title: Depreciation Methods
 description: Learn about the different methods to depreciate or write-down fixed assets.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

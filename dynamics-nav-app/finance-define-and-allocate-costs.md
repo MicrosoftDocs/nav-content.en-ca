@@ -3,7 +3,7 @@ title: Defining and Allocating Costs
 description: Cost allocations move costs and revenues between cost types, cost centres, and cost objects. You can define as many allocations as you need.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

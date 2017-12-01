@@ -3,7 +3,7 @@ title: Searching Data and Entering Filter Criteria
 description: Describes how to work with filters, such as the Quick Filter, to refine the results you get when you search for data.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

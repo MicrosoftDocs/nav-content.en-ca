@@ -3,7 +3,7 @@ title: Overview of Reports to Help Prepare Closing Statements
 description: Provides an overview of the reports you can use to gather information to prepare your company's closing statements when closing the fiscal year.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

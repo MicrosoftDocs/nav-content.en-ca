@@ -3,7 +3,7 @@ title: Specify the Layout of a Cheque
 description: You can design and print your checks in different formats to conform with standards.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

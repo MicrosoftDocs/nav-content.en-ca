@@ -3,7 +3,7 @@ title: Fields Required to Complete Processes
 description: Learn about fields marked with a red asterisk, which indicates that they are required and must be filled in to complete a processes.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

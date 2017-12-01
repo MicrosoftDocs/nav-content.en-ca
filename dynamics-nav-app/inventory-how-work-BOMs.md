@@ -3,7 +3,7 @@ title: Work with Bills of Material to Manage Components
 description: You create an assembly BOM or production BOM to specify the components or resources required to put together the item that the BOM represents.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

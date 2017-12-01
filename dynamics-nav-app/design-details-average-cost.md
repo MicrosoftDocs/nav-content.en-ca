@@ -2,7 +2,7 @@
 title: Design Details - Average Cost
 description: The average cost of an item is calculated with a periodic weighted average, based on the average cost period that is set up in Dynamics NAV.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

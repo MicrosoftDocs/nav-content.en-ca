@@ -3,7 +3,7 @@ title: Create Interactions on Contacts and Segments
 description: Describes how to create interactions for communication that you have with your contacts and segments in Dynamics NAV, for example, direct mail.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

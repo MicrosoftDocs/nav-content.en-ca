@@ -3,7 +3,7 @@ title: Linking Contacts With Customers and Vendors
 description: Describes how to link a contact with a customer, vendor, or bank account from the same company, so that you can synchronize common data.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: 'How to: Create Number Series '
 description: Learn how to set up number series that assign unique ID codes to accounts and documents in Dynamics NAV.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

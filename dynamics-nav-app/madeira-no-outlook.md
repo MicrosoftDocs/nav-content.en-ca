@@ -3,7 +3,7 @@ title: Using Dynamics NAV without Outlook
 description: You can use Dynamics NAV as your business inbox in Outlook because it is integrated with Office 365, however, you can also work without Outlook in a browser or on your mobile device.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

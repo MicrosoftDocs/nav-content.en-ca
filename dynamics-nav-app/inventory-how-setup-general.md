@@ -3,7 +3,7 @@ title: Define the General Inventory Setup
 description: Describes how to define the general inventory setup, such as number series and locations, so that you can, for example, manage your warehouse and stock.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

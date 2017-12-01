@@ -3,7 +3,7 @@ title: Adjust the Amount of Detail You See in Lists
 description: You can display lists in detailed views that provide more information, or as tiles that are easy to visually scan.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

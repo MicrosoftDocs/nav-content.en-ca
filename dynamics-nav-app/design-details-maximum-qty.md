@@ -3,7 +3,7 @@ title: Design Details - Maximum Qty.
 description: The Maximum Quantity policy is a way to maintain inventory using a reorder point.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

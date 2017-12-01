@@ -3,7 +3,7 @@ title: Set Up Document-Specific Content and Attachments for Email Messages
 description: You can define content to insert into the body of an email message, for example, a PayPal link. You can also attach documents to email messages.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

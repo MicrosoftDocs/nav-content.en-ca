@@ -3,7 +3,7 @@ title: Posting Group Setup
 description: Overview of the posting groups you can use to save time and avoid mistakes when you post transactions.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

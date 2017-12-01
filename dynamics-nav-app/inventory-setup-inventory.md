@@ -3,7 +3,7 @@ title: Setting Up Inventory
 description: Describes how to set up your stock and inventory processes, including transfer routes and locations, such as warehouses.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Service Management
 description: Learn to use features designed to support repair shop and field service operations.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

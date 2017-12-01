@@ -3,7 +3,7 @@ title: Add Extra Lines to Define Extended Text for an Item Description
 description: You can add extra lines to extend the standard text that describes an item.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

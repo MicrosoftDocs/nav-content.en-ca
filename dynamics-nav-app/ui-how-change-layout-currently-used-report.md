@@ -3,7 +3,7 @@ title: Change the Way a Report Looks by Selecting a Different Layout
 description: You can use different layouts for a report, and switch between layouts to change how a report looks.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

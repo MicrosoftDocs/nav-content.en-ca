@@ -3,7 +3,7 @@ title: Set Up Item Attributes and Assign Them to Items
 description: Describes how to set up item attribute values, for example, that can be used as search words, and assign them to items and item categories.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Design Details - Planning Assignment Table
 description: This topic provides insight into what happens when you change how you plan for an item.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

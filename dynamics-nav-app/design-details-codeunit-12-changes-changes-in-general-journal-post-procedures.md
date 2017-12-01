@@ -3,7 +3,7 @@ title: Design Details - Codeunit 12 Changes in General Journal Post Procedures
 description: The following changes have been implemented in this release of [!INCLUDE[d365fin](includes/d365fin_md.md)].
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: 'How to: Use Allocation Keys in General Journals '
 description: Learn how you can use allocation keys in journals.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

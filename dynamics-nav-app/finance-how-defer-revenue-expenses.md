@@ -3,7 +3,7 @@ title: Defer Revenues and Expenses
 description: To recognize revenues and expenses in periods other than the period in which the transaction was posted, you can automatically defer or postpone them over a specified schedule.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

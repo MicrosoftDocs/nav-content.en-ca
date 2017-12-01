@@ -3,7 +3,7 @@ title: Set Up Troubleshooting Processes
 description: Learn how to set up processes that help service representatives identify and resolve issues with service items.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

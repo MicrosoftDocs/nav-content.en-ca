@@ -3,7 +3,7 @@ title: Overview of Tasks to Configure Sales Processes
 description: Outlines tasks to set up rules and values to define your sales policies and processes.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

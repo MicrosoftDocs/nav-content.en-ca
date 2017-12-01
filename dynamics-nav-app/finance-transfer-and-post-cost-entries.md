@@ -3,7 +3,7 @@ title: Transferring and Posting Cost Entries
 description: Before you define cost allocations, you must understand where cost entries come from.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Using the Quickbooks Payroll File Import Extension
 description: Describes how to use the extension to import salary and wage transactions from the Quickbooks Payroll service.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

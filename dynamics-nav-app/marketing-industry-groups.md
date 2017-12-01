@@ -3,7 +3,7 @@ title: Set Up Industry Groups for Contact Companies
 description: Describes how to define an industry group and assign it to a contact company, for example, the retail industry or the automobile industry.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Define the Contacts in a Segment
 description: After you have created a segment, you can add contacts to the segment, for example, as part of a marketing campaign targeting particular customers or clients.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

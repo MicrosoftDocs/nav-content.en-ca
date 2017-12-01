@@ -3,7 +3,7 @@ title: Scheduling a Report to Run at a Specific Date and Time
 description: Learn about entering a report into a job queue and scheduling it to be processed at a specific date and time.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: About Setting Up Value-Added Tax
 description: Make sure that you correctly calculate, post, and report on tax for sales and purchases.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

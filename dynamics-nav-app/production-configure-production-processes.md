@@ -3,7 +3,7 @@ title: Configure Production Processes
 description: To convert material into produced end items, production resources, such as bills of material, routings, machine operators, and machinery must be set up in the system.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

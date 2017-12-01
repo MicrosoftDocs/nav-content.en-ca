@@ -3,7 +3,7 @@ title: Use Dynamics NAV on Your Mobile Device
 description: You can view and edit your Dynamics NAV data on your phone or tablet.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

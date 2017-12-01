@@ -3,7 +3,7 @@ title: Setting Up Suggested Field Values
 description: To avoid manual calculations and complete tasks quickly and accurately, you can set up automatic data entry so that Dynamics NAV fills in selected fields.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

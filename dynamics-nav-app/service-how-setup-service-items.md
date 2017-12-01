@@ -3,7 +3,7 @@ title: Overview of Setups for Service Items and Service Item Components
 description: Learn about the things you must set up before you can use service items, including default values such as response time, contract discount percent, and service price group.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Using the PayPal Payments Standard Extension
 description: Describes how to use the extension to enable customers to make payments with PayPal.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

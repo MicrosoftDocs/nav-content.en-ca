@@ -3,7 +3,7 @@ title: Create Analysis Reports
 description: Describes how to create new analysis reports for sales, purchases, and inventory, and set up analysis templates.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

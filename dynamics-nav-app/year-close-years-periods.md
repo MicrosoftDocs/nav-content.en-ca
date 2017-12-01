@@ -3,7 +3,7 @@ title: Overview of Tasks to Close a Fiscal Year and Accounting Periods
 description: Outlines the tasks to close a fiscal year or accounting period, for example, making sure documents and journals are posted and verifying bank balances.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

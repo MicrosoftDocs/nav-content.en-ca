@@ -3,7 +3,7 @@ title: Arranging Data Using the Sorting Function
 description: You can use the sorting function to get an overview of your data. For example, you can sort customers by Currency Code to get a select sample of customers.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

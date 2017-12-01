@@ -3,7 +3,7 @@ title: Set Up Automatic Recording of Interactions
 description: You can automatically record your customer or client interactions, for example, for sales, purchase and service documents or phone calls.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

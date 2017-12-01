@@ -3,7 +3,7 @@ title: How to Replan or Refresh Production Orders Directly
 description: The production order lines contain the items that are to be produced in the production order.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

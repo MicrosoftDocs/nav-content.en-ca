@@ -3,7 +3,7 @@ title: Specify Coloured Indicators to Customize Visual Signals About a Cue's Act
 description: As an administrator, you can set up Cues that appear on the users' Role Centres to include an indicator that changes colour based on the data values in the Cues.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

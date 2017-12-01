@@ -3,7 +3,7 @@ title: Analysing Cash Flows
 description: Describes how to use the Cash Cycle, Income & Expense, Cash Flow, and Cash Flow Forecast charts to analyze the past and future flow of money in and out of your company.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

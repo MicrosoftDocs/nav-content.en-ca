@@ -3,7 +3,7 @@ title: Create Contact Persons
 description: Describes how to create a contact card for each new person or prospect you interact with or have a business relationship with.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

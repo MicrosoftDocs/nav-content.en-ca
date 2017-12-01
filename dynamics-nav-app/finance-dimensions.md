@@ -3,7 +3,7 @@ title: Work with Dimensions
 description: You use dimensions to categorize entries, for example, by department or project, so you can easily track and analyse data.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

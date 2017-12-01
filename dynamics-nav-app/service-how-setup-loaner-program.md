@@ -3,7 +3,7 @@ title: How to Set Up Loaners
 description: You can set up loaners that you can lend to customers to replace service items while they are in service.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

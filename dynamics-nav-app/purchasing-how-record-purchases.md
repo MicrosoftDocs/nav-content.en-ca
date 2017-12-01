@@ -3,7 +3,7 @@ title: Create a Purchase Invoice and Record Purchases
 description: Describes how to purchase inventory and service items by creating and posting purchase invoices or orders.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

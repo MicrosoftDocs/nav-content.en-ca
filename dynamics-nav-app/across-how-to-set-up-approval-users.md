@@ -3,7 +3,7 @@ title: How to Set Up Approval Users
 description: Before you can create workflows that involve approval steps, you must set up the workflow users who are involved in approval processes. In the Approval User Setup window, you also set amount limits for specific types of requests and define substitute approvers to whom approval requests are delegated when the original approver is absent.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

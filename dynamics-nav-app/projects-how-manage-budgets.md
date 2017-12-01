@@ -3,7 +3,7 @@ title: Set Up and Manage a Budget for a Job
 description: Describes how to plan resources and forecast and control the costs of a project by setting up a budget for each job.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

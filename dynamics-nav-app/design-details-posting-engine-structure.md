@@ -3,7 +3,7 @@ title: Design Details - Posting Engine Structure
 description: Posting interface and some other functions in codeunit 12 use posting engine functions to prepare and insert general ledger entry and tax entry records. The posting engine is also responsible for general ledger register creation.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
