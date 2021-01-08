@@ -6,7 +6,7 @@
       "docset_name": "dynamics-nav-app",
       "build_source_folder": "dynamics-nav-app",
       "build_output_subfolder": "dynamics-nav-app",
-      "locale": "en-ca",
+      "locale": "en-CA",
       "monikers": [],
       "open_to_public_contributors": false,
       "type_mapping": {
@@ -30,7 +30,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.en-ca",
+      "url": "https://github.com/Microsoft/templates.docs.msft.en-CA",
       "branch": "master",
       "branch_mapping": {}
     },
